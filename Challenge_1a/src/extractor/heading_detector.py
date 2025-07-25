@@ -1,44 +1,147 @@
-from collections import Counter
+import re
+from collections import Counter, defaultdict
+
+NUMERIC_PREFIX = re.compile(r"^\d+\.$")
 
 def cluster_font_sizes(font_sizes, precision=1):
-    rounded = [round(size, precision) for size in font_sizes]
+    rounded = [round(sz, precision) for sz in font_sizes]
     counts = Counter(rounded)
-    sorted_sizes = sorted(counts.items(), key=lambda x: (-x[0], -x[1]))
-    return [size for size, _ in sorted_sizes]
+    ordered = sorted(counts.items(), key=lambda x: (-x[0], -x[1]))
+    return [size for size, _ in ordered]
+
+def is_poster(pages_data):
+    if len(pages_data) > 1:
+        return False
+    lines = [it for pg in pages_data for it in pg]
+    avg_font = sum(it["font_size"] for it in lines) / max(1, len(lines))
+    short_lines = [it for it in lines if len(it["text"].split()) <= 6]
+    return avg_font >= 20 or len(short_lines) / len(lines) > 0.8
 
 def detect_headings(pages_data):
-    font_sizes = [item["font_size"] for page in pages_data for item in page]
-    clusters = cluster_font_sizes(font_sizes)
-
+    all_sizes = [item["font_size"] for pg in pages_data for item in pg]
+    clusters = cluster_font_sizes(all_sizes)
     if not clusters:
         return "Untitled", []
 
     title_font = clusters[0]
-    heading_fonts = clusters[1:]
+    heading_fonts = clusters[1:5]
 
     title = None
+    first_page = pages_data[0]
+    title_cands = [it for it in first_page if it["font_size"] == title_font]
+    if title_cands:
+        title = min(title_cands, key=lambda it: it["y"])["text"]
+
+    # Poster-style: apply keyword + relaxed logic
+    if is_poster(pages_data):
+        print("[INFO] Poster-style document detected. Using relaxed heading rules.")
+        return detect_headings_poster(pages_data, heading_fonts, title)
+
+    # Normal document: strict heading detection
+    print("[INFO] Multi-page document detected. Using strict heading detection.")
+    return detect_headings_strict(pages_data, heading_fonts, title)
+
+# --- Strict version (for structured documents like file02) ---
+def detect_headings_strict(pages_data, heading_fonts, title):
+    BIN = 5
+    buckets = defaultdict(list)
+    for pg in pages_data:
+        for it in pg:
+            sz = it["font_size"]
+            if sz not in heading_fonts:
+                continue
+            lvl = heading_fonts.index(sz) + 1
+            yb = int((it["y"] + BIN / 2) // BIN) * BIN
+            buckets[(it["page"], lvl, yb)].append(it)
+
     outline = []
-    seen_headings = set()
+    seen = set()
+    for (pg, lvl, yb) in sorted(buckets):
+        spans = sorted(buckets[(pg, lvl, yb)], key=lambda it: it["x"])
+        text = " ".join(it["text"] for it in spans).strip()
+        if len(text) < 3 or (pg, text) in seen:
+            continue
+        if len(text.split()) > 12 or text.endswith((".", ":", ";")):
+            continue
+        outline.append({
+            "level": f"H{lvl}",
+            "text": text,
+            "page": pg,
+            "font_size": heading_fonts[lvl - 1]
+        })
+        seen.add((pg, text))
+    return title or "Untitled", outline
 
-    for page_index, page in enumerate(pages_data):
-        for item in page:
-            text = item["text"]
-            font_size = item["font_size"]
-            page_number = item["page"]
-            y = item["y"]
-            is_bold = item.get("bold", False)
-            is_caps = item.get("caps", False)
+# --- Poster version (file05): keep OCR + keyword classification logic ---
+def detect_headings_poster(pages_data, heading_fonts, title):
+    import re
+    from collections import defaultdict
 
-            if page_index == 0 and font_size == title_font and not title and y < 200:
-                title = text
+    KEYWORD_RULES = {
+        "date_time": re.compile(r"(date|time|am|pm|july|saturday|sunday)", re.I),
+        "address":   re.compile(r"(address|parkway|forge|street|road)", re.I),
+        "rsvp":      re.compile(r"(rsvp|contact|call|phone|email|text)", re.I),
+        "website":   re.compile(r"(www\.|\.com|topjump)", re.I),
+        "waiver":    re.compile(r"(waiver|fill out|form|visit)", re.I),
+        "dress_code":re.compile(r"(shoes|required|dress code|wear)", re.I)
+    }
 
-            if font_size in heading_fonts and len(text) < 80:
-                level_idx = heading_fonts.index(font_size) + 1
-                level_idx = min(level_idx, 6)  # Cap to H6
-                level = f"H{level_idx}"
-                key = (text, level, page_number)
-                if key not in seen_headings:
-                    outline.append({"level": level, "text": text, "page": page_number})
-                    seen_headings.add(key)
+    def classify(text):
+        for label, regex in KEYWORD_RULES.items():
+            if regex.search(text):
+                return label
+        return None
+
+    BIN = 5
+    grouped = defaultdict(list)
+    for pg in pages_data:
+        for it in pg:
+            yb = int((it["y"] + BIN/2) // BIN) * BIN
+            grouped[(it["page"], it["font_size"], yb)].append(it)
+
+    outline = []
+    seen = set()
+
+    for (pg, sz, yb) in sorted(grouped):
+        spans = sorted(grouped[(pg, sz, yb)], key=lambda it: it["x"])
+        text = " ".join(it["text"] for it in spans).strip()
+        if not text or (pg, text) in seen:
+            continue
+
+        # classify or fallback to font-size based
+        category = classify(text)
+        if category:
+            level = {
+                "date_time": "H2",
+                "address":   "H3",
+                "rsvp":      "H4",
+                "website":   "H4",
+                "waiver":    "H4",
+                "dress_code":"H4"
+            }[category]
+        elif sz in heading_fonts:
+            level = f"H{heading_fonts.index(sz) + 1}"
+        else:
+            continue
+
+        if len(text) < 3 or len(text.split()) > 20:
+            continue
+
+        outline.append({
+            "level": level,
+            "text":  text,
+            "page":  pg,
+            "font_size": sz,
+            "_y":    yb      # temporary for sorting
+        })
+        seen.add((pg, text))
+
+    # --- NEW: sort by page, then by vertical position ---
+    outline.sort(key=lambda it: (it["page"], it["_y"]))
+
+    # remove the helper field before returning
+    for it in outline:
+        del it["_y"]
 
     return title or "Untitled", outline
+
