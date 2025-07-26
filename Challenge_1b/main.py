@@ -15,10 +15,10 @@ def process_collection(collection_path, output_path):
     pdf_folder = os.path.join(collection_path, "PDFs")
 
     if not os.path.exists(input_json) or not os.path.exists(pdf_folder):
-        print(f"⚠️  Skipping {collection_path} — input.json or PDFs folder missing.")
+        print(f"⚠️  Skipping {collection_path} — challenge1b_input.json or PDFs folder missing.")
         return
 
-    print(f"📂 Processing: {collection_path}")
+    print(f"\n📂 Processing: {collection_path}")
     with open(input_json, "r", encoding="utf-8") as f:
         instructions = json.load(f)
 
@@ -35,7 +35,10 @@ def process_collection(collection_path, output_path):
 
     summarized_chunks = summarize_chunks(filtered_chunks, persona_text, task_text)
 
-    final_json = build_json(instructions, summarized_chunks)
+    # ✅ NEW: collect filenames
+    filenames = [f for f in os.listdir(pdf_folder) if f.endswith(".pdf")]
+
+    final_json = build_json(instructions, summarized_chunks, filenames)
 
     os.makedirs(output_path, exist_ok=True)
     output_file = os.path.join(output_path, "challenge1b_output.json")

@@ -1,0 +1,138 @@
+{
+  "metadata": {
+    "input_documents": [
+      "Learn Acrobat - Export_1.pdf",
+      "Learn Acrobat - Request e-signatures_1.pdf",
+      "Learn Acrobat - Export_2.pdf",
+      "Learn Acrobat - Create and Convert_1.pdf",
+      "Learn Acrobat - Generative AI_1.pdf",
+      "The Ultimate PDF Sharing Checklist.pdf",
+      "Learn Acrobat - Request e-signatures_2.pdf",
+      "Learn Acrobat - Fill and Sign.pdf",
+      "Learn Acrobat - Edit_1.pdf",
+      "Learn Acrobat - Share_1.pdf",
+      "Test Your Acrobat Exporting Skills.pdf",
+      "Learn Acrobat - Share_2.pdf",
+      "Learn Acrobat - Generative AI_2.pdf",
+      "Learn Acrobat - Edit_2.pdf",
+      "Learn Acrobat - Create and Convert_2.pdf"
+    ],
+    "persona": "HR professional",
+    "job_to_be_done": "Create and manage fillable forms for onboarding and compliance.",
+    "processing_timestamp": "2025-07-26T13:50:36.361446"
+  },
+  "extracted_sections": [
+    {
+      "document": "Learn Acrobat - Generative AI_2.pdf",
+      "section_title": "You can manage the deployment of Acrobat AI Assistant through the Adobe Admin Co",
+      "importance_rank": 1,
+      "page_number": 18
+    },
+    {
+      "document": "Learn Acrobat - Export_1.pdf",
+      "section_title": "You can export a PDF to PostScript for printing and prepress applications",
+      "importance_rank": 2,
+      "page_number": 20
+    },
+    {
+      "document": "Learn Acrobat - Request e-signatures_1.pdf",
+      "section_title": "Adobe Acrobat supports a range of solutions for electronic and digital signature",
+      "importance_rank": 3,
+      "page_number": 19
+    },
+    {
+      "document": "Learn Acrobat - Request e-signatures_1.pdf",
+      "section_title": "The timestamp",
+      "importance_rank": 4,
+      "page_number": 24
+    },
+    {
+      "document": "Learn Acrobat - Create and Convert_1.pdf",
+      "section_title": "You can create PDFs from documents printed on paper, Microsoft Word documents, I",
+      "importance_rank": 5,
+      "page_number": 2
+    },
+    {
+      "document": "Learn Acrobat - Create and Convert_1.pdf",
+      "section_title": "For convenience, you can select one of the conversion presets available in Acrob",
+      "importance_rank": 6,
+      "page_number": 6
+    },
+    {
+      "document": "Learn Acrobat - Generative AI_1.pdf",
+      "section_title": "Do not use generative AI features to seek legal, medical, financial, or other ki",
+      "importance_rank": 7,
+      "page_number": 3
+    },
+    {
+      "document": "Learn Acrobat - Request e-signatures_2.pdf",
+      "section_title": "Acrobat and Acrobat Reader support XML data signatures that are used to sign dat",
+      "importance_rank": 8,
+      "page_number": 10
+    },
+    {
+      "document": "Learn Acrobat - Fill and Sign.pdf",
+      "section_title": "Flat forms: These do not have interactive fields",
+      "importance_rank": 9,
+      "page_number": 2
+    },
+    {
+      "document": "Learn Acrobat - Fill and Sign.pdf",
+      "section_title": "You can change a flat form to a fillable form by either using the Prepare Form t",
+      "importance_rank": 10,
+      "page_number": 12
+    }
+  ],
+  "subsection_analysis": [
+    {
+      "document": "Learn Acrobat - Generative AI_2.pdf",
+      "refined_text": "You can manage the deployment of Acrobat AI Assistant through the Adobe Admin Console. You can choose to either select the users to assign or create. product profiles and assign users to the profiles",
+      "page_number": 18
+    },
+    {
+      "document": "Learn Acrobat - Export_1.pdf",
+      "refined_text": "You can export a PDF to PostScript for printing and prepress applications. includes full DSC (Document Structuring Conventions) comments and other advanced. You can also create an EPS file from any PDF",
+      "page_number": 20
+    },
+    {
+      "document": "Learn Acrobat - Request e-signatures_1.pdf",
+      "refined_text": "Adobe Acrobat supports a range of solutions for electronic and digital signatures. Acrobat lets you create. These",
+      "page_number": 19
+    },
+    {
+      "document": "Learn Acrobat - Request e-signatures_1.pdf",
+      "refined_text": "capability and native support for long-term validation of signatures (introduced in Acrobat. 9.1) is in compliance with Part 4 of the PAdES standard. The timestamp",
+      "page_number": 24
+    },
+    {
+      "document": "Learn Acrobat - Create and Convert_1.pdf",
+      "refined_text": "You can create PDFs from documents printed on paper, Microsoft Word documents, InDesign®. files, digital images, and more. Diﬀerent types of sources have diﬀerent tools available for PDF",
+      "page_number": 2
+    },
+    {
+      "document": "Learn Acrobat - Create and Convert_1.pdf",
+      "refined_text": "also create, define, save, and reuse custom presets that are uniquely suited to your purposes.. For convenience, you can select one of the conversion presets available in Acrobat. You can",
+      "page_number": 6
+    },
+    {
+      "document": "Learn Acrobat - Generative AI_1.pdf",
+      "refined_text": "advice provided by a qualified professional and do not form any such relationship (for. professional advice or any opinions, judgments, or recommendations without conducting. Do not use generative AI features to seek legal, medical, financial, or other kinds of",
+      "page_number": 3
+    },
+    {
+      "document": "Learn Acrobat - Request e-signatures_2.pdf",
+      "refined_text": "Acrobat and Acrobat Reader support XML data signatures that are used to sign data in XML. Forms Architectures (XFA) forms. clearing instructions for form events, such as button click, file save, or submit.",
+      "page_number": 10
+    },
+    {
+      "document": "Learn Acrobat - Fill and Sign.pdf",
+      "refined_text": "Flat forms: These do not have interactive fields. hasn’t been optimized for form filling. form fields like text fields, comb fields, checkboxes, and radio buttons",
+      "page_number": 2
+    },
+    {
+      "document": "Learn Acrobat - Fill and Sign.pdf",
+      "refined_text": "You can change a flat form to a fillable form by either using the Prepare Form tool or. Acrobat and Acrobat Reader users can use the Fill & Sign tool. to fill in flat forms.",
+      "page_number": 12
+    }
+  ]
+}
