@@ -1,0 +1,521 @@
+{
+  "title": "Untitled",
+  "outline": [
+    {
+      "level": "H2",
+      "text": "Select Visio layers to convert (Acrobat Pro)",
+      "page": 1,
+      "font_size": 16.0
+    },
+    {
+      "level": "H3",
+      "text": "To convert the selected Visio layers to individual layers (but not grouped",
+      "page": 1,
+      "font_size": 12.0
+    },
+    {
+      "level": "H2",
+      "text": "Convert AutoCAD files when AutoCAD is installed",
+      "page": 3,
+      "font_size": 16.0
+    },
+    {
+      "level": "H3",
+      "text": "Click a button in the Adobe PDF toolbar: Convert To Adobe",
+      "page": 3,
+      "font_size": 12.0
+    },
+    {
+      "level": "H2",
+      "text": "Select AutoCAD layers to convert",
+      "page": 4,
+      "font_size": 16.0
+    },
+    {
+      "level": "H3",
+      "text": "To convert the selected AutoCAD layers to individual layers, click Add",
+      "page": 4,
+      "font_size": 12.0
+    },
+    {
+      "level": "H2",
+      "text": "Convert AutoCAD files in batches",
+      "page": 5,
+      "font_size": 16.0
+    },
+    {
+      "level": "H2",
+      "text": "Settings tab options available from within most applications",
+      "page": 6,
+      "font_size": 16.0
+    },
+    {
+      "level": "H2",
+      "text": "Excel-specific options on the Settings tab",
+      "page": 6,
+      "font_size": 16.0
+    },
+    {
+      "level": "H3",
+      "text": "Sometimes the conversion settings in one PDFMaker-enabled application are different from the",
+      "page": 6,
+      "font_size": 12.0
+    },
+    {
+      "level": "H3",
+      "text": "Attach Source File",
+      "page": 6,
+      "font_size": 12.0
+    },
+    {
+      "level": "H3",
+      "text": "Create Bookmarks",
+      "page": 6,
+      "font_size": 12.0
+    },
+    {
+      "level": "H3",
+      "text": "Converts certain elements in original Office documents to PDF bookmarks: Word headings,",
+      "page": 6,
+      "font_size": 12.0
+    },
+    {
+      "level": "H3",
+      "text": "Add Links",
+      "page": 6,
+      "font_size": 12.0
+    },
+    {
+      "level": "H3",
+      "text": "Enable Accessibility And Reflow With Tagged Adobe PDF",
+      "page": 6,
+      "font_size": 12.0
+    },
+    {
+      "level": "H3",
+      "text": "Convert Comments",
+      "page": 6,
+      "font_size": 12.0
+    },
+    {
+      "level": "H3",
+      "text": "Actual Size",
+      "page": 6,
+      "font_size": 12.0
+    },
+    {
+      "level": "H3",
+      "text": "Fit Worksheet To A Single Page",
+      "page": 6,
+      "font_size": 12.0
+    },
+    {
+      "level": "H2",
+      "text": "PowerPoint-specific options on the Settings tab",
+      "page": 7,
+      "font_size": 16.0
+    },
+    {
+      "level": "H2",
+      "text": "Email-specific options on the Settings tab",
+      "page": 7,
+      "font_size": 16.0
+    },
+    {
+      "level": "H3",
+      "text": "Fit To Paper Width",
+      "page": 7,
+      "font_size": 12.0
+    },
+    {
+      "level": "H3",
+      "text": "Prompt For Selecting Excel Sheets",
+      "page": 7,
+      "font_size": 12.0
+    },
+    {
+      "level": "H3",
+      "text": "Preserve Slide Transitions",
+      "page": 7,
+      "font_size": 12.0
+    },
+    {
+      "level": "H3",
+      "text": "Convert Hidden Slides To PDF Pages",
+      "page": 7,
+      "font_size": 12.0
+    },
+    {
+      "level": "H3",
+      "text": "Convert Speaker Notes",
+      "page": 7,
+      "font_size": 12.0
+    },
+    {
+      "level": "H3",
+      "text": "Compatibility",
+      "page": 7,
+      "font_size": 12.0
+    },
+    {
+      "level": "H3",
+      "text": "Attachments",
+      "page": 7,
+      "font_size": 12.0
+    },
+    {
+      "level": "H3",
+      "text": "Output Adobe PDF Portfolio When Creating A New PDF File",
+      "page": 7,
+      "font_size": 12.0
+    },
+    {
+      "level": "H2",
+      "text": "AutoCAD-specific options on the Settings tab (Acrobat Pro)",
+      "page": 8,
+      "font_size": 16.0
+    },
+    {
+      "level": "H3",
+      "text": "Do Not Include Folder Name Information",
+      "page": 8,
+      "font_size": 12.0
+    },
+    {
+      "level": "H3",
+      "text": "Embed Index For Faster Search",
+      "page": 8,
+      "font_size": 12.0
+    },
+    {
+      "level": "H3",
+      "text": "Block Download Of External Content",
+      "page": 8,
+      "font_size": 12.0
+    },
+    {
+      "level": "H3",
+      "text": "Page Layout options",
+      "page": 8,
+      "font_size": 12.0
+    },
+    {
+      "level": "H3",
+      "text": "Show This Number Of Recent Archives (Outlook only)",
+      "page": 8,
+      "font_size": 12.0
+    },
+    {
+      "level": "H3",
+      "text": "Show “Attach As Adobe PDF” Buttons",
+      "page": 8,
+      "font_size": 12.0
+    },
+    {
+      "level": "H3",
+      "text": "Compliance Standard",
+      "page": 8,
+      "font_size": 12.0
+    },
+    {
+      "level": "H3",
+      "text": "Open Layers Pane When Viewed In Acrobat",
+      "page": 8,
+      "font_size": 12.0
+    },
+    {
+      "level": "H3",
+      "text": "Embed Scale Information",
+      "page": 8,
+      "font_size": 12.0
+    },
+    {
+      "level": "H3",
+      "text": "Do Not Convert Model Space To 3D",
+      "page": 8,
+      "font_size": 12.0
+    },
+    {
+      "level": "H3",
+      "text": "Choose Layout Option",
+      "page": 8,
+      "font_size": 12.0
+    },
+    {
+      "level": "H2",
+      "text": "Visio-specific options on the Settings tab (Acrobat Pro)",
+      "page": 9,
+      "font_size": 16.0
+    },
+    {
+      "level": "H2",
+      "text": "Word tab settings (Microsoft Word)",
+      "page": 9,
+      "font_size": 16.0
+    },
+    {
+      "level": "H3",
+      "text": "Exclude Model Space",
+      "page": 9,
+      "font_size": 12.0
+    },
+    {
+      "level": "H3",
+      "text": "Choose Layer Option",
+      "page": 9,
+      "font_size": 12.0
+    },
+    {
+      "level": "H3",
+      "text": "Include Visio Custom Properties As Object Data In The Adobe PDF",
+      "page": 9,
+      "font_size": 12.0
+    },
+    {
+      "level": "H3",
+      "text": "Exclude Visio Objects With No Custom Properties",
+      "page": 9,
+      "font_size": 12.0
+    },
+    {
+      "level": "H3",
+      "text": "Convert Comments To Adobe PDF Comments",
+      "page": 9,
+      "font_size": 12.0
+    },
+    {
+      "level": "H3",
+      "text": "Always Flatten Layers In Adobe PDF",
+      "page": 9,
+      "font_size": 12.0
+    },
+    {
+      "level": "H3",
+      "text": "Open Layers Pane When Viewed In Acrobat",
+      "page": 9,
+      "font_size": 12.0
+    },
+    {
+      "level": "H3",
+      "text": "Convert Displayed Comments To Notes In Adobe PDF",
+      "page": 9,
+      "font_size": 12.0
+    },
+    {
+      "level": "H3",
+      "text": "Reviewer",
+      "page": 9,
+      "font_size": 12.0
+    },
+    {
+      "level": "H2",
+      "text": "Bookmarks tab settings (Microsoft Word)",
+      "page": 10,
+      "font_size": 16.0
+    },
+    {
+      "level": "H3",
+      "text": "Include",
+      "page": 10,
+      "font_size": 12.0
+    },
+    {
+      "level": "H3",
+      "text": "Notes Open",
+      "page": 10,
+      "font_size": 12.0
+    },
+    {
+      "level": "H3",
+      "text": "Color",
+      "page": 10,
+      "font_size": 12.0
+    },
+    {
+      "level": "H3",
+      "text": "# Of Comments",
+      "page": 10,
+      "font_size": 12.0
+    },
+    {
+      "level": "H3",
+      "text": "Convert Footnote And Endnote Links",
+      "page": 10,
+      "font_size": 12.0
+    },
+    {
+      "level": "H3",
+      "text": "Convert signature fields specified by pdfmarks",
+      "page": 10,
+      "font_size": 12.0
+    },
+    {
+      "level": "H3",
+      "text": "Enable Advanced Tagging",
+      "page": 10,
+      "font_size": 12.0
+    },
+    {
+      "level": "H3",
+      "text": "Convert Word Headings To Bookmarks",
+      "page": 10,
+      "font_size": 12.0
+    },
+    {
+      "level": "H3",
+      "text": "Convert Word Styles To Bookmarks",
+      "page": 10,
+      "font_size": 12.0
+    },
+    {
+      "level": "H3",
+      "text": "Convert Word Bookmarks",
+      "page": 10,
+      "font_size": 12.0
+    },
+    {
+      "level": "H3",
+      "text": "Element list",
+      "page": 10,
+      "font_size": 12.0
+    },
+    {
+      "level": "H3",
+      "text": "Element",
+      "page": 11,
+      "font_size": 12.0
+    },
+    {
+      "level": "H3",
+      "text": "Lists the names of all available Word headings and styles. The icons",
+      "page": 11,
+      "font_size": 12.0
+    },
+    {
+      "level": "H3",
+      "text": "Type",
+      "page": 11,
+      "font_size": 12.0
+    },
+    {
+      "level": "H3",
+      "text": "Bookmark",
+      "page": 11,
+      "font_size": 12.0
+    },
+    {
+      "level": "H3",
+      "text": "Displays X’s, indicating whether individual elements are converted to PDF bookmarks. Clicking",
+      "page": 11,
+      "font_size": 12.0
+    },
+    {
+      "level": "H3",
+      "text": "Level",
+      "page": 11,
+      "font_size": 12.0
+    },
+    {
+      "level": "H2",
+      "text": "Create a PDF using the Print command (Windows)",
+      "page": 12,
+      "font_size": 16.0
+    },
+    {
+      "level": "H2",
+      "text": "Create a PDF using the Print command (Mac OS X)",
+      "page": 12,
+      "font_size": 16.0
+    },
+    {
+      "level": "H3",
+      "text": "Distiller for conversion to PDF, without manually starting Distiller. The current Distiller",
+      "page": 12,
+      "font_size": 12.0
+    },
+    {
+      "level": "H3",
+      "text": "open the list of printers, and then click Properties or Preferences.)",
+      "page": 12,
+      "font_size": 12.0
+    },
+    {
+      "level": "H3",
+      "text": "Printing Preferences are different from printer Properties. The Preferences include Adobe PDF-",
+      "page": 15,
+      "font_size": 12.0
+    },
+    {
+      "level": "H3",
+      "text": "Adobe PDFConversion Settings",
+      "page": 15,
+      "font_size": 12.0
+    },
+    {
+      "level": "H3",
+      "text": "Adobe PDF Security",
+      "page": 15,
+      "font_size": 12.0
+    },
+    {
+      "level": "H3",
+      "text": "Adobe PDF Output Folder",
+      "page": 15,
+      "font_size": 12.0
+    },
+    {
+      "level": "H3",
+      "text": "Adobe PDF Page Size menu",
+      "page": 16,
+      "font_size": 12.0
+    },
+    {
+      "level": "H3",
+      "text": "Replace Existing PDF",
+      "page": 16,
+      "font_size": 12.0
+    },
+    {
+      "level": "H3",
+      "text": "View Adobe PDF Results",
+      "page": 16,
+      "font_size": 12.0
+    },
+    {
+      "level": "H3",
+      "text": "Add Document Information",
+      "page": 16,
+      "font_size": 12.0
+    },
+    {
+      "level": "H3",
+      "text": "Rely On System Fonts Only; Do Not Use Document Fonts",
+      "page": 16,
+      "font_size": 12.0
+    },
+    {
+      "level": "H3",
+      "text": "Delete Log Files For Successful Jobs",
+      "page": 16,
+      "font_size": 12.0
+    },
+    {
+      "level": "H1",
+      "text": "Reassign the port that the Adobe PDF printer uses",
+      "page": 17,
+      "font_size": 18.0
+    },
+    {
+      "level": "H2",
+      "text": "Set Adobe PDF printer properties",
+      "page": 17,
+      "font_size": 16.0
+    },
+    {
+      "level": "H3",
+      "text": "Printing Properties are different from printer Preferences. The Properties dialog box contains",
+      "page": 17,
+      "font_size": 12.0
+    }
+  ]
+}

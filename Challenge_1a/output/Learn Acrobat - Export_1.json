@@ -1,0 +1,821 @@
+{
+  "title": "Learn Acrobat:",
+  "outline": [
+    {
+      "level": "H1",
+      "text": "Export",
+      "page": 2,
+      "font_size": 26.0
+    },
+    {
+      "level": "H3",
+      "text": "Save a PDF",
+      "page": 2,
+      "font_size": 16.0
+    },
+    {
+      "level": "H4",
+      "text": "To save changes, select Save to computer from the upper right. Alternatively",
+      "page": 2,
+      "font_size": 12.0
+    },
+    {
+      "level": "H4",
+      "text": "In Acrobat Reader, for Windows, select the hamburger menu   and then",
+      "page": 2,
+      "font_size": 12.0
+    },
+    {
+      "level": "H2",
+      "text": "Recover the last saved version",
+      "page": 4,
+      "font_size": 24.0
+    },
+    {
+      "level": "H3",
+      "text": "About the Autosave feature",
+      "page": 4,
+      "font_size": 16.0
+    },
+    {
+      "level": "H4",
+      "text": "that supports Object Linking and Embedding (OLE). This document appears outside",
+      "page": 4,
+      "font_size": 12.0
+    },
+    {
+      "level": "H4",
+      "text": "Recover lost changes",
+      "page": 4,
+      "font_size": 12.0
+    },
+    {
+      "level": "H3",
+      "text": "Set up automatic saving",
+      "page": 5,
+      "font_size": 16.0
+    },
+    {
+      "level": "H3",
+      "text": "Recover lost changes after an unexpected shutdown",
+      "page": 5,
+      "font_size": 16.0
+    },
+    {
+      "level": "H3",
+      "text": "Convert PDF to DOCX",
+      "page": 5,
+      "font_size": 16.0
+    },
+    {
+      "level": "H3",
+      "text": "Convert PDF to DOC",
+      "page": 6,
+      "font_size": 16.0
+    },
+    {
+      "level": "H3",
+      "text": "Convert PDF to PPTX",
+      "page": 7,
+      "font_size": 16.0
+    },
+    {
+      "level": "H4",
+      "text": "Convert to PPTX",
+      "page": 7,
+      "font_size": 12.0
+    },
+    {
+      "level": "H2",
+      "text": "File format op�ons for PDF export in Acrobat",
+      "page": 8,
+      "font_size": 24.0
+    },
+    {
+      "level": "H3",
+      "text": "Adobe PDF options",
+      "page": 8,
+      "font_size": 16.0
+    },
+    {
+      "level": "H3",
+      "text": "Image conversion settings",
+      "page": 8,
+      "font_size": 16.0
+    },
+    {
+      "level": "H3",
+      "text": "File settings",
+      "page": 8,
+      "font_size": 16.0
+    },
+    {
+      "level": "H4",
+      "text": "JPEG and JPEG 2000 conversion settings",
+      "page": 8,
+      "font_size": 12.0
+    },
+    {
+      "level": "H4",
+      "text": "Grayscale/Color: Specifies a compression setting that balances file size with image",
+      "page": 8,
+      "font_size": 12.0
+    },
+    {
+      "level": "H3",
+      "text": "Color management",
+      "page": 9,
+      "font_size": 16.0
+    },
+    {
+      "level": "H3",
+      "text": "Conversion",
+      "page": 9,
+      "font_size": 16.0
+    },
+    {
+      "level": "H4",
+      "text": "Baseline (Standard): Displays the image when it has fully downloaded. This",
+      "page": 9,
+      "font_size": 12.0
+    },
+    {
+      "level": "H4",
+      "text": "Baseline (Optimized): Optimizes color quality of the image and produces",
+      "page": 9,
+      "font_size": 12.0
+    },
+    {
+      "level": "H4",
+      "text": "Progressive (3 scans-5 scans): Downloads the image first as a low-resolution",
+      "page": 9,
+      "font_size": 12.0
+    },
+    {
+      "level": "H4",
+      "text": "RGB/CMYK/Grayscale",
+      "page": 9,
+      "font_size": 12.0
+    },
+    {
+      "level": "H4",
+      "text": "Colorspace/Resolution",
+      "page": 9,
+      "font_size": 12.0
+    },
+    {
+      "level": "H4",
+      "text": "PDF to PNG conversion settings",
+      "page": 9,
+      "font_size": 12.0
+    },
+    {
+      "level": "H3",
+      "text": "File settings",
+      "page": 10,
+      "font_size": 16.0
+    },
+    {
+      "level": "H3",
+      "text": "Color management",
+      "page": 10,
+      "font_size": 16.0
+    },
+    {
+      "level": "H3",
+      "text": "Conversion",
+      "page": 10,
+      "font_size": 16.0
+    },
+    {
+      "level": "H4",
+      "text": "Interlace",
+      "page": 10,
+      "font_size": 12.0
+    },
+    {
+      "level": "H4",
+      "text": "after downloading is complete. Adam7 creates an image that displays low-resolution versions",
+      "page": 10,
+      "font_size": 12.0
+    },
+    {
+      "level": "H4",
+      "text": "None : Compresses the image without a filter. Recommended for indexed-color",
+      "page": 10,
+      "font_size": 12.0
+    },
+    {
+      "level": "H4",
+      "text": "Average: Optimizes the compression of low-level noise by averaging the color values",
+      "page": 10,
+      "font_size": 12.0
+    },
+    {
+      "level": "H4",
+      "text": "Paeth : Optimizes the compression of low-level noise by reassigning adjacent color",
+      "page": 10,
+      "font_size": 12.0
+    },
+    {
+      "level": "H4",
+      "text": "Adaptive: Applies the filtering algorithm—Sub, Up, Average, or Paeth—best suited for",
+      "page": 10,
+      "font_size": 12.0
+    },
+    {
+      "level": "H4",
+      "text": "RGB/Grayscale",
+      "page": 10,
+      "font_size": 12.0
+    },
+    {
+      "level": "H4",
+      "text": "Colorspace/Resolution",
+      "page": 10,
+      "font_size": 12.0
+    },
+    {
+      "level": "H3",
+      "text": "File settings",
+      "page": 11,
+      "font_size": 16.0
+    },
+    {
+      "level": "H3",
+      "text": "Color management",
+      "page": 11,
+      "font_size": 16.0
+    },
+    {
+      "level": "H3",
+      "text": "Conversion",
+      "page": 11,
+      "font_size": 16.0
+    },
+    {
+      "level": "H4",
+      "text": "PDF to TIFF conversion settings",
+      "page": 11,
+      "font_size": 12.0
+    },
+    {
+      "level": "H4",
+      "text": "Monochrome",
+      "page": 11,
+      "font_size": 12.0
+    },
+    {
+      "level": "H4",
+      "text": "RGB/CMYK/Grayscale/Other",
+      "page": 11,
+      "font_size": 12.0
+    },
+    {
+      "level": "H4",
+      "text": "Colorspace/Resolution",
+      "page": 11,
+      "font_size": 12.0
+    },
+    {
+      "level": "H2",
+      "text": "PDF to Microso� Word conversion se�ngs",
+      "page": 12,
+      "font_size": 24.0
+    },
+    {
+      "level": "H4",
+      "text": "Layout Settings",
+      "page": 12,
+      "font_size": 12.0
+    },
+    {
+      "level": "H4",
+      "text": "Comments Settings",
+      "page": 12,
+      "font_size": 12.0
+    },
+    {
+      "level": "H4",
+      "text": "Image Settings",
+      "page": 12,
+      "font_size": 12.0
+    },
+    {
+      "level": "H4",
+      "text": "Text Recognition Settings",
+      "page": 12,
+      "font_size": 12.0
+    },
+    {
+      "level": "H2",
+      "text": "Convert PDF to RTF",
+      "page": 13,
+      "font_size": 24.0
+    },
+    {
+      "level": "H3",
+      "text": "PDF to RTF conversion se�ngs",
+      "page": 13,
+      "font_size": 16.0
+    },
+    {
+      "level": "H4",
+      "text": "Layout Settings",
+      "page": 13,
+      "font_size": 12.0
+    },
+    {
+      "level": "H4",
+      "text": "Comments Settings",
+      "page": 13,
+      "font_size": 12.0
+    },
+    {
+      "level": "H4",
+      "text": "Image Settings",
+      "page": 13,
+      "font_size": 12.0
+    },
+    {
+      "level": "H4",
+      "text": "Text Recognition Settings",
+      "page": 14,
+      "font_size": 12.0
+    },
+    {
+      "level": "H2",
+      "text": "Convert PDF to HTML Web Page",
+      "page": 15,
+      "font_size": 24.0
+    },
+    {
+      "level": "H3",
+      "text": "PDF to HTML conversion se�ngs",
+      "page": 15,
+      "font_size": 16.0
+    },
+    {
+      "level": "H4",
+      "text": "FILE AND NAVIGATION PANE SETTINGS",
+      "page": 15,
+      "font_size": 12.0
+    },
+    {
+      "level": "H3",
+      "text": "Single html page",
+      "page": 16,
+      "font_size": 16.0
+    },
+    {
+      "level": "H3",
+      "text": "Multiple html pages",
+      "page": 16,
+      "font_size": 16.0
+    },
+    {
+      "level": "H3",
+      "text": "Content se�ngs",
+      "page": 16,
+      "font_size": 16.0
+    },
+    {
+      "level": "H3",
+      "text": "Text recogni�on se�ngs",
+      "page": 16,
+      "font_size": 16.0
+    },
+    {
+      "level": "H4",
+      "text": "Add Headings-based Navigation Frame",
+      "page": 16,
+      "font_size": 12.0
+    },
+    {
+      "level": "H4",
+      "text": "Add Bookmarks-based Navigation Frame",
+      "page": 16,
+      "font_size": 12.0
+    },
+    {
+      "level": "H4",
+      "text": "Split by Document Headings",
+      "page": 16,
+      "font_size": 12.0
+    },
+    {
+      "level": "H4",
+      "text": "Split by Document Bookmarks",
+      "page": 16,
+      "font_size": 12.0
+    },
+    {
+      "level": "H4",
+      "text": "Include Images",
+      "page": 16,
+      "font_size": 12.0
+    },
+    {
+      "level": "H4",
+      "text": "Detect and Remove Headers and Footers",
+      "page": 16,
+      "font_size": 12.0
+    },
+    {
+      "level": "H4",
+      "text": "Recognize Text If Needed",
+      "page": 16,
+      "font_size": 12.0
+    },
+    {
+      "level": "H4",
+      "text": "Set Language",
+      "page": 16,
+      "font_size": 12.0
+    },
+    {
+      "level": "H2",
+      "text": "Convert PDF to Microso� Excel",
+      "page": 17,
+      "font_size": 24.0
+    },
+    {
+      "level": "H3",
+      "text": "Convert PDF to Microsoft Excel (XLSX)",
+      "page": 17,
+      "font_size": 16.0
+    },
+    {
+      "level": "H3",
+      "text": "Convert PDF to XML",
+      "page": 17,
+      "font_size": 16.0
+    },
+    {
+      "level": "H3",
+      "text": "Text recogni�on se�ngs",
+      "page": 18,
+      "font_size": 16.0
+    },
+    {
+      "level": "H4",
+      "text": "PDF to Microso� Excel (XLSX or XML) conversion se�ngs",
+      "page": 18,
+      "font_size": 12.0
+    },
+    {
+      "level": "H4",
+      "text": "Excel Workbook Settings",
+      "page": 18,
+      "font_size": 12.0
+    },
+    {
+      "level": "H4",
+      "text": "Numeric Settings",
+      "page": 18,
+      "font_size": 12.0
+    },
+    {
+      "level": "H4",
+      "text": "Detect decimal and thousands separators using regional settings",
+      "page": 18,
+      "font_size": 12.0
+    },
+    {
+      "level": "H4",
+      "text": "Recognize Text If Needed",
+      "page": 18,
+      "font_size": 12.0
+    },
+    {
+      "level": "H4",
+      "text": "Set Language",
+      "page": 19,
+      "font_size": 12.0
+    },
+    {
+      "level": "H2",
+      "text": "Convert PDF to PostScript or Encapsulated",
+      "page": 20,
+      "font_size": 24.0
+    },
+    {
+      "level": "H2",
+      "text": "PostScript (EPS)",
+      "page": 20,
+      "font_size": 24.0
+    },
+    {
+      "level": "H4",
+      "text": "includes full DSC (Document Structuring Conventions) comments and other advanced",
+      "page": 20,
+      "font_size": 12.0
+    },
+    {
+      "level": "H4",
+      "text": "PDF to PS and EPS conversion se�ngs",
+      "page": 21,
+      "font_size": 12.0
+    },
+    {
+      "level": "H4",
+      "text": "Printer Description File",
+      "page": 21,
+      "font_size": 12.0
+    },
+    {
+      "level": "H4",
+      "text": "The PostScript Printer Description (PPD) provides the necessary information to format a",
+      "page": 21,
+      "font_size": 12.0
+    },
+    {
+      "level": "H4",
+      "text": "PostScript file correctly for a particular output device. Device Independent creates only",
+      "page": 21,
+      "font_size": 12.0
+    },
+    {
+      "level": "H4",
+      "text": "composite (not color-separated) PostScript or EPS files. Acrobat Default provides a starting",
+      "page": 21,
+      "font_size": 12.0
+    },
+    {
+      "level": "H4",
+      "text": "ASCII or Binary",
+      "page": 21,
+      "font_size": 12.0
+    },
+    {
+      "level": "H4",
+      "text": "PostScript",
+      "page": 21,
+      "font_size": 12.0
+    },
+    {
+      "level": "H4",
+      "text": "Font Inclusion",
+      "page": 21,
+      "font_size": 12.0
+    },
+    {
+      "level": "H4",
+      "text": "Include Comments",
+      "page": 21,
+      "font_size": 12.0
+    },
+    {
+      "level": "H4",
+      "text": "Convert True Type to Type 1",
+      "page": 21,
+      "font_size": 12.0
+    },
+    {
+      "level": "H4",
+      "text": "Include Preview",
+      "page": 21,
+      "font_size": 12.0
+    },
+    {
+      "level": "H4",
+      "text": "Page Range",
+      "page": 21,
+      "font_size": 12.0
+    },
+    {
+      "level": "H2",
+      "text": "Convert PDF to Text and XML 1.0",
+      "page": 22,
+      "font_size": 24.0
+    },
+    {
+      "level": "H3",
+      "text": "Convert PDF to XML 1.0",
+      "page": 22,
+      "font_size": 16.0
+    },
+    {
+      "level": "H3",
+      "text": "Convert PDF to text",
+      "page": 22,
+      "font_size": 16.0
+    },
+    {
+      "level": "H3",
+      "text": "Output file settings",
+      "page": 22,
+      "font_size": 16.0
+    },
+    {
+      "level": "H4",
+      "text": "PDF to Text and XML 1.0 conversion settings",
+      "page": 22,
+      "font_size": 12.0
+    },
+    {
+      "level": "H4",
+      "text": "Encoding",
+      "page": 22,
+      "font_size": 12.0
+    },
+    {
+      "level": "H4",
+      "text": "character. UTF-16 represents characters using 16-bit bytes. ISO-Latin-1 is an 8-bit",
+      "page": 22,
+      "font_size": 12.0
+    },
+    {
+      "level": "H3",
+      "text": "Image file settings",
+      "page": 23,
+      "font_size": 16.0
+    },
+    {
+      "level": "H4",
+      "text": "which appear in the Plug-ins/SaveAsXML/MappingTables folder. These mapping tables",
+      "page": 23,
+      "font_size": 12.0
+    },
+    {
+      "level": "H4",
+      "text": "Generate Bookmarks",
+      "page": 23,
+      "font_size": 12.0
+    },
+    {
+      "level": "H4",
+      "text": "Generate Tags For Untagged Files",
+      "page": 23,
+      "font_size": 12.0
+    },
+    {
+      "level": "H4",
+      "text": "Generate Images",
+      "page": 23,
+      "font_size": 12.0
+    },
+    {
+      "level": "H4",
+      "text": "Use Sub-Folder",
+      "page": 23,
+      "font_size": 12.0
+    },
+    {
+      "level": "H4",
+      "text": "Use Prefix",
+      "page": 23,
+      "font_size": 12.0
+    },
+    {
+      "level": "H4",
+      "text": "Output Format",
+      "page": 23,
+      "font_size": 12.0
+    },
+    {
+      "level": "H4",
+      "text": "Downsample To",
+      "page": 23,
+      "font_size": 12.0
+    },
+    {
+      "level": "H3",
+      "text": "Convert PDF to JPEG or JPEG 2000",
+      "page": 24,
+      "font_size": 16.0
+    },
+    {
+      "level": "H3",
+      "text": "Convert PDF to TIFF",
+      "page": 24,
+      "font_size": 16.0
+    },
+    {
+      "level": "H3",
+      "text": "Convert PDF to PNG",
+      "page": 25,
+      "font_size": 16.0
+    },
+    {
+      "level": "H4",
+      "text": "Overview",
+      "page": 26,
+      "font_size": 12.0
+    },
+    {
+      "level": "H4",
+      "text": "Export images from PDFs",
+      "page": 26,
+      "font_size": 12.0
+    },
+    {
+      "level": "H4",
+      "text": "3. Optional) To configure the conversion settings, select Settings and then modify",
+      "page": 26,
+      "font_size": 12.0
+    },
+    {
+      "level": "H4",
+      "text": "1. Select Export all Images and then select Settings",
+      "page": 26,
+      "font_size": 12.0
+    },
+    {
+      "level": "H4",
+      "text": "File Settings Color",
+      "page": 26,
+      "font_size": 12.0
+    },
+    {
+      "level": "H4",
+      "text": "2. In the dialog that appears, specify the ,",
+      "page": 26,
+      "font_size": 12.0
+    },
+    {
+      "level": "H4",
+      "text": "Export selections from a PDF to another format",
+      "page": 27,
+      "font_size": 12.0
+    },
+    {
+      "level": "H4",
+      "text": "Select a format from the Save As Type list and select Save",
+      "page": 27,
+      "font_size": 12.0
+    },
+    {
+      "level": "H2",
+      "text": "Select and copy text and images",
+      "page": 28,
+      "font_size": 24.0
+    },
+    {
+      "level": "H4",
+      "text": "Select text and images",
+      "page": 28,
+      "font_size": 12.0
+    },
+    {
+      "level": "H4",
+      "text": "press Ctrl (Windows) or Command (macOS); the pointer changes to display a",
+      "page": 28,
+      "font_size": 12.0
+    },
+    {
+      "level": "H4",
+      "text": "Select a column of text",
+      "page": 28,
+      "font_size": 12.0
+    },
+    {
+      "level": "H4",
+      "text": "Select all the text on a page",
+      "page": 29,
+      "font_size": 12.0
+    },
+    {
+      "level": "H4",
+      "text": "Copy selected text",
+      "page": 29,
+      "font_size": 12.0
+    },
+    {
+      "level": "H4",
+      "text": "Paste copied text and images",
+      "page": 29,
+      "font_size": 12.0
+    },
+    {
+      "level": "H2",
+      "text": "Convert selected content to other formats",
+      "page": 30,
+      "font_size": 24.0
+    },
+    {
+      "level": "H4",
+      "text": "• Word Document or Word 97-2003",
+      "page": 30,
+      "font_size": 12.0
+    },
+    {
+      "level": "H4",
+      "text": "• Excel Workbook, XML Spreadsheet, or CSV",
+      "page": 30,
+      "font_size": 12.0
+    },
+    {
+      "level": "H4",
+      "text": "• Rich Text Format or HTML",
+      "page": 30,
+      "font_size": 12.0
+    },
+    {
+      "level": "H4",
+      "text": "• PowerPoint",
+      "page": 30,
+      "font_size": 12.0
+    }
+  ]
+}

@@ -1,0 +1,197 @@
+{
+  "title": "Learn Acrobat:",
+  "outline": [
+    {
+      "level": "H1",
+      "text": "Edit text in a PDF",
+      "page": 2,
+      "font_size": 24.0
+    },
+    {
+      "level": "H2",
+      "text": "Set the default font for adding and editing text",
+      "page": 3,
+      "font_size": 16.0
+    },
+    {
+      "level": "H3",
+      "text": "1. From the hamburger menu (Windows) or the Acrobat menu (macOS),",
+      "page": 3,
+      "font_size": 12.0
+    },
+    {
+      "level": "H3",
+      "text": "(Alternatively, you can press Ctrl+K keys on Windows® or Command+K keys on",
+      "page": 3,
+      "font_size": 12.0
+    },
+    {
+      "level": "H3",
+      "text": "macOS.)",
+      "page": 3,
+      "font_size": 12.0
+    },
+    {
+      "level": "H2",
+      "text": "Change, replace, or delete text",
+      "page": 4,
+      "font_size": 16.0
+    },
+    {
+      "level": "H3",
+      "text": "can also try the advanced format options, such as line spacing, character",
+      "page": 4,
+      "font_size": 12.0
+    },
+    {
+      "level": "H2",
+      "text": "Format text",
+      "page": 5,
+      "font_size": 16.0
+    },
+    {
+      "level": "H2",
+      "text": "Add new text",
+      "page": 6,
+      "font_size": 16.0
+    },
+    {
+      "level": "H3",
+      "text": "Formatting options on the left pane",
+      "page": 6,
+      "font_size": 12.0
+    },
+    {
+      "level": "H3",
+      "text": "Font name, size, and color",
+      "page": 6,
+      "font_size": 12.0
+    },
+    {
+      "level": "H2",
+      "text": "Move, rotate, or resize a text box",
+      "page": 7,
+      "font_size": 16.0
+    },
+    {
+      "level": "H3",
+      "text": "Character, paragraph, and line spacing",
+      "page": 7,
+      "font_size": 12.0
+    },
+    {
+      "level": "H3",
+      "text": "Horizontal scaling",
+      "page": 7,
+      "font_size": 12.0
+    },
+    {
+      "level": "H2",
+      "text": "Add or edit lists",
+      "page": 9,
+      "font_size": 16.0
+    },
+    {
+      "level": "H2",
+      "text": "Change font color",
+      "page": 9,
+      "font_size": 16.0
+    },
+    {
+      "level": "H3",
+      "text": "same familiar controls that you use in Microsoft® Office. For example,",
+      "page": 9,
+      "font_size": 12.0
+    },
+    {
+      "level": "H2",
+      "text": "Change font",
+      "page": 11,
+      "font_size": 16.0
+    },
+    {
+      "level": "H2",
+      "text": "Change font size",
+      "page": 11,
+      "font_size": 16.0
+    },
+    {
+      "level": "H2",
+      "text": "Redo text in Acrobat",
+      "page": 11,
+      "font_size": 16.0
+    },
+    {
+      "level": "H2",
+      "text": "Undo text in Acrobat",
+      "page": 11,
+      "font_size": 16.0
+    },
+    {
+      "level": "H2",
+      "text": "Change paragraph spacing",
+      "page": 11,
+      "font_size": 16.0
+    },
+    {
+      "level": "H1",
+      "text": "Edit images or objects in a PDF",
+      "page": 13,
+      "font_size": 24.0
+    },
+    {
+      "level": "H2",
+      "text": "About editing text and images",
+      "page": 13,
+      "font_size": 16.0
+    },
+    {
+      "level": "H2",
+      "text": "Add images in a PDF",
+      "page": 13,
+      "font_size": 16.0
+    },
+    {
+      "level": "H3",
+      "text": "You might encounter formatting challenges that require manual adjustments. Acrobat's",
+      "page": 13,
+      "font_size": 12.0
+    },
+    {
+      "level": "H3",
+      "text": "image-editing capabilities are limited, and using high-resolution images can lead to",
+      "page": 13,
+      "font_size": 12.0
+    },
+    {
+      "level": "H3",
+      "text": "You can also enhance document accessibility using Acrobat's features, such as adding",
+      "page": 13,
+      "font_size": 12.0
+    },
+    {
+      "level": "H2",
+      "text": "Modify images in a PDF",
+      "page": 14,
+      "font_size": 16.0
+    },
+    {
+      "level": "H2",
+      "text": "Delete images from a PDF",
+      "page": 15,
+      "font_size": 16.0
+    },
+    {
+      "level": "H2",
+      "text": "Add Objects to PDF",
+      "page": 15,
+      "font_size": 16.0
+    },
+    {
+      "level": "H2",
+      "text": "Edit an image outside Acrobat",
+      "page": 16,
+      "font_size": 16.0
+    }
+  ]
+}

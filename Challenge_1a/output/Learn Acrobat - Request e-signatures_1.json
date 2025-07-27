@@ -1,0 +1,773 @@
+{
+  "title": "Learn Acrobat:",
+  "outline": [
+    {
+      "level": "H1",
+      "text": "Send a document to get signatures from",
+      "page": 2,
+      "font_size": 24.0
+    },
+    {
+      "level": "H1",
+      "text": "others",
+      "page": 2,
+      "font_size": 24.0
+    },
+    {
+      "level": "H4",
+      "text": "Request signatures – Add recipients",
+      "page": 2,
+      "font_size": 10.5
+    },
+    {
+      "level": "H3",
+      "text": "(Optional) To explore advanced options including signer authentication, reminders,",
+      "page": 3,
+      "font_size": 12.0
+    },
+    {
+      "level": "H3",
+      "text": "Specify authentication type like Email , Password , Social Identity , Knowledge-",
+      "page": 3,
+      "font_size": 12.0
+    },
+    {
+      "level": "H4",
+      "text": "Request signatures – Add Cc, subject, message, More Options",
+      "page": 3,
+      "font_size": 10.5
+    },
+    {
+      "level": "H3",
+      "text": "Simplified mode for single signer",
+      "page": 4,
+      "font_size": 12.0
+    },
+    {
+      "level": "H4",
+      "text": "More or",
+      "page": 4,
+      "font_size": 10.5
+    },
+    {
+      "level": "H4",
+      "text": "Advanced Options",
+      "page": 4,
+      "font_size": 10.5
+    },
+    {
+      "level": "H3",
+      "text": "Simplified mode for multiple signers",
+      "page": 5,
+      "font_size": 12.0
+    },
+    {
+      "level": "H3",
+      "text": "This mode provides simplified authoring with the capability of assigning fields to",
+      "page": 5,
+      "font_size": 12.0
+    },
+    {
+      "level": "H3",
+      "text": "Advanced mode for multiple signers",
+      "page": 6,
+      "font_size": 12.0
+    },
+    {
+      "level": "H1",
+      "text": "Signer's experience",
+      "page": 8,
+      "font_size": 24.0
+    },
+    {
+      "level": "H2",
+      "text": "Steps to send in bulk",
+      "page": 9,
+      "font_size": 18.0
+    },
+    {
+      "level": "H3",
+      "text": "Email is the default authentication method for confirming the identity of each",
+      "page": 10,
+      "font_size": 12.0
+    },
+    {
+      "level": "H3",
+      "text": "Password authentication can be added to increase security. When configured, the participant",
+      "page": 10,
+      "font_size": 12.0
+    },
+    {
+      "level": "H3",
+      "text": "4. . (Optional) Add yourself and/or CC'd parties",
+      "page": 10,
+      "font_size": 12.0
+    },
+    {
+      "level": "H3",
+      "text": "Send in",
+      "page": 12,
+      "font_size": 12.0
+    },
+    {
+      "level": "H3",
+      "text": "Name your agreement. All agreements generated from the",
+      "page": 12,
+      "font_size": 12.0
+    },
+    {
+      "level": "H3",
+      "text": "nor do they have reminders set for participants",
+      "page": 12,
+      "font_size": 12.0
+    },
+    {
+      "level": "H3",
+      "text": "You can now add any necessary fields to the agreement. Remember that",
+      "page": 14,
+      "font_size": 12.0
+    },
+    {
+      "level": "H3",
+      "text": "Text input (All Text fields are flagged as Required)",
+      "page": 14,
+      "font_size": 12.0
+    },
+    {
+      "level": "H3",
+      "text": "Signature",
+      "page": 14,
+      "font_size": 12.0
+    },
+    {
+      "level": "H3",
+      "text": "Signer's name (Printed)",
+      "page": 14,
+      "font_size": 12.0
+    },
+    {
+      "level": "H3",
+      "text": "Signer's email",
+      "page": 14,
+      "font_size": 12.0
+    },
+    {
+      "level": "H3",
+      "text": "Signature date (Read-Only; Supplied by the system)",
+      "page": 14,
+      "font_size": 12.0
+    },
+    {
+      "level": "H3",
+      "text": "Checkbox",
+      "page": 14,
+      "font_size": 12.0
+    },
+    {
+      "level": "H3",
+      "text": "Allows access to all field types (highlighted in yellow)",
+      "page": 14,
+      "font_size": 12.0
+    },
+    {
+      "level": "H3",
+      "text": "Supports form field detection (highlighted in green)",
+      "page": 14,
+      "font_size": 12.0
+    },
+    {
+      "level": "H3",
+      "text": "Supports Prefill fields (highlighted in pink)",
+      "page": 14,
+      "font_size": 12.0
+    },
+    {
+      "level": "H3",
+      "text": "Supports field assignment (highlighted in purple and pink)",
+      "page": 14,
+      "font_size": 12.0
+    },
+    {
+      "level": "H3",
+      "text": "Supports field validation",
+      "page": 14,
+      "font_size": 12.0
+    },
+    {
+      "level": "H3",
+      "text": "Supports calculated fields",
+      "page": 15,
+      "font_size": 12.0
+    },
+    {
+      "level": "H3",
+      "text": "Supports conditional fields",
+      "page": 15,
+      "font_size": 12.0
+    },
+    {
+      "level": "H3",
+      "text": "Allows control of the field text font/appearance",
+      "page": 15,
+      "font_size": 12.0
+    },
+    {
+      "level": "H3",
+      "text": "11. Review and Send",
+      "page": 15,
+      "font_size": 12.0
+    },
+    {
+      "level": "H3",
+      "text": "Review the agreement information and Send if everything is correct",
+      "page": 15,
+      "font_size": 12.0
+    },
+    {
+      "level": "H3",
+      "text": "12. Confirmation",
+      "page": 16,
+      "font_size": 12.0
+    },
+    {
+      "level": "H3",
+      "text": "status, access audit trails, send reminder",
+      "page": 16,
+      "font_size": 12.0
+    },
+    {
+      "level": "H3",
+      "text": "Click Close to return to the Acrobat online Home page",
+      "page": 16,
+      "font_size": 12.0
+    },
+    {
+      "level": "H2",
+      "text": "Manage your bulk sends",
+      "page": 17,
+      "font_size": 18.0
+    },
+    {
+      "level": "H3",
+      "text": "Image of the Bulk Sends' first page",
+      "page": 17,
+      "font_size": 12.0
+    },
+    {
+      "level": "H3",
+      "text": "The title of the Bulk Send",
+      "page": 17,
+      "font_size": 12.0
+    },
+    {
+      "level": "H3",
+      "text": "The date the Bulk Send was sent to the participants",
+      "page": 17,
+      "font_size": 12.0
+    },
+    {
+      "level": "H3",
+      "text": "The email value of the userID that created the Bulk Send",
+      "page": 17,
+      "font_size": 12.0
+    },
+    {
+      "level": "H3",
+      "text": "The current status of the whole Bulk Send",
+      "page": 17,
+      "font_size": 12.0
+    },
+    {
+      "level": "H3",
+      "text": "The Message provided in the initial email",
+      "page": 17,
+      "font_size": 12.0
+    },
+    {
+      "level": "H3",
+      "text": "Any CCd parties (listed by email value)",
+      "page": 18,
+      "font_size": 12.0
+    },
+    {
+      "level": "H3",
+      "text": "are available",
+      "page": 18,
+      "font_size": 12.0
+    },
+    {
+      "level": "H3",
+      "text": "View Activity Report",
+      "page": 19,
+      "font_size": 12.0
+    },
+    {
+      "level": "H3",
+      "text": "Agreements summary/filter (green square) - The Agreements section shows up to five",
+      "page": 19,
+      "font_size": 12.0
+    },
+    {
+      "level": "H3",
+      "text": "Completed - Completed agreements have successfully obtained all signatures from all",
+      "page": 19,
+      "font_size": 12.0
+    },
+    {
+      "level": "H3",
+      "text": "trusted third-party certificate authority. Additional signing options in Acrobat include",
+      "page": 19,
+      "font_size": 12.0
+    },
+    {
+      "level": "H2",
+      "text": "Why use certificate signatures?",
+      "page": 20,
+      "font_size": 18.0
+    },
+    {
+      "level": "H2",
+      "text": "What can I do with certificate IDs?",
+      "page": 20,
+      "font_size": 18.0
+    },
+    {
+      "level": "H3",
+      "text": "Many business transactions, including financial, legal, and other regulated transactions,",
+      "page": 20,
+      "font_size": 12.0
+    },
+    {
+      "level": "H3",
+      "text": "require high assurance when signing documents. When documents are distributed",
+      "page": 20,
+      "font_size": 12.0
+    },
+    {
+      "level": "H3",
+      "text": "Verify document authenticity—confirming the identity of each person who signed the",
+      "page": 20,
+      "font_size": 12.0
+    },
+    {
+      "level": "H3",
+      "text": "document",
+      "page": 20,
+      "font_size": 12.0
+    },
+    {
+      "level": "H3",
+      "text": "Verify document integrity—confirming that the document has not been altered in",
+      "page": 20,
+      "font_size": 12.0
+    },
+    {
+      "level": "H3",
+      "text": "transit",
+      "page": 20,
+      "font_size": 12.0
+    },
+    {
+      "level": "H3",
+      "text": "Certificate-based signatures provide both of these security services. Many businesses and",
+      "page": 20,
+      "font_size": 12.0
+    },
+    {
+      "level": "H3",
+      "text": "governments have chosen to set up a certificate-based digital signature infrastructure within",
+      "page": 20,
+      "font_size": 12.0
+    },
+    {
+      "level": "H3",
+      "text": "their organization. They use third-party certificate authorities to provide independent identity",
+      "page": 20,
+      "font_size": 12.0
+    },
+    {
+      "level": "H3",
+      "text": "qualified electronic signature requirements in eIDAS e-signature regulation or the ETSI PAdES",
+      "page": 20,
+      "font_size": 12.0
+    },
+    {
+      "level": "H3",
+      "text": "Once certificate-based digital IDs have been provided to end users, they can",
+      "page": 20,
+      "font_size": 12.0
+    },
+    {
+      "level": "H3",
+      "text": "Sign documents",
+      "page": 20,
+      "font_size": 12.0
+    },
+    {
+      "level": "H3",
+      "text": "Sign PDF files using certificate IDs",
+      "page": 20,
+      "font_size": 12.0
+    },
+    {
+      "level": "H3",
+      "text": "Place a signature box anywhere on the page",
+      "page": 20,
+      "font_size": 12.0
+    },
+    {
+      "level": "H3",
+      "text": "Add multiple signatures to a page",
+      "page": 20,
+      "font_size": 12.0
+    },
+    {
+      "level": "H3",
+      "text": "authenticity with or without seeing a visible signature on the page",
+      "page": 20,
+      "font_size": 12.0
+    },
+    {
+      "level": "H3",
+      "text": "Automatically embed certificate data to support long-term validation",
+      "page": 20,
+      "font_size": 12.0
+    },
+    {
+      "level": "H3",
+      "text": "Validate documents",
+      "page": 20,
+      "font_size": 12.0
+    },
+    {
+      "level": "H3",
+      "text": "Validate all signatures, confirming the identity of everyone who signed the document",
+      "page": 20,
+      "font_size": 12.0
+    },
+    {
+      "level": "H3",
+      "text": "Validate document integrity by tracking all previously signed versions of a document",
+      "page": 20,
+      "font_size": 12.0
+    },
+    {
+      "level": "H3",
+      "text": "to verify changes made during the document’s lifecycle",
+      "page": 20,
+      "font_size": 12.0
+    },
+    {
+      "level": "H2",
+      "text": "What if my organization isn’t prepared to set up certificate-",
+      "page": 21,
+      "font_size": 18.0
+    },
+    {
+      "level": "H2",
+      "text": "based signatures?",
+      "page": 21,
+      "font_size": 18.0
+    },
+    {
+      "level": "H2",
+      "text": "Resources",
+      "page": 21,
+      "font_size": 18.0
+    },
+    {
+      "level": "H3",
+      "text": "Set privileges and permissions for others",
+      "page": 21,
+      "font_size": 12.0
+    },
+    {
+      "level": "H3",
+      "text": "comments",
+      "page": 21,
+      "font_size": 12.0
+    },
+    {
+      "level": "H3",
+      "text": "IDs",
+      "page": 21,
+      "font_size": 12.0
+    },
+    {
+      "level": "H3",
+      "text": "usage such as printing, editing, or copying",
+      "page": 21,
+      "font_size": 12.0
+    },
+    {
+      "level": "H3",
+      "text": "Content Security Library : Extensive documentation on Adobe certificate signature",
+      "page": 21,
+      "font_size": 12.0
+    },
+    {
+      "level": "H3",
+      "text": "A certificate-based signature , like a conventional handwritten signature, identifies the person",
+      "page": 21,
+      "font_size": 12.0
+    },
+    {
+      "level": "H2",
+      "text": "Steps to add a certificate-based signature to a PDF",
+      "page": 22,
+      "font_size": 18.0
+    },
+    {
+      "level": "H3",
+      "text": "Select Certify (visible signatures) to certify with a visible digital signature,",
+      "page": 22,
+      "font_size": 12.0
+    },
+    {
+      "level": "H3",
+      "text": "and then select Drag New Signature Rectangle in the dialog box that",
+      "page": 22,
+      "font_size": 12.0
+    },
+    {
+      "level": "H3",
+      "text": "Select Certify (invisible signatures) if you want to certify the document",
+      "page": 22,
+      "font_size": 12.0
+    },
+    {
+      "level": "H4",
+      "text": "Certificate-based signature in a PDF form",
+      "page": 22,
+      "font_size": 10.5
+    },
+    {
+      "level": "H2",
+      "text": "Certifying and signing documents",
+      "page": 23,
+      "font_size": 18.0
+    },
+    {
+      "level": "H3",
+      "text": "Digitally sign",
+      "page": 23,
+      "font_size": 12.0
+    },
+    {
+      "level": "H3",
+      "text": "Certify (visible or invisible signatures)",
+      "page": 23,
+      "font_size": 12.0
+    },
+    {
+      "level": "H2",
+      "text": "Setting up certificate-based signatures",
+      "page": 24,
+      "font_size": 18.0
+    },
+    {
+      "level": "H3",
+      "text": "standards specified by the European Telecommunications Standards Institute (ETSI). In",
+      "page": 24,
+      "font_size": 12.0
+    },
+    {
+      "level": "H3",
+      "text": "addition, both signature types comply with the PDF Advanced Electronic Signature (PAdES)",
+      "page": 24,
+      "font_size": 12.0
+    },
+    {
+      "level": "H3",
+      "text": "capability and native support for long-term validation of signatures (introduced in Acrobat",
+      "page": 24,
+      "font_size": 12.0
+    },
+    {
+      "level": "H3",
+      "text": "Create an appearance for your certificate-based signature. (See Create the signature",
+      "page": 24,
+      "font_size": 12.0
+    },
+    {
+      "level": "H3",
+      "text": "appearance. )",
+      "page": 24,
+      "font_size": 12.0
+    },
+    {
+      "level": "H3",
+      "text": "For information about using the Preview Document mode, see Sign in Preview",
+      "page": 24,
+      "font_size": 12.0
+    },
+    {
+      "level": "H3",
+      "text": "Configure the signing application. Both authors and signers should configure their",
+      "page": 24,
+      "font_size": 12.0
+    },
+    {
+      "level": "H2",
+      "text": "Set signing preferences",
+      "page": 25,
+      "font_size": 18.0
+    },
+    {
+      "level": "H2",
+      "text": "Customizing signature workflows using seed values",
+      "page": 25,
+      "font_size": 18.0
+    },
+    {
+      "level": "H2",
+      "text": "Create the appearance of a certificate-based signature",
+      "page": 25,
+      "font_size": 18.0
+    },
+    {
+      "level": "H3",
+      "text": "Choose a signature type. Learn about approval and certification signatures to",
+      "page": 25,
+      "font_size": 12.0
+    },
+    {
+      "level": "H3",
+      "text": "Hamburger menu > Preferences > Signatures (Windows) or Acrobat >",
+      "page": 25,
+      "font_size": 12.0
+    },
+    {
+      "level": "H2",
+      "text": "Set up a roaming ID account",
+      "page": 26,
+      "font_size": 18.0
+    },
+    {
+      "level": "H3",
+      "text": "No Graphic",
+      "page": 26,
+      "font_size": 12.0
+    },
+    {
+      "level": "H3",
+      "text": "Imported Graphic",
+      "page": 26,
+      "font_size": 12.0
+    },
+    {
+      "level": "H3",
+      "text": "Displays an image with your certificate-based signature. Select this option to include",
+      "page": 26,
+      "font_size": 12.0
+    },
+    {
+      "level": "H3",
+      "text": "Name",
+      "page": 26,
+      "font_size": 12.0
+    },
+    {
+      "level": "H3",
+      "text": "Distinguished Name shows the user attributes defined in your digital ID, including",
+      "page": 26,
+      "font_size": 12.0
+    },
+    {
+      "level": "H3",
+      "text": "8. (Optional) If the dialog box includes the Additional Signature Information section,",
+      "page": 26,
+      "font_size": 12.0
+    },
+    {
+      "level": "H3",
+      "text": "specify the reason for signing the document, the location, and your contact",
+      "page": 26,
+      "font_size": 12.0
+    },
+    {
+      "level": "H3",
+      "text": "the Creation and Appearance Preferences dialog box (Preferences > Signatures >",
+      "page": 26,
+      "font_size": 12.0
+    },
+    {
+      "level": "H2",
+      "text": "PKCS#12 modules and tokens",
+      "page": 27,
+      "font_size": 18.0
+    },
+    {
+      "level": "H2",
+      "text": "Store certificates on directory servers",
+      "page": 27,
+      "font_size": 18.0
+    },
+    {
+      "level": "H2",
+      "text": "Import directory server settings (Windows only)",
+      "page": 27,
+      "font_size": 18.0
+    },
+    {
+      "level": "H3",
+      "text": "Directory servers are commonly used as centralized repositories of identities within an",
+      "page": 27,
+      "font_size": 12.0
+    },
+    {
+      "level": "H3",
+      "text": "use certificate encryption. Directory servers let you locate certificates from network servers,",
+      "page": 27,
+      "font_size": 12.0
+    },
+    {
+      "level": "H3",
+      "text": "including Lightweight Directory Access Protocol (LDAP) servers. After you locate a",
+      "page": 27,
+      "font_size": 12.0
+    },
+    {
+      "level": "H3",
+      "text": "You import directory server settings using security import/export methodology or a security",
+      "page": 27,
+      "font_size": 12.0
+    },
+    {
+      "level": "H2",
+      "text": "Export directory server settings (Windows only)",
+      "page": 28,
+      "font_size": 18.0
+    },
+    {
+      "level": "H2",
+      "text": "Add a timestamp to certificate-based signatures",
+      "page": 29,
+      "font_size": 18.0
+    },
+    {
+      "level": "H2",
+      "text": "Configure a timestamp server",
+      "page": 29,
+      "font_size": 18.0
+    },
+    {
+      "level": "H3",
+      "text": "If you have an import/export methodology file with the timestamp server",
+      "page": 29,
+      "font_size": 12.0
+    },
+    {
+      "level": "H2",
+      "text": "Set a timestamp server as the default",
+      "page": 30,
+      "font_size": 18.0
+    },
+    {
+      "level": "H3",
+      "text": "Time Stamp Servers",
+      "page": 30,
+      "font_size": 12.0
+    }
+  ]
+}

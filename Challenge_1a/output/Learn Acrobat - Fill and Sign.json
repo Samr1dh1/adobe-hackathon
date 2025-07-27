@@ -1,0 +1,149 @@
+{
+  "title": "Fill and Sign PDF Forms",
+  "outline": [
+    {
+      "level": "H2",
+      "text": "of PDF forms",
+      "page": 1,
+      "font_size": 12.0
+    },
+    {
+      "level": "H1",
+      "text": "Fill and sign PDF forms",
+      "page": 2,
+      "font_size": 16.0
+    },
+    {
+      "level": "H2",
+      "text": "1. From the Quick action toolbar, select Add your signature or initials",
+      "page": 5,
+      "font_size": 12.0
+    },
+    {
+      "level": "H1",
+      "text": "Is the form fillable?",
+      "page": 8,
+      "font_size": 16.0
+    },
+    {
+      "level": "H1",
+      "text": "Fill in interactive forms",
+      "page": 8,
+      "font_size": 16.0
+    },
+    {
+      "level": "H2",
+      "text": "Some text fields are dynamic, meaning that they automatically resize to accommodate",
+      "page": 8,
+      "font_size": 12.0
+    },
+    {
+      "level": "H1",
+      "text": "Enable the Auto-Complete option",
+      "page": 10,
+      "font_size": 16.0
+    },
+    {
+      "level": "H1",
+      "text": "Delete an entry from the Auto-Complete memory",
+      "page": 10,
+      "font_size": 16.0
+    },
+    {
+      "level": "H2",
+      "text": "Preferences Acrobat",
+      "page": 10,
+      "font_size": 12.0
+    },
+    {
+      "level": "H2",
+      "text": "1. From the hamburger menu, select (Windows®), or select",
+      "page": 10,
+      "font_size": 12.0
+    },
+    {
+      "level": "H2",
+      "text": "1. Open the Preferences dialog. From the hamburger menu,",
+      "page": 10,
+      "font_size": 12.0
+    },
+    {
+      "level": "H2",
+      "text": "select Preferences (Windows®), or select Acrobat / Acrobat",
+      "page": 10,
+      "font_size": 12.0
+    },
+    {
+      "level": "H2",
+      "text": "select to select multiple adjacent entries; Ctrl-select to select multiple",
+      "page": 11,
+      "font_size": 12.0
+    },
+    {
+      "level": "H2",
+      "text": "nonadjacent entries.)",
+      "page": 11,
+      "font_size": 12.0
+    },
+    {
+      "level": "H2",
+      "text": "Interactive form",
+      "page": 12,
+      "font_size": 12.0
+    },
+    {
+      "level": "H2",
+      "text": "Flat form",
+      "page": 12,
+      "font_size": 12.0
+    },
+    {
+      "level": "H2",
+      "text": "(Includes Form Fill-in & Save)",
+      "page": 13,
+      "font_size": 12.0
+    },
+    {
+      "level": "H2",
+      "text": "(Interactive or flat form) To print the form and the typed entries,",
+      "page": 14,
+      "font_size": 12.0
+    },
+    {
+      "level": "H2",
+      "text": "comments on the form, choose Document And Markups . This option prints",
+      "page": 14,
+      "font_size": 12.0
+    },
+    {
+      "level": "H1",
+      "text": "Sign an agreement",
+      "page": 16,
+      "font_size": 16.0
+    },
+    {
+      "level": "H1",
+      "text": "Sign using Acrobat/Reader desktop application",
+      "page": 16,
+      "font_size": 16.0
+    },
+    {
+      "level": "H1",
+      "text": "Sign using the email link",
+      "page": 17,
+      "font_size": 16.0
+    },
+    {
+      "level": "H2",
+      "text": "Reader or Acrobat, the added signature is saved securely in Adobe cloud",
+      "page": 17,
+      "font_size": 12.0
+    },
+    {
+      "level": "H2",
+      "text": "3. From the floating toolbar, select Delete",
+      "page": 18,
+      "font_size": 12.0
+    }
+  ]
+}

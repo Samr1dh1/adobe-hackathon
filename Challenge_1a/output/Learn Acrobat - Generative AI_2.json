@@ -1,0 +1,143 @@
+{
+  "title": "Untitled",
+  "outline": [
+    {
+      "level": "H1",
+      "text": "Persistent chat history",
+      "page": 1,
+      "font_size": 16.0
+    },
+    {
+      "level": "H4",
+      "text": "Chat history",
+      "page": 1,
+      "font_size": 10.5
+    },
+    {
+      "level": "H1",
+      "text": "Clear chat history",
+      "page": 2,
+      "font_size": 16.0
+    },
+    {
+      "level": "H4",
+      "text": "Clear chat history from the AI assistant",
+      "page": 2,
+      "font_size": 10.5
+    },
+    {
+      "level": "H1",
+      "text": "Copy chat history",
+      "page": 3,
+      "font_size": 16.0
+    },
+    {
+      "level": "H4",
+      "text": "Copy chat history from the AI assistant",
+      "page": 3,
+      "font_size": 10.5
+    },
+    {
+      "level": "H1",
+      "text": "Change the playback speed",
+      "page": 6,
+      "font_size": 16.0
+    },
+    {
+      "level": "H1",
+      "text": "Custom voice for read-aloud feature",
+      "page": 7,
+      "font_size": 16.0
+    },
+    {
+      "level": "H2",
+      "text": "switch between documents, with responses consolidated from various sources and proper",
+      "page": 8,
+      "font_size": 12.0
+    },
+    {
+      "level": "H2",
+      "text": "attributions. Persistent history support is also included to provide continuous access to",
+      "page": 8,
+      "font_size": 12.0
+    },
+    {
+      "level": "H2",
+      "text": "Select multiple files from third-party applications, and select Share > Adobe",
+      "page": 9,
+      "font_size": 12.0
+    },
+    {
+      "level": "H1",
+      "text": "Remove files from a collection",
+      "page": 11,
+      "font_size": 16.0
+    },
+    {
+      "level": "H1",
+      "text": "Request access from the Admin Console (Teams hybrid admins)",
+      "page": 12,
+      "font_size": 16.0
+    },
+    {
+      "level": "H2",
+      "text": "approval. After the admin approves your request, you'll receive an email confirming",
+      "page": 12,
+      "font_size": 12.0
+    },
+    {
+      "level": "H4",
+      "text": "Select Get access",
+      "page": 12,
+      "font_size": 10.5
+    },
+    {
+      "level": "H4",
+      "text": "Purchase licenses",
+      "page": 13,
+      "font_size": 10.5
+    },
+    {
+      "level": "H3",
+      "text": "Approved requests: If your request is automatically or manually approved, the product",
+      "page": 15,
+      "font_size": 11.0
+    },
+    {
+      "level": "H2",
+      "text": "send a request from?",
+      "page": 16,
+      "font_size": 12.0
+    },
+    {
+      "level": "H2",
+      "text": "If you have multiple profiles associated with your organization-provided Adobe account, you",
+      "page": 16,
+      "font_size": 12.0
+    },
+    {
+      "level": "H2",
+      "text": "What happens if my request is declined?",
+      "page": 16,
+      "font_size": 12.0
+    },
+    {
+      "level": "H2",
+      "text": "Administer AI Assistant for enterprises",
+      "page": 16,
+      "font_size": 12.0
+    },
+    {
+      "level": "H2",
+      "text": "mobile, and desktop platforms. It provides centralized license management and enterprise-",
+      "page": 16,
+      "font_size": 12.0
+    },
+    {
+      "level": "H2",
+      "text": "Users : Choose the hamburger menu (Windows) or View (macOS), then",
+      "page": 17,
+      "font_size": 12.0
+    }
+  ]
+}

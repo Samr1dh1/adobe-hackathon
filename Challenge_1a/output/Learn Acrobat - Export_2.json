@@ -1,0 +1,23 @@
+{
+  "title": "Copy images",
+  "outline": [
+    {
+      "level": "H1",
+      "text": "The selection is copied automatically to the clipboard when you release the",
+      "page": 3,
+      "font_size": 12.0
+    },
+    {
+      "level": "H1",
+      "text": "mouse/touchpad button. If a document is open in another application, go to",
+      "page": 3,
+      "font_size": 12.0
+    },
+    {
+      "level": "H1",
+      "text": "the document, right-click, and select Paste to paste the copied selection",
+      "page": 3,
+      "font_size": 12.0
+    }
+  ]
+}

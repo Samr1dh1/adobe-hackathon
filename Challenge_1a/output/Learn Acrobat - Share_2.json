@@ -1,0 +1,287 @@
+{
+  "title": "Untitled",
+  "outline": [
+    {
+      "level": "H1",
+      "text": "Add comments while viewing a PDF",
+      "page": 1,
+      "font_size": 24.0
+    },
+    {
+      "level": "H1",
+      "text": "document",
+      "page": 1,
+      "font_size": 24.0
+    },
+    {
+      "level": "H3",
+      "text": "Actions on highlighted selection: When you select an existing highlighted comment",
+      "page": 1,
+      "font_size": 12.0
+    },
+    {
+      "level": "H1",
+      "text": "Annotations and drawing markup tools",
+      "page": 2,
+      "font_size": 24.0
+    },
+    {
+      "level": "H1",
+      "text": "overview",
+      "page": 2,
+      "font_size": 24.0
+    },
+    {
+      "level": "H2",
+      "text": "Show annotations and drawing markup tools",
+      "page": 2,
+      "font_size": 16.0
+    },
+    {
+      "level": "H3",
+      "text": "Note: In Acrobat Reader, complete commenting tools are available only in PDFs",
+      "page": 2,
+      "font_size": 12.0
+    },
+    {
+      "level": "H2",
+      "text": "Select an annotation or drawing markup tool",
+      "page": 3,
+      "font_size": 16.0
+    },
+    {
+      "level": "H2",
+      "text": "Keep an annotation tool selected",
+      "page": 4,
+      "font_size": 16.0
+    },
+    {
+      "level": "H3",
+      "text": "selected.)",
+      "page": 4,
+      "font_size": 12.0
+    },
+    {
+      "level": "H1",
+      "text": "Add a comment",
+      "page": 5,
+      "font_size": 24.0
+    },
+    {
+      "level": "H2",
+      "text": "Steps to add a comment",
+      "page": 5,
+      "font_size": 16.0
+    },
+    {
+      "level": "H2",
+      "text": "Edit a comment",
+      "page": 5,
+      "font_size": 16.0
+    },
+    {
+      "level": "H3",
+      "text": "have commenting enabled. PDFs in a review workflow typically include commenting",
+      "page": 5,
+      "font_size": 12.0
+    },
+    {
+      "level": "H2",
+      "text": "Change font size of annotation comments",
+      "page": 6,
+      "font_size": 16.0
+    },
+    {
+      "level": "H2",
+      "text": "Copy partial text in a comment",
+      "page": 6,
+      "font_size": 16.0
+    },
+    {
+      "level": "H2",
+      "text": "Delete a comment",
+      "page": 6,
+      "font_size": 16.0
+    },
+    {
+      "level": "H3",
+      "text": "behavior, and other settings for creating and viewing comments",
+      "page": 6,
+      "font_size": 12.0
+    },
+    {
+      "level": "H1",
+      "text": "Add a text comment",
+      "page": 7,
+      "font_size": 24.0
+    },
+    {
+      "level": "H1",
+      "text": "Add reactions to comments on shared files",
+      "page": 8,
+      "font_size": 24.0
+    },
+    {
+      "level": "H1",
+      "text": "Add an arrow, or shape",
+      "page": 9,
+      "font_size": 24.0
+    },
+    {
+      "level": "H3",
+      "text": "The Line tool ,  the Arrow tool , the Rectangle tool ,",
+      "page": 9,
+      "font_size": 12.0
+    },
+    {
+      "level": "H3",
+      "text": "The Cloud tool and Polygon tool create closed shapes with multiple",
+      "page": 9,
+      "font_size": 12.0
+    },
+    {
+      "level": "H3",
+      "text": "segments. The Connected lines tool creates open shapes with multiple",
+      "page": 9,
+      "font_size": 12.0
+    },
+    {
+      "level": "H3",
+      "text": "The Draw tool creates free-form drawings, and the Erase a",
+      "page": 9,
+      "font_size": 12.0
+    },
+    {
+      "level": "H3",
+      "text": "start point, or right-click and choose Complete from the menu. Double-click to",
+      "page": 9,
+      "font_size": 12.0
+    },
+    {
+      "level": "H2",
+      "text": "Add a line",
+      "page": 10,
+      "font_size": 16.0
+    },
+    {
+      "level": "H1",
+      "text": "Group and ungroup markups",
+      "page": 11,
+      "font_size": 24.0
+    },
+    {
+      "level": "H2",
+      "text": "Group markups",
+      "page": 11,
+      "font_size": 16.0
+    },
+    {
+      "level": "H2",
+      "text": "Ungroup markups",
+      "page": 11,
+      "font_size": 16.0
+    },
+    {
+      "level": "H1",
+      "text": "Add comments in a text box or callout",
+      "page": 12,
+      "font_size": 24.0
+    },
+    {
+      "level": "H2",
+      "text": "Add a comment in text box",
+      "page": 12,
+      "font_size": 16.0
+    },
+    {
+      "level": "H2",
+      "text": "Set or change properties for the text box",
+      "page": 12,
+      "font_size": 16.0
+    },
+    {
+      "level": "H3",
+      "text": "Quick action toolbar Add a comment Add text comment",
+      "page": 12,
+      "font_size": 12.0
+    },
+    {
+      "level": "H2",
+      "text": "Add a comment in callout",
+      "page": 13,
+      "font_size": 16.0
+    },
+    {
+      "level": "H3",
+      "text": "To change the color, opacity, or line characteristics, right-click and",
+      "page": 13,
+      "font_size": 12.0
+    },
+    {
+      "level": "H1",
+      "text": "Add comments in a file attachment",
+      "page": 14,
+      "font_size": 24.0
+    },
+    {
+      "level": "H3",
+      "text": "attaching files for a document review. Document-level file attachments that you attach",
+      "page": 14,
+      "font_size": 12.0
+    },
+    {
+      "level": "H3",
+      "text": "Note: To delete the attachment, right-click the attached comment icon, and choose",
+      "page": 14,
+      "font_size": 12.0
+    },
+    {
+      "level": "H1",
+      "text": "Commenting preferences",
+      "page": 15,
+      "font_size": 24.0
+    },
+    {
+      "level": "H2",
+      "text": "Viewing comments",
+      "page": 15,
+      "font_size": 16.0
+    },
+    {
+      "level": "H3",
+      "text": "Font, Font Size",
+      "page": 15,
+      "font_size": 12.0
+    },
+    {
+      "level": "H3",
+      "text": "Pop-up Opacity",
+      "page": 15,
+      "font_size": 12.0
+    },
+    {
+      "level": "H3",
+      "text": "Enable Text Indicators And Tooltips",
+      "page": 15,
+      "font_size": 12.0
+    },
+    {
+      "level": "H3",
+      "text": "Print Notes And Pop-ups",
+      "page": 15,
+      "font_size": 12.0
+    },
+    {
+      "level": "H3",
+      "text": "Show Lines Connecting Comment Markups To Their Pop-ups On Mouse Rollover",
+      "page": 15,
+      "font_size": 12.0
+    },
+    {
+      "level": "H3",
+      "text": "Ensure That Pop-ups Are Visible As The Document Is Scrolled",
+      "page": 15,
+      "font_size": 12.0
+    }
+  ]
+}

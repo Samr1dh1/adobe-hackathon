@@ -1,0 +1,257 @@
+{
+  "title": "Untitled",
+  "outline": [
+    {
+      "level": "H1",
+      "text": "Export PDF images to another format",
+      "page": 1,
+      "font_size": 16.0
+    },
+    {
+      "level": "H2",
+      "text": "Transparency information is preserved only for masks that are specified as",
+      "page": 1,
+      "font_size": 12.0
+    },
+    {
+      "level": "H1",
+      "text": "Rotate pages in a PDF",
+      "page": 3,
+      "font_size": 16.0
+    },
+    {
+      "level": "H2",
+      "text": "Select the drop-down menu under PAGES SELECTED , then select the appropriate",
+      "page": 3,
+      "font_size": 12.0
+    },
+    {
+      "level": "H1",
+      "text": "Extract random pages from a PDF",
+      "page": 4,
+      "font_size": 16.0
+    },
+    {
+      "level": "H2",
+      "text": "under PAGES SELECTED , then select the appropriate option. Alternatively, you can",
+      "page": 4,
+      "font_size": 12.0
+    },
+    {
+      "level": "H2",
+      "text": "To remove the extracted pages from the original document, select Delete",
+      "page": 4,
+      "font_size": 12.0
+    },
+    {
+      "level": "H2",
+      "text": "Extract pages as",
+      "page": 4,
+      "font_size": 12.0
+    },
+    {
+      "level": "H2",
+      "text": "To create a single-page PDF for each extracted page, select",
+      "page": 4,
+      "font_size": 12.0
+    },
+    {
+      "level": "H2",
+      "text": "To remove the extracted pages from the original document, select Delete",
+      "page": 5,
+      "font_size": 12.0
+    },
+    {
+      "level": "H1",
+      "text": "Split multiple PDFs",
+      "page": 6,
+      "font_size": 16.0
+    },
+    {
+      "level": "H2",
+      "text": "Number of pages",
+      "page": 6,
+      "font_size": 12.0
+    },
+    {
+      "level": "H2",
+      "text": "File Size",
+      "page": 6,
+      "font_size": 12.0
+    },
+    {
+      "level": "H2",
+      "text": "Top-level Bookmarks",
+      "page": 6,
+      "font_size": 12.0
+    },
+    {
+      "level": "H2",
+      "text": "If the document includes bookmarks, it creates one document for every top-level",
+      "page": 6,
+      "font_size": 12.0
+    },
+    {
+      "level": "H2",
+      "text": "File Size",
+      "page": 7,
+      "font_size": 12.0
+    },
+    {
+      "level": "H2",
+      "text": "Top-level Bookmarks",
+      "page": 7,
+      "font_size": 12.0
+    },
+    {
+      "level": "H2",
+      "text": "If the document includes bookmarks, it creates one document for every top-level",
+      "page": 7,
+      "font_size": 12.0
+    },
+    {
+      "level": "H1",
+      "text": "Move or copy a page",
+      "page": 8,
+      "font_size": 16.0
+    },
+    {
+      "level": "H1",
+      "text": "Copy a page between two PDFs",
+      "page": 8,
+      "font_size": 16.0
+    },
+    {
+      "level": "H2",
+      "text": "To display the PDFs side by side, select Window from the hamburger",
+      "page": 8,
+      "font_size": 12.0
+    },
+    {
+      "level": "H2",
+      "text": "All tools Organize pages",
+      "page": 8,
+      "font_size": 12.0
+    },
+    {
+      "level": "H2",
+      "text": "2. Select > . The page thumbnails are displayed in the",
+      "page": 8,
+      "font_size": 12.0
+    },
+    {
+      "level": "H1",
+      "text": "Delete multiple pages in a PDF",
+      "page": 10,
+      "font_size": 16.0
+    },
+    {
+      "level": "H2",
+      "text": "previously associated with the replacement page don't carry over. Comments, however, are",
+      "page": 10,
+      "font_size": 12.0
+    },
+    {
+      "level": "H1",
+      "text": "Delete a page in a PDF",
+      "page": 11,
+      "font_size": 16.0
+    },
+    {
+      "level": "H1",
+      "text": "Replace pages in a PDF",
+      "page": 11,
+      "font_size": 16.0
+    },
+    {
+      "level": "H1",
+      "text": "Replace pages between multiple PDFs",
+      "page": 11,
+      "font_size": 16.0
+    },
+    {
+      "level": "H2",
+      "text": "pages from the contextual toolbar that appears next to the selected page",
+      "page": 11,
+      "font_size": 12.0
+    },
+    {
+      "level": "H2",
+      "text": "thumbnails in the document area of the target document where thumbnails are",
+      "page": 12,
+      "font_size": 12.0
+    },
+    {
+      "level": "H2",
+      "text": "Note: Using the Number Pages command affects only the page thumbnails on",
+      "page": 13,
+      "font_size": 12.0
+    },
+    {
+      "level": "H2",
+      "text": "Prefix",
+      "page": 13,
+      "font_size": 12.0
+    },
+    {
+      "level": "H1",
+      "text": "Recognize text on scanned PDF",
+      "page": 14,
+      "font_size": 16.0
+    },
+    {
+      "level": "H2",
+      "text": "editable text, line breaks, or complex formatting. Other inhibiting factors include compatibility",
+      "page": 14,
+      "font_size": 12.0
+    },
+    {
+      "level": "H2",
+      "text": "scanned document, Acrobat automatically runs OCR in the background to make the",
+      "page": 14,
+      "font_size": 12.0
+    },
+    {
+      "level": "H1",
+      "text": "Edit a scanned document",
+      "page": 15,
+      "font_size": 16.0
+    },
+    {
+      "level": "H2",
+      "text": "It opens the Scan & OCR tool options in the left panel",
+      "page": 15,
+      "font_size": 12.0
+    },
+    {
+      "level": "H2",
+      "text": "4. From the upper-left corner, select the hamburger menu (Windows) or File",
+      "page": 15,
+      "font_size": 12.0
+    },
+    {
+      "level": "H1",
+      "text": "Enhance camera image",
+      "page": 16,
+      "font_size": 16.0
+    },
+    {
+      "level": "H2",
+      "text": "scanner. This feature addresses common issues in mobile-captured images, such as incorrect",
+      "page": 16,
+      "font_size": 12.0
+    },
+    {
+      "level": "H2",
+      "text": "perspectives, areas beyond boundaries, shadows, and inconsistent lighting. While it may not",
+      "page": 16,
+      "font_size": 12.0
+    },
+    {
+      "level": "H2",
+      "text": "5. (Optional) To further adjust the default enhancement level, drag the Adjust",
+      "page": 16,
+      "font_size": 12.0
+    }
+  ]
+}
