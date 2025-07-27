@@ -7,8 +7,8 @@ from datetime import datetime
 sys.path.append("/app/Challenge_1a/src")
 
 # ✅ Correct imports from Challenge_1a
-from extractor.heading_detector import detect_headings
-from extractor.pdf_reader import extract_pdf_data  # 🧠 FIXED: was extract_layout before
+from src.extractor.heading_detector import detect_headings
+from src.extractor.pdf_reader_1a import extract_pdf_data 
 
 # 🧠 Heuristic fallback title generator
 def extract_section_title(text):
