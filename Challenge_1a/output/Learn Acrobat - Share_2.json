@@ -14,10 +14,10 @@
       "font_size": 24.0
     },
     {
-      "level": "H3",
-      "text": "Actions on highlighted selection: When you select an existing highlighted comment",
+      "level": "H4",
+      "text": "Actions on text selection",
       "page": 1,
-      "font_size": 12.0
+      "font_size": 11.0
     },
     {
       "level": "H1",
@@ -38,8 +38,8 @@
       "font_size": 16.0
     },
     {
-      "level": "H3",
-      "text": "Note: In Acrobat Reader, complete commenting tools are available only in PDFs",
+      "level": "H4",
+      "text": "Comments",
       "page": 2,
       "font_size": 12.0
     },
@@ -50,14 +50,26 @@
       "font_size": 16.0
     },
     {
+      "level": "H4",
+      "text": "Draw freehand",
+      "page": 3,
+      "font_size": 12.0
+    },
+    {
       "level": "H2",
       "text": "Keep an annotation tool selected",
       "page": 4,
       "font_size": 16.0
     },
     {
-      "level": "H3",
-      "text": "selected.)",
+      "level": "H4",
+      "text": "Pencil Highlight Text",
+      "page": 4,
+      "font_size": 12.0
+    },
+    {
+      "level": "H4",
+      "text": "Use the same tool until it's unselected",
       "page": 4,
       "font_size": 12.0
     },
@@ -80,8 +92,8 @@
       "font_size": 16.0
     },
     {
-      "level": "H3",
-      "text": "have commenting enabled. PDFs in a review workflow typically include commenting",
+      "level": "H4",
+      "text": "Note: In Acrobat Reader",
       "page": 5,
       "font_size": 12.0
     },
@@ -104,8 +116,20 @@
       "font_size": 16.0
     },
     {
-      "level": "H3",
-      "text": "behavior, and other settings for creating and viewing comments",
+      "level": "H4",
+      "text": "Ctrl + K command +",
+      "page": 6,
+      "font_size": 12.0
+    },
+    {
+      "level": "H4",
+      "text": "Categories Commenting",
+      "page": 6,
+      "font_size": 12.0
+    },
+    {
+      "level": "H4",
+      "text": "Font Size",
       "page": 6,
       "font_size": 12.0
     },
@@ -116,10 +140,28 @@
       "font_size": 24.0
     },
     {
+      "level": "H4",
+      "text": "Add text comment",
+      "page": 7,
+      "font_size": 12.0
+    },
+    {
+      "level": "H4",
+      "text": "Add a comment Add text Comment",
+      "page": 7,
+      "font_size": 12.0
+    },
+    {
       "level": "H1",
       "text": "Add reactions to comments on shared files",
       "page": 8,
       "font_size": 24.0
+    },
+    {
+      "level": "H4",
+      "text": "Comments",
+      "page": 8,
+      "font_size": 12.0
     },
     {
       "level": "H1",
@@ -128,32 +170,62 @@
       "font_size": 24.0
     },
     {
-      "level": "H3",
-      "text": "The Line tool ,  the Arrow tool , the Rectangle tool ,",
+      "level": "H4",
+      "text": "Note: In Acrobat Reader",
       "page": 9,
       "font_size": 12.0
     },
     {
-      "level": "H3",
-      "text": "The Cloud tool and Polygon tool create closed shapes with multiple",
+      "level": "H4",
+      "text": "Draw freehand",
       "page": 9,
       "font_size": 12.0
     },
     {
-      "level": "H3",
-      "text": "segments. The Connected lines tool creates open shapes with multiple",
+      "level": "H4",
+      "text": "Line Arrow Rectangle",
       "page": 9,
       "font_size": 12.0
     },
     {
-      "level": "H3",
-      "text": "The Draw tool creates free-form drawings, and the Erase a",
+      "level": "H4",
+      "text": "Circle",
       "page": 9,
       "font_size": 12.0
     },
     {
-      "level": "H3",
-      "text": "start point, or right-click and choose Complete from the menu. Double-click to",
+      "level": "H4",
+      "text": "Cloud Polygon",
+      "page": 9,
+      "font_size": 12.0
+    },
+    {
+      "level": "H4",
+      "text": "Connected lines",
+      "page": 9,
+      "font_size": 12.0
+    },
+    {
+      "level": "H4",
+      "text": "Draw Erase a",
+      "page": 9,
+      "font_size": 12.0
+    },
+    {
+      "level": "H4",
+      "text": "drawing",
+      "page": 9,
+      "font_size": 12.0
+    },
+    {
+      "level": "H4",
+      "text": "Draw",
+      "page": 9,
+      "font_size": 12.0
+    },
+    {
+      "level": "H4",
+      "text": "Erase",
       "page": 9,
       "font_size": 12.0
     },
@@ -162,6 +234,30 @@
       "text": "Add a line",
       "page": 10,
       "font_size": 16.0
+    },
+    {
+      "level": "H4",
+      "text": "a drawing",
+      "page": 10,
+      "font_size": 12.0
+    },
+    {
+      "level": "H4",
+      "text": "Add note",
+      "page": 10,
+      "font_size": 12.0
+    },
+    {
+      "level": "H4",
+      "text": "Draw freehand",
+      "page": 10,
+      "font_size": 12.0
+    },
+    {
+      "level": "H4",
+      "text": "Line",
+      "page": 10,
+      "font_size": 12.0
     },
     {
       "level": "H1",
@@ -182,6 +278,18 @@
       "font_size": 16.0
     },
     {
+      "level": "H4",
+      "text": "Group",
+      "page": 11,
+      "font_size": 12.0
+    },
+    {
+      "level": "H4",
+      "text": "Ungroup",
+      "page": 11,
+      "font_size": 12.0
+    },
+    {
       "level": "H1",
       "text": "Add comments in a text box or callout",
       "page": 12,
@@ -200,8 +308,32 @@
       "font_size": 16.0
     },
     {
-      "level": "H3",
+      "level": "H4",
+      "text": "Add text comment",
+      "page": 12,
+      "font_size": 12.0
+    },
+    {
+      "level": "H4",
+      "text": "Text Box",
+      "page": 12,
+      "font_size": 12.0
+    },
+    {
+      "level": "H4",
+      "text": "Text callout",
+      "page": 12,
+      "font_size": 12.0
+    },
+    {
+      "level": "H4",
       "text": "Quick action toolbar Add a comment Add text comment",
+      "page": 12,
+      "font_size": 12.0
+    },
+    {
+      "level": "H4",
+      "text": "Set or change properties for the selected text",
       "page": 12,
       "font_size": 12.0
     },
@@ -212,8 +344,32 @@
       "font_size": 16.0
     },
     {
-      "level": "H3",
-      "text": "To change the color, opacity, or line characteristics, right-click and",
+      "level": "H4",
+      "text": "Select",
+      "page": 13,
+      "font_size": 12.0
+    },
+    {
+      "level": "H4",
+      "text": "Delete",
+      "page": 13,
+      "font_size": 12.0
+    },
+    {
+      "level": "H4",
+      "text": "Draw freehand Text callout",
+      "page": 13,
+      "font_size": 12.0
+    },
+    {
+      "level": "H4",
+      "text": "Set or change properties for the selected text",
+      "page": 13,
+      "font_size": 12.0
+    },
+    {
+      "level": "H4",
+      "text": "Properties",
       "page": 13,
       "font_size": 12.0
     },
@@ -224,14 +380,44 @@
       "font_size": 24.0
     },
     {
-      "level": "H3",
-      "text": "attaching files for a document review. Document-level file attachments that you attach",
+      "level": "H4",
+      "text": "Note: In Acrobat Reader",
       "page": 14,
       "font_size": 12.0
     },
     {
-      "level": "H3",
-      "text": "Note: To delete the attachment, right-click the attached comment icon, and choose",
+      "level": "H4",
+      "text": "Attach file",
+      "page": 14,
+      "font_size": 12.0
+    },
+    {
+      "level": "H4",
+      "text": "Note: Attach file",
+      "page": 14,
+      "font_size": 12.0
+    },
+    {
+      "level": "H4",
+      "text": "Attach file Edit More",
+      "page": 14,
+      "font_size": 12.0
+    },
+    {
+      "level": "H4",
+      "text": "Add a comment Attach file",
+      "page": 14,
+      "font_size": 12.0
+    },
+    {
+      "level": "H4",
+      "text": "Open",
+      "page": 14,
+      "font_size": 12.0
+    },
+    {
+      "level": "H4",
+      "text": "File Attachment Properties",
       "page": 14,
       "font_size": 12.0
     },
@@ -248,37 +434,49 @@
       "font_size": 16.0
     },
     {
-      "level": "H3",
+      "level": "H4",
       "text": "Font, Font Size",
       "page": 15,
       "font_size": 12.0
     },
     {
-      "level": "H3",
+      "level": "H4",
+      "text": "In Windows Mac OS",
+      "page": 15,
+      "font_size": 12.0
+    },
+    {
+      "level": "H4",
       "text": "Pop-up Opacity",
       "page": 15,
       "font_size": 12.0
     },
     {
-      "level": "H3",
+      "level": "H4",
       "text": "Enable Text Indicators And Tooltips",
       "page": 15,
       "font_size": 12.0
     },
     {
-      "level": "H3",
+      "level": "H4",
       "text": "Print Notes And Pop-ups",
       "page": 15,
       "font_size": 12.0
     },
     {
-      "level": "H3",
+      "level": "H4",
+      "text": "Summarize Comments",
+      "page": 15,
+      "font_size": 12.0
+    },
+    {
+      "level": "H4",
       "text": "Show Lines Connecting Comment Markups To Their Pop-ups On Mouse Rollover",
       "page": 15,
       "font_size": 12.0
     },
     {
-      "level": "H3",
+      "level": "H4",
       "text": "Ensure That Pop-ups Are Visible As The Document Is Scrolled",
       "page": 15,
       "font_size": 12.0

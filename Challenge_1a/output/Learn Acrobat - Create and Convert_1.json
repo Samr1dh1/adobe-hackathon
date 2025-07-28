@@ -21,79 +21,55 @@
     },
     {
       "level": "H4",
-      "text": "Or, select the hamburger menu (Windows) or",
+      "text": ": Create",
       "page": 2,
       "font_size": 12.0
     },
     {
       "level": "H4",
-      "text": "the File menu (macOS)  > Create and then select the",
+      "text": "File Create",
       "page": 2,
       "font_size": 12.0
     },
     {
       "level": "H4",
-      "text": "Any file format",
+      "text": "Convert to",
       "page": 2,
       "font_size": 12.0
     },
     {
       "level": "H4",
-      "text": "Method 3: Right-click on the file and then select Convert to",
+      "text": "Adobe PDF",
       "page": 2,
       "font_size": 12.0
     },
     {
       "level": "H4",
-      "text": "Method 4: Open the file in its source application and go",
+      "text": "Print Adobe PDF printer",
       "page": 3,
       "font_size": 12.0
     },
     {
       "level": "H4",
-      "text": "Method 1: From the top tools bar, select Create . Then,",
+      "text": "Create",
       "page": 3,
       "font_size": 12.0
     },
     {
       "level": "H4",
-      "text": "select Scanner as the file type, select the scanner, and follow",
+      "text": "Scanner",
       "page": 3,
       "font_size": 12.0
     },
     {
       "level": "H4",
-      "text": "Paper documents",
+      "text": "File Create from scanner",
       "page": 3,
       "font_size": 12.0
     },
     {
       "level": "H4",
-      "text": "(Requires a scanner)",
-      "page": 3,
-      "font_size": 12.0
-    },
-    {
-      "level": "H4",
-      "text": "Or, select the hamburger menu (Windows) or",
-      "page": 3,
-      "font_size": 12.0
-    },
-    {
-      "level": "H4",
-      "text": "the File menu (macOS) > Create from scanner and follow",
-      "page": 3,
-      "font_size": 12.0
-    },
-    {
-      "level": "H4",
-      "text": "Method 1 (Windows only): From the authoring application",
-      "page": 3,
-      "font_size": 12.0
-    },
-    {
-      "level": "H4",
-      "text": "toolbar, select Adobe Acrobat > Create and Share Adobe",
+      "text": "Adobe Acrobat Create and Share Adobe",
       "page": 3,
       "font_size": 12.0
     },
@@ -105,169 +81,85 @@
     },
     {
       "level": "H4",
-      "text": "Method 2 (Windows only): Open the file in its source",
+      "text": "Convert to Adobe PDF",
       "page": 3,
       "font_size": 12.0
     },
     {
       "level": "H4",
-      "text": "Microsoft Oﬃce",
+      "text": "File Print PDF Save as Adobe PDF",
       "page": 3,
       "font_size": 12.0
     },
     {
       "level": "H4",
-      "text": "Method 3 (Windows only): Right-click on the file and",
+      "text": "Print Adobe PDF Create a PDF",
       "page": 3,
       "font_size": 12.0
     },
     {
       "level": "H4",
-      "text": "documents",
+      "text": "Convert to",
       "page": 3,
       "font_size": 12.0
     },
     {
       "level": "H4",
-      "text": "Method 4: Drag and drop the file from your system to the",
+      "text": "Adobe PDF",
       "page": 3,
       "font_size": 12.0
     },
     {
       "level": "H4",
-      "text": "Method 5 (macOS only): From the authoring application,",
-      "page": 3,
-      "font_size": 12.0
-    },
-    {
-      "level": "H4",
-      "text": "Method 1 (Windows only): Within Microsoft Outlook or Lotus",
-      "page": 3,
-      "font_size": 12.0
-    },
-    {
-      "level": "H4",
-      "text": "Notes, select Acrobat PDFMaker or select Adobe PDF menu",
-      "page": 3,
-      "font_size": 12.0
-    },
-    {
-      "level": "H4",
-      "text": "Method 2 (Windows only): From the email application, go",
-      "page": 3,
-      "font_size": 12.0
-    },
-    {
-      "level": "H4",
-      "text": "Email messages",
-      "page": 3,
-      "font_size": 12.0
-    },
-    {
-      "level": "H4",
-      "text": "Method 3 (Outlook 2010 or later): From the email folder or",
-      "page": 3,
-      "font_size": 12.0
-    },
-    {
-      "level": "H4",
-      "text": "selection of messages, right-click and then select Convert to",
-      "page": 3,
-      "font_size": 12.0
-    },
-    {
-      "level": "H4",
-      "text": "Method 1: From the top tools bar, select Create . Then,",
+      "text": "Create",
       "page": 4,
       "font_size": 12.0
     },
     {
       "level": "H4",
-      "text": "select Web page as the file type and follow through the",
+      "text": "Web page",
       "page": 4,
       "font_size": 12.0
     },
     {
       "level": "H4",
-      "text": "Or, select the hamburger menu (Windows) or",
+      "text": "File Create PDF from web page",
       "page": 4,
       "font_size": 12.0
     },
     {
       "level": "H4",
-      "text": "the File menu (macOS) > Create > PDF from web page and",
+      "text": "Print Adobe PDF",
       "page": 4,
       "font_size": 12.0
     },
     {
       "level": "H4",
-      "text": "Web pages",
+      "text": "Clipboard",
       "page": 4,
       "font_size": 12.0
     },
     {
       "level": "H4",
-      "text": "Method 2: Drag and drop the HTML file from your system to",
+      "text": "File Create PDF from clipboard",
       "page": 4,
       "font_size": 12.0
     },
     {
       "level": "H4",
-      "text": "Method 3: Right-click on the file and then select Convert to",
+      "text": "File Create PDF from file",
       "page": 4,
       "font_size": 12.0
     },
     {
       "level": "H4",
-      "text": "Method 4: From the top-right corner of the webpage,",
+      "text": "Convert to Adobe",
       "page": 4,
       "font_size": 12.0
     },
     {
       "level": "H4",
-      "text": "select Clipboard as the file type and follow through the",
-      "page": 4,
-      "font_size": 12.0
-    },
-    {
-      "level": "H4",
-      "text": "Content copied on the",
-      "page": 4,
-      "font_size": 12.0
-    },
-    {
-      "level": "H4",
-      "text": "clipboard",
-      "page": 4,
-      "font_size": 12.0
-    },
-    {
-      "level": "H4",
-      "text": "the File menu (macOS) > Create > PDF from clipboard and",
-      "page": 4,
-      "font_size": 12.0
-    },
-    {
-      "level": "H4",
-      "text": "Method 1: From the top tools bar, select Create and then",
-      "page": 4,
-      "font_size": 12.0
-    },
-    {
-      "level": "H4",
-      "text": "the File menu (macOS) > Create > PDF from file and follow",
-      "page": 4,
-      "font_size": 12.0
-    },
-    {
-      "level": "H4",
-      "text": "AutoCAD files (Acrobat",
-      "page": 4,
-      "font_size": 12.0
-    },
-    {
-      "level": "H4",
-      "text": "Method 3: Right-click the file and select Convert to Adobe",
+      "text": "PDF",
       "page": 4,
       "font_size": 12.0
     },
@@ -279,61 +171,43 @@
     },
     {
       "level": "H4",
-      "text": "Method 1: From the top tools bar, select Create a PDF and",
+      "text": "Create a PDF",
       "page": 5,
       "font_size": 12.0
     },
     {
       "level": "H4",
-      "text": "Adobe Photoshop, Or, select the hamburger menu (Windows) or",
+      "text": "File Create PDF from file",
       "page": 5,
       "font_size": 12.0
     },
     {
       "level": "H4",
-      "text": "Method 2: Drag and drop the file from your system to the",
+      "text": "Create",
       "page": 5,
       "font_size": 12.0
     },
     {
       "level": "H4",
-      "text": "Method 1: From the top tools bar, select Create and then",
+      "text": "Method 3 Adobe",
       "page": 5,
       "font_size": 12.0
     },
     {
       "level": "H4",
-      "text": "Or, select the hamburger menu (Windows) or",
+      "text": "Presenter Publish",
       "page": 5,
       "font_size": 12.0
     },
     {
       "level": "H4",
-      "text": "the File menu (macOS) > Create > PDF from file and follow",
-      "page": 5,
+      "text": "Acrobat Distiller",
+      "page": 6,
       "font_size": 12.0
     },
     {
       "level": "H4",
-      "text": "3D files (Acrobat Pro)",
-      "page": 5,
-      "font_size": 12.0
-    },
-    {
-      "level": "H4",
-      "text": "Method 2: Drag and drop the HTML file from your system to",
-      "page": 5,
-      "font_size": 12.0
-    },
-    {
-      "level": "H4",
-      "text": "Method 3 : From Microsoft PowerPoint, select Adobe",
-      "page": 5,
-      "font_size": 12.0
-    },
-    {
-      "level": "H4",
-      "text": "using the convert to PDF tool, menu commands, dragging-and-dropping files onto the",
+      "text": "Microsoft Oﬃce",
       "page": 6,
       "font_size": 12.0
     },
@@ -351,25 +225,61 @@
     },
     {
       "level": "H4",
-      "text": "Select the hamburger menu > Create > PDF from File (Windows),",
+      "text": "Create",
+      "page": 7,
+      "font_size": 12.0
+    },
+    {
+      "level": "H4",
+      "text": "Single file",
+      "page": 7,
+      "font_size": 12.0
+    },
+    {
+      "level": "H4",
+      "text": "Select a file",
+      "page": 7,
+      "font_size": 12.0
+    },
+    {
+      "level": "H4",
+      "text": "Create PDF from File",
       "page": 8,
       "font_size": 12.0
     },
     {
       "level": "H4",
-      "text": "3. Optionally, select Advanced settings to change the conversion options if you're",
+      "text": "File Create PDF from File",
       "page": 8,
       "font_size": 12.0
     },
     {
       "level": "H4",
-      "text": "Advanced settings button is unavailable for Microsoft Word and Microsoft Excel files.)",
+      "text": "Advanced settings",
       "page": 8,
       "font_size": 12.0
     },
     {
       "level": "H4",
-      "text": "Depending on the type of ﬁle being converted, the authoring applica�on opens",
+      "text": "Advanced settings All Files",
+      "page": 8,
+      "font_size": 12.0
+    },
+    {
+      "level": "H4",
+      "text": "Create",
+      "page": 8,
+      "font_size": 12.0
+    },
+    {
+      "level": "H4",
+      "text": "Save Save",
+      "page": 8,
+      "font_size": 12.0
+    },
+    {
+      "level": "H4",
+      "text": "As File Save File Save As",
       "page": 8,
       "font_size": 12.0
     },
@@ -386,6 +296,24 @@
       "font_size": 16.0
     },
     {
+      "level": "H4",
+      "text": "All tools Convert to PDF",
+      "page": 9,
+      "font_size": 12.0
+    },
+    {
+      "level": "H4",
+      "text": "Open",
+      "page": 9,
+      "font_size": 12.0
+    },
+    {
+      "level": "H4",
+      "text": "Save Save As File Save File Save As",
+      "page": 9,
+      "font_size": 12.0
+    },
+    {
       "level": "H3",
       "text": "Convert clipboard content to PDF",
       "page": 10,
@@ -393,7 +321,55 @@
     },
     {
       "level": "H4",
-      "text": "Use the Screenshot utility ( Applications > Utilities > Screenshot ), and",
+      "text": "Windows Explorer Convert",
+      "page": 10,
+      "font_size": 12.0
+    },
+    {
+      "level": "H4",
+      "text": "to Adobe PDF",
+      "page": 10,
+      "font_size": 12.0
+    },
+    {
+      "level": "H4",
+      "text": "PrintScreen",
+      "page": 10,
+      "font_size": 12.0
+    },
+    {
+      "level": "H4",
+      "text": "Applications Utilities Screenshot",
+      "page": 10,
+      "font_size": 12.0
+    },
+    {
+      "level": "H4",
+      "text": "Edit Copy",
+      "page": 10,
+      "font_size": 12.0
+    },
+    {
+      "level": "H4",
+      "text": "All",
+      "page": 10,
+      "font_size": 12.0
+    },
+    {
+      "level": "H4",
+      "text": "tools Use print production Edit object",
+      "page": 10,
+      "font_size": 12.0
+    },
+    {
+      "level": "H4",
+      "text": "Create Clipboard Create All tools Create a",
+      "page": 10,
+      "font_size": 12.0
+    },
+    {
+      "level": "H4",
+      "text": "PDF Clipboard Create",
       "page": 10,
       "font_size": 12.0
     },
@@ -405,7 +381,31 @@
     },
     {
       "level": "H4",
-      "text": "Select the hamburger menu > Create > Blank Page (Windows),",
+      "text": "Microsoft Word",
+      "page": 11,
+      "font_size": 12.0
+    },
+    {
+      "level": "H4",
+      "text": "Create",
+      "page": 11,
+      "font_size": 12.0
+    },
+    {
+      "level": "H4",
+      "text": "Blank page Create",
+      "page": 11,
+      "font_size": 12.0
+    },
+    {
+      "level": "H4",
+      "text": "Create Blank Page",
+      "page": 11,
+      "font_size": 12.0
+    },
+    {
+      "level": "H4",
+      "text": "File Create Blank Page",
       "page": 11,
       "font_size": 12.0
     },
@@ -423,13 +423,49 @@
     },
     {
       "level": "H4",
-      "text": "Microsoft Office applications, AutoCAD, and Lotus Notes. When you install Acrobat,",
+      "text": "Edit Organize",
       "page": 12,
       "font_size": 12.0
     },
     {
       "level": "H4",
-      "text": "applications. For a comparison chart, see Compatible web browsers and PDFMaker",
+      "text": "pages Insert Blank page",
+      "page": 12,
+      "font_size": 12.0
+    },
+    {
+      "level": "H4",
+      "text": "Note",
+      "page": 12,
+      "font_size": 12.0
+    },
+    {
+      "level": "H4",
+      "text": "Create",
+      "page": 12,
+      "font_size": 12.0
+    },
+    {
+      "level": "H4",
+      "text": "Mul�ple ﬁles Create mul�ple",
+      "page": 12,
+      "font_size": 12.0
+    },
+    {
+      "level": "H4",
+      "text": "PDF ﬁles Next",
+      "page": 12,
+      "font_size": 12.0
+    },
+    {
+      "level": "H4",
+      "text": "Add Files Add Files Add Folders",
+      "page": 12,
+      "font_size": 12.0
+    },
+    {
+      "level": "H4",
+      "text": "Output Op�ons",
       "page": 12,
       "font_size": 12.0
     },
@@ -459,19 +495,55 @@
     },
     {
       "level": "H4",
-      "text": "If PDFMOutlook or Acrobat PDFMaker Office COM Add-in isn't listed, choose",
+      "text": "Adobe PDF",
       "page": 14,
       "font_size": 12.0
     },
     {
       "level": "H4",
-      "text": "If PDFMOutlook or Acrobat PDFMaker Office COM Add-in is listed under",
+      "text": "Adobe",
       "page": 14,
       "font_size": 12.0
     },
     {
       "level": "H4",
-      "text": "Disabled Application Add-ins, select Disabled Items from the Manage pop-up",
+      "text": "PDF Action",
+      "page": 14,
+      "font_size": 12.0
+    },
+    {
+      "level": "H4",
+      "text": "Acrobat",
+      "page": 14,
+      "font_size": 12.0
+    },
+    {
+      "level": "H4",
+      "text": "File Preferences",
+      "page": 14,
+      "font_size": 12.0
+    },
+    {
+      "level": "H4",
+      "text": "Toolbar Toolbars Acrobat PDFMaker",
+      "page": 14,
+      "font_size": 12.0
+    },
+    {
+      "level": "H4",
+      "text": "File Options",
+      "page": 14,
+      "font_size": 12.0
+    },
+    {
+      "level": "H4",
+      "text": "Acrobat PDFMaker Office COM Add-in",
+      "page": 14,
+      "font_size": 12.0
+    },
+    {
+      "level": "H4",
+      "text": "Acrobat PDFMaker Office COM Add-in OK",
       "page": 14,
       "font_size": 12.0
     },
@@ -489,13 +561,43 @@
     },
     {
       "level": "H4",
-      "text": "For Microsoft Office applications, such as Word, Excel, and PowerPoint, select",
+      "text": "Convert To Adobe PDF Acrobat PDFMaker",
       "page": 15,
       "font_size": 12.0
     },
     {
       "level": "H4",
-      "text": "Applicable to Microsoft Word, Excel, and PowerPoint",
+      "text": "Create PDF Acrobat",
+      "page": 15,
+      "font_size": 12.0
+    },
+    {
+      "level": "H4",
+      "text": "Save",
+      "page": 15,
+      "font_size": 12.0
+    },
+    {
+      "level": "H4",
+      "text": "View Result Protect PDF",
+      "page": 15,
+      "font_size": 12.0
+    },
+    {
+      "level": "H4",
+      "text": "Security",
+      "page": 15,
+      "font_size": 12.0
+    },
+    {
+      "level": "H4",
+      "text": "Home Create PDF and share link",
+      "page": 15,
+      "font_size": 12.0
+    },
+    {
+      "level": "H4",
+      "text": "File Share Create PDF and share link Create PDF and Share link",
       "page": 15,
       "font_size": 12.0
     },
@@ -507,8 +609,32 @@
     },
     {
       "level": "H4",
-      "text": "Applicable to Microsoft Word, Excel, and PowerPoint",
+      "text": "File Share as Adobe PDF link",
       "page": 16,
+      "font_size": 12.0
+    },
+    {
+      "level": "H4",
+      "text": "Home Create PDF and Share via Outlook",
+      "page": 16,
+      "font_size": 12.0
+    },
+    {
+      "level": "H4",
+      "text": "Acrobat Create PDF and Share via Outlook",
+      "page": 17,
+      "font_size": 12.0
+    },
+    {
+      "level": "H4",
+      "text": "File Share Email Create PDF and Share via Outlook",
+      "page": 17,
+      "font_size": 12.0
+    },
+    {
+      "level": "H4",
+      "text": "Send",
+      "page": 17,
       "font_size": 12.0
     },
     {
@@ -531,13 +657,91 @@
     },
     {
       "level": "H4",
-      "text": "For Microsoft Office applications, such as Word, Excel, and PowerPoint, click",
+      "text": "Adobe PDF Convert To Adobe PDF And Email",
       "page": 18,
       "font_size": 12.0
     },
     {
       "level": "H4",
-      "text": "Adobe Experience Manager Document Security using the All tools > Protect a",
+      "text": "Create And Share Acrobat",
+      "page": 18,
+      "font_size": 12.0
+    },
+    {
+      "level": "H4",
+      "text": "Send File By Email",
+      "page": 18,
+      "font_size": 12.0
+    },
+    {
+      "level": "H4",
+      "text": "Acrobat Attach as Adobe PDF",
+      "page": 18,
+      "font_size": 12.0
+    },
+    {
+      "level": "H4",
+      "text": "Open",
+      "page": 18,
+      "font_size": 12.0
+    },
+    {
+      "level": "H4",
+      "text": "Attach As Secured Adobe",
+      "page": 18,
+      "font_size": 12.0
+    },
+    {
+      "level": "H4",
+      "text": "PDF",
+      "page": 18,
+      "font_size": 12.0
+    },
+    {
+      "level": "H4",
+      "text": "Attach As Secured Adobe PDF",
+      "page": 18,
+      "font_size": 12.0
+    },
+    {
+      "level": "H4",
+      "text": "All tools Protect a",
+      "page": 18,
+      "font_size": 12.0
+    },
+    {
+      "level": "H4",
+      "text": "PDF Set Security Properties Security Method",
+      "page": 18,
+      "font_size": 12.0
+    },
+    {
+      "level": "H4",
+      "text": "Browse Open",
+      "page": 18,
+      "font_size": 12.0
+    },
+    {
+      "level": "H4",
+      "text": "Restrict Access Only To",
+      "page": 18,
+      "font_size": 12.0
+    },
+    {
+      "level": "H4",
+      "text": "People In This Message’s To:, Cc:, And Bcc",
+      "page": 18,
+      "font_size": 12.0
+    },
+    {
+      "level": "H4",
+      "text": "Restrict",
+      "page": 18,
+      "font_size": 12.0
+    },
+    {
+      "level": "H4",
+      "text": "Access By Applying The Following Security Policy",
       "page": 18,
       "font_size": 12.0
     },
@@ -555,13 +759,49 @@
     },
     {
       "level": "H4",
-      "text": "3. When the Identity Setup dialog box appears, enter the appropriate information",
+      "text": "Convert To Adobe PDF And Send For Review",
       "page": 19,
       "font_size": 12.0
     },
     {
       "level": "H4",
-      "text": "For Microsoft Office 2010 applications such as Word, Excel, and PowerPoint, click",
+      "text": "Adobe PDF Convert To Adobe PDF And",
+      "page": 19,
+      "font_size": 12.0
+    },
+    {
+      "level": "H4",
+      "text": "Send For Review",
+      "page": 19,
+      "font_size": 12.0
+    },
+    {
+      "level": "H4",
+      "text": "Identity Setup",
+      "page": 19,
+      "font_size": 12.0
+    },
+    {
+      "level": "H4",
+      "text": "Complete",
+      "page": 19,
+      "font_size": 12.0
+    },
+    {
+      "level": "H4",
+      "text": "Convert To Adobe PDF And Run Action",
+      "page": 19,
+      "font_size": 12.0
+    },
+    {
+      "level": "H4",
+      "text": "Adobe PDF Convert To Adobe PDF And Run Action",
+      "page": 19,
+      "font_size": 12.0
+    },
+    {
+      "level": "H4",
+      "text": "Create PDF And Run Action Acrobat",
       "page": 19,
       "font_size": 12.0
     },
@@ -579,7 +819,37 @@
     },
     {
       "level": "H4",
-      "text": "(Office 2010 applications) In the Acrobat or Adobe PDF ribbon,",
+      "text": "Change Adobe PDF Conversion Settings",
+      "page": 20,
+      "font_size": 12.0
+    },
+    {
+      "level": "H4",
+      "text": "Acrobat Adobe PDF",
+      "page": 20,
+      "font_size": 12.0
+    },
+    {
+      "level": "H4",
+      "text": "Preferences",
+      "page": 20,
+      "font_size": 12.0
+    },
+    {
+      "level": "H4",
+      "text": "Adobe PDF Change Conversion Settings",
+      "page": 20,
+      "font_size": 12.0
+    },
+    {
+      "level": "H4",
+      "text": "Restore Defaults",
+      "page": 20,
+      "font_size": 12.0
+    },
+    {
+      "level": "H4",
+      "text": "Settings",
       "page": 20,
       "font_size": 12.0
     },
@@ -597,7 +867,13 @@
     },
     {
       "level": "H4",
-      "text": "Adobe PDF And Email .)",
+      "text": "Convert To",
+      "page": 20,
+      "font_size": 12.0
+    },
+    {
+      "level": "H4",
+      "text": "Adobe PDF And Email",
       "page": 20,
       "font_size": 12.0
     },
@@ -614,6 +890,18 @@
       "font_size": 12.0
     },
     {
+      "level": "H4",
+      "text": "Properties",
+      "page": 20,
+      "font_size": 12.0
+    },
+    {
+      "level": "H4",
+      "text": "Advanced Adobe PDF",
+      "page": 20,
+      "font_size": 12.0
+    },
+    {
       "level": "H3",
       "text": "Security tab of the Adobe PDFMaker preferences",
       "page": 21,
@@ -621,7 +909,7 @@
     },
     {
       "level": "H4",
-      "text": "additional conversion options. These conversion settings apply to all Acrobat features that",
+      "text": "Advanced Settings Adobe PDF Settings",
       "page": 21,
       "font_size": 12.0
     },
@@ -639,7 +927,19 @@
     },
     {
       "level": "H4",
+      "text": "Document Open Password",
+      "page": 21,
+      "font_size": 12.0
+    },
+    {
+      "level": "H4",
       "text": "Restrict Editing And Printing Of The Document",
+      "page": 21,
+      "font_size": 12.0
+    },
+    {
+      "level": "H4",
+      "text": "Permissions",
       "page": 21,
       "font_size": 12.0
     },
@@ -652,6 +952,12 @@
     {
       "level": "H4",
       "text": "Printing Allowed",
+      "page": 21,
+      "font_size": 12.0
+    },
+    {
+      "level": "H4",
+      "text": "Permissions Password",
       "page": 21,
       "font_size": 12.0
     },
@@ -670,12 +976,6 @@
     {
       "level": "H4",
       "text": "Enable Text Access For Screen Reader Devices For The Visually Impaired",
-      "page": 21,
-      "font_size": 12.0
-    },
-    {
-      "level": "H4",
-      "text": "Prevents or allows screen reader devices to read text. (Selected by default.)",
       "page": 21,
       "font_size": 12.0
     },
@@ -710,6 +1010,60 @@
       "font_size": 16.0
     },
     {
+      "level": "H4",
+      "text": "Acrobat PDFMaker",
+      "page": 22,
+      "font_size": 12.0
+    },
+    {
+      "level": "H4",
+      "text": "Acrobat Create",
+      "page": 22,
+      "font_size": 12.0
+    },
+    {
+      "level": "H4",
+      "text": "Acrobat PDFMaker Conversion Range",
+      "page": 22,
+      "font_size": 12.0
+    },
+    {
+      "level": "H4",
+      "text": "Convert To PDF",
+      "page": 22,
+      "font_size": 12.0
+    },
+    {
+      "level": "H4",
+      "text": "Save Adobe PDF File As",
+      "page": 22,
+      "font_size": 12.0
+    },
+    {
+      "level": "H4",
+      "text": "Options",
+      "page": 22,
+      "font_size": 12.0
+    },
+    {
+      "level": "H4",
+      "text": "Save",
+      "page": 22,
+      "font_size": 12.0
+    },
+    {
+      "level": "H4",
+      "text": "Page Range Slide Range",
+      "page": 22,
+      "font_size": 12.0
+    },
+    {
+      "level": "H4",
+      "text": "OK Save",
+      "page": 22,
+      "font_size": 12.0
+    },
+    {
       "level": "H1",
       "text": "Convert email messages to PDFs",
       "page": 23,
@@ -735,19 +1089,91 @@
     },
     {
       "level": "H4",
-      "text": "The Acrobat PDFMaker Conversion Settings dialog box contains the option that determines",
+      "text": "PDF Portfolio PDF",
       "page": 23,
       "font_size": 12.0
     },
     {
       "level": "H4",
-      "text": "document, deselect Output Adobe PDF Portfolio When Creating A New PDF",
+      "text": "Portfolio",
       "page": 23,
       "font_size": 12.0
     },
     {
       "level": "H4",
-      "text": "To assemble converted email messages as components of a PDF Portfolio ,",
+      "text": "Acrobat PDFMaker Conversion Settings",
+      "page": 23,
+      "font_size": 12.0
+    },
+    {
+      "level": "H4",
+      "text": "PDF",
+      "page": 23,
+      "font_size": 12.0
+    },
+    {
+      "level": "H4",
+      "text": "Acrobat PDFMaker",
+      "page": 23,
+      "font_size": 12.0
+    },
+    {
+      "level": "H4",
+      "text": "Adobe PDF",
+      "page": 23,
+      "font_size": 12.0
+    },
+    {
+      "level": "H4",
+      "text": "PDF Portfolio",
+      "page": 23,
+      "font_size": 12.0
+    },
+    {
+      "level": "H4",
+      "text": "File Print Adobe PDF Print",
+      "page": 23,
+      "font_size": 12.0
+    },
+    {
+      "level": "H4",
+      "text": "Acrobat Change Conversion Settings",
+      "page": 23,
+      "font_size": 12.0
+    },
+    {
+      "level": "H4",
+      "text": "Change Adobe PDF Conversion Settings",
+      "page": 23,
+      "font_size": 12.0
+    },
+    {
+      "level": "H4",
+      "text": "Output Adobe PDF Portfolio When Creating A New PDF",
+      "page": 23,
+      "font_size": 12.0
+    },
+    {
+      "level": "H4",
+      "text": "File",
+      "page": 23,
+      "font_size": 12.0
+    },
+    {
+      "level": "H4",
+      "text": "Output Adobe PDF Portfolio When Creating A New PDF File",
+      "page": 23,
+      "font_size": 12.0
+    },
+    {
+      "level": "H4",
+      "text": "Acrobat Convert To Adobe PDF",
+      "page": 23,
+      "font_size": 12.0
+    },
+    {
+      "level": "H4",
+      "text": "Attach As Adobe PDF",
       "page": 23,
       "font_size": 12.0
     },
@@ -765,19 +1191,91 @@
     },
     {
       "level": "H4",
-      "text": "(Outlook) Choose Acrobat > Selected Messages > Append To Existing PDF ,",
+      "text": "Acrobat Selected Messages Create New PDF",
       "page": 24,
       "font_size": 12.0
     },
     {
       "level": "H4",
-      "text": "(Lotus Notes) Choose Actions > Append Selected Message(s) To Existing",
+      "text": "Convert Selected Messages To Adobe PDF",
       "page": 24,
       "font_size": 12.0
     },
     {
       "level": "H4",
-      "text": "the original PDF filename.) When the conversion is complete and the Creating",
+      "text": "Save Adobe PDF As",
+      "page": 24,
+      "font_size": 12.0
+    },
+    {
+      "level": "H4",
+      "text": "Save",
+      "page": 24,
+      "font_size": 12.0
+    },
+    {
+      "level": "H4",
+      "text": "Acrobat Selected Messages Append To Existing PDF",
+      "page": 24,
+      "font_size": 12.0
+    },
+    {
+      "level": "H4",
+      "text": "Acrobat Selected Folders Append To Existing PDF",
+      "page": 24,
+      "font_size": 12.0
+    },
+    {
+      "level": "H4",
+      "text": "Note: PDF Portfolios",
+      "page": 24,
+      "font_size": 12.0
+    },
+    {
+      "level": "H4",
+      "text": "PDF Portfolios Append To Existing PDF",
+      "page": 24,
+      "font_size": 12.0
+    },
+    {
+      "level": "H4",
+      "text": "Append Selected Message(s) To Existing",
+      "page": 24,
+      "font_size": 12.0
+    },
+    {
+      "level": "H4",
+      "text": "Adobe PDF Append Selected Folder(s) To Existing Adobe PDF",
+      "page": 24,
+      "font_size": 12.0
+    },
+    {
+      "level": "H4",
+      "text": "PDF Portfolio",
+      "page": 24,
+      "font_size": 12.0
+    },
+    {
+      "level": "H4",
+      "text": "Open",
+      "page": 24,
+      "font_size": 12.0
+    },
+    {
+      "level": "H4",
+      "text": "PDF Portfolio Yes",
+      "page": 24,
+      "font_size": 12.0
+    },
+    {
+      "level": "H4",
+      "text": "Creating",
+      "page": 24,
+      "font_size": 12.0
+    },
+    {
+      "level": "H4",
+      "text": "Adobe PDF",
       "page": 24,
       "font_size": 12.0
     },
@@ -788,10 +1286,76 @@
       "font_size": 16.0
     },
     {
+      "level": "H4",
+      "text": "PDF Portfolios",
+      "page": 25,
+      "font_size": 12.0
+    },
+    {
+      "level": "H4",
+      "text": "PDF Portfolio",
+      "page": 25,
+      "font_size": 12.0
+    },
+    {
+      "level": "H4",
+      "text": "Acrobat Selected Folders Create New PDF",
+      "page": 25,
+      "font_size": 12.0
+    },
+    {
+      "level": "H4",
+      "text": "Convert Selected Folder(s) To Adobe PDF",
+      "page": 25,
+      "font_size": 12.0
+    },
+    {
+      "level": "H4",
+      "text": "Convert Folder(s) To PDF",
+      "page": 25,
+      "font_size": 12.0
+    },
+    {
+      "level": "H4",
+      "text": "Convert This Folder And All Sub Folders",
+      "page": 25,
+      "font_size": 12.0
+    },
+    {
+      "level": "H4",
+      "text": "Save Adobe PDF File As PDF Portfolio",
+      "page": 25,
+      "font_size": 12.0
+    },
+    {
       "level": "H1",
       "text": "Set up automatic email archiving",
       "page": 26,
       "font_size": 24.0
+    },
+    {
+      "level": "H4",
+      "text": "Acrobat Setup Automatic Archival",
+      "page": 26,
+      "font_size": 12.0
+    },
+    {
+      "level": "H4",
+      "text": "Setup Automatic Archival",
+      "page": 26,
+      "font_size": 12.0
+    },
+    {
+      "level": "H4",
+      "text": "Automatic Archival Acrobat PDFMaker Enable",
+      "page": 26,
+      "font_size": 12.0
+    },
+    {
+      "level": "H4",
+      "text": "Automatic Archival Frequency",
+      "page": 26,
+      "font_size": 12.0
     },
     {
       "level": "H4",
@@ -812,6 +1376,66 @@
       "font_size": 12.0
     },
     {
+      "level": "H4",
+      "text": "Add",
+      "page": 26,
+      "font_size": 12.0
+    },
+    {
+      "level": "H4",
+      "text": "Convert This Folder And All Sub Folders OK",
+      "page": 26,
+      "font_size": 12.0
+    },
+    {
+      "level": "H4",
+      "text": "Save PDF Archive File As",
+      "page": 26,
+      "font_size": 12.0
+    },
+    {
+      "level": "H4",
+      "text": "Open",
+      "page": 26,
+      "font_size": 12.0
+    },
+    {
+      "level": "H4",
+      "text": "Acrobat",
+      "page": 26,
+      "font_size": 12.0
+    },
+    {
+      "level": "H4",
+      "text": "PDFMaker",
+      "page": 26,
+      "font_size": 12.0
+    },
+    {
+      "level": "H4",
+      "text": "Delete",
+      "page": 26,
+      "font_size": 12.0
+    },
+    {
+      "level": "H4",
+      "text": "Change",
+      "page": 26,
+      "font_size": 12.0
+    },
+    {
+      "level": "H4",
+      "text": "Archive File",
+      "page": 26,
+      "font_size": 12.0
+    },
+    {
+      "level": "H4",
+      "text": "Run Archival Now",
+      "page": 26,
+      "font_size": 12.0
+    },
+    {
       "level": "H1",
       "text": "Create PDFs from Word mail merges",
       "page": 27,
@@ -819,13 +1443,49 @@
     },
     {
       "level": "H4",
-      "text": "Mail merges from Word generate documents like form letters—for one common example—",
+      "text": "Acrobat Mail Merge",
       "page": 27,
       "font_size": 12.0
     },
     {
       "level": "H4",
-      "text": "might appear as JulyLetter_0000123, JulyLetter_0000124, JulyLetter_0000125, and",
+      "text": "Mail Merge To Adobe PDF",
+      "page": 27,
+      "font_size": 12.0
+    },
+    {
+      "level": "H4",
+      "text": "Acrobat PDFMaker - Mail Merge",
+      "page": 27,
+      "font_size": 12.0
+    },
+    {
+      "level": "H4",
+      "text": "All Current",
+      "page": 27,
+      "font_size": 12.0
+    },
+    {
+      "level": "H4",
+      "text": "From To",
+      "page": 27,
+      "font_size": 12.0
+    },
+    {
+      "level": "H4",
+      "text": "Specify PDF File Name",
+      "page": 27,
+      "font_size": 12.0
+    },
+    {
+      "level": "H4",
+      "text": "JulyLetter Specify PDF File Name",
+      "page": 27,
+      "font_size": 12.0
+    },
+    {
+      "level": "H4",
+      "text": "Automatically Send Adobe PDF Files By Emai",
       "page": 27,
       "font_size": 12.0
     },
@@ -837,7 +1497,13 @@
     },
     {
       "level": "H4",
-      "text": "Status indicators appear as PDFMaker generates the individual PDFs,",
+      "text": "Browse For Folder",
+      "page": 28,
+      "font_size": 12.0
+    },
+    {
+      "level": "H4",
+      "text": "Automatically Send Adobe PDF Files By Email",
       "page": 28,
       "font_size": 12.0
     },
@@ -867,31 +1533,43 @@
     },
     {
       "level": "H4",
-      "text": "properties, links, bookmarks, and comments, depending on the conversion settings. To specify",
+      "text": "Acrobat Preferences",
       "page": 29,
       "font_size": 12.0
     },
     {
       "level": "H4",
-      "text": "the properties",
+      "text": "Adobe PDF Convert All Pages In Drawing",
       "page": 29,
       "font_size": 12.0
     },
     {
       "level": "H4",
-      "text": "(Visio 2010) From the ribbon choose Acrobat > Preferences",
+      "text": "Acrobat Create PDF",
       "page": 29,
       "font_size": 12.0
     },
     {
       "level": "H4",
-      "text": "below.)",
+      "text": "Acrobat Convert To Adobe PDF",
       "page": 29,
       "font_size": 12.0
     },
     {
       "level": "H4",
-      "text": "(Visio 2010) Choose Acrobat > Preferences",
+      "text": "Acrobat Create and Attach To Email",
+      "page": 29,
+      "font_size": 12.0
+    },
+    {
+      "level": "H4",
+      "text": "Acrobat Create and Send For Review",
+      "page": 29,
+      "font_size": 12.0
+    },
+    {
+      "level": "H4",
+      "text": "Continue",
       "page": 29,
       "font_size": 12.0
     }

@@ -14,26 +14,20 @@
       "font_size": 18.0
     },
     {
-      "level": "H2",
-      "text": "Adobe LiveCycleRights Management (ALCRM) servers let you define centralized policies to",
+      "level": "H4",
+      "text": "Adobe LiveCycle Rights Management",
       "page": 1,
-      "font_size": 12.0
+      "font_size": 24.0
     },
     {
-      "level": "H2",
-      "text": "ALCRM servers embed user access information in documents. Therefore, specify document",
+      "level": "H4",
+      "text": "(ALCRM) servers",
       "page": 1,
-      "font_size": 12.0
+      "font_size": 24.0
     },
     {
-      "level": "H2",
-      "text": "signer and the signed content. Depending on how you’ve configured your application,",
-      "page": 1,
-      "font_size": 12.0
-    },
-    {
-      "level": "H2",
-      "text": "validation may occur automatically. Signature validity is determined by checking the",
+      "level": "H4",
+      "text": "Adobe LiveCycleRights Management",
       "page": 1,
       "font_size": 12.0
     },
@@ -44,62 +38,26 @@
       "font_size": 18.0
     },
     {
-      "level": "H2",
-      "text": "Set automatic validation of signatures : With the Verify signatures when the",
+      "level": "H4",
+      "text": "Acrobat Preferences",
+      "page": 2,
+      "font_size": 12.0
+    },
+    {
+      "level": "H4",
+      "text": "Signatures",
+      "page": 2,
+      "font_size": 12.0
+    },
+    {
+      "level": "H4",
+      "text": "Set automatic validation of signatures",
       "page": 3,
       "font_size": 12.0
     },
     {
-      "level": "H2",
-      "text": "document is opened",
-      "page": 3,
-      "font_size": 12.0
-    },
-    {
-      "level": "H2",
-      "text": "check box selected, Acrobat automatically validates all",
-      "page": 3,
-      "font_size": 12.0
-    },
-    {
-      "level": "H2",
-      "text": "Set verification behavior: The options specify methods that determine",
-      "page": 3,
-      "font_size": 12.0
-    },
-    {
-      "level": "H2",
-      "text": "which plug-in to choose when verifying a signature. The appropriate plug-in",
-      "page": 3,
-      "font_size": 12.0
-    },
-    {
-      "level": "H2",
-      "text": "is often selected automatically. Contact your system administrator about",
-      "page": 3,
-      "font_size": 12.0
-    },
-    {
-      "level": "H2",
-      "text": "Check the revocation status of certificates : With the Require certificate",
-      "page": 3,
-      "font_size": 12.0
-    },
-    {
-      "level": "H2",
-      "text": "revocation checking to succeed... checkbox selected, Acrobat checks",
-      "page": 3,
-      "font_size": 12.0
-    },
-    {
-      "level": "H2",
-      "text": "certificates against a list of excluded certificates during validation. If you",
-      "page": 3,
-      "font_size": 12.0
-    },
-    {
-      "level": "H2",
-      "text": "deselect the check box, the revocation status for Acrobat Approval",
+      "level": "H4",
+      "text": "Check the revocation status of certificates",
       "page": 3,
       "font_size": 12.0
     },
@@ -110,128 +68,98 @@
       "font_size": 18.0
     },
     {
-      "level": "H2",
-      "text": "signatures is ignored. The revocation status is always checked to certify",
+      "level": "H4",
+      "text": "Use expired timestamps",
       "page": 4,
       "font_size": 12.0
     },
     {
-      "level": "H2",
-      "text": "mentioned in the timestamp or embedded in the signature, even if the",
+      "level": "H4",
+      "text": "Set verification for time",
       "page": 4,
       "font_size": 12.0
     },
     {
-      "level": "H2",
-      "text": "signature’s certificate has expired. If you deselect the check box, Acrobat",
+      "level": "H4",
+      "text": "Add verification information",
       "page": 4,
       "font_size": 12.0
     },
     {
-      "level": "H2",
-      "text": "Set verification for time : You can select the appropriate options under",
+      "level": "H4",
+      "text": "Configure to trust the root certificates in the Windows® certificate store",
       "page": 4,
       "font_size": 12.0
     },
     {
-      "level": "H2",
-      "text": "check the timestamp embedded in the signature, or to check the current",
+      "level": "H4",
+      "text": "Validating signatures",
       "page": 4,
       "font_size": 12.0
     },
     {
-      "level": "H2",
-      "text": "Add verification information : Select appropriate options under 'Verification",
+      "level": "H4",
+      "text": "Validating certified documents",
       "page": 4,
       "font_size": 12.0
     },
     {
-      "level": "H2",
-      "text": "You can specify whether to trust all root certificates in the Windows®",
+      "level": "H4",
+      "text": "Acrobat",
       "page": 4,
       "font_size": 12.0
     },
     {
-      "level": "H2",
-      "text": "Validating signatures : Certificates are trusted for Acrobat Approval",
+      "level": "H4",
+      "text": "Preferences Signatures",
       "page": 4,
       "font_size": 12.0
     },
     {
-      "level": "H2",
-      "text": "Validating certified documents : Certificates are trusted for",
+      "level": "H4",
+      "text": "Trusted Certificates",
       "page": 4,
       "font_size": 12.0
     },
     {
-      "level": "H2",
-      "text": "1. Navigate to the hamburger menu (Windows) or the Acrobat menu (macOS)",
-      "page": 4,
-      "font_size": 12.0
-    },
-    {
-      "level": "H2",
-      "text": "authority in a chain of certificate authorities that issued the certificate. By",
+      "level": "H4",
+      "text": "Edit Trust",
       "page": 5,
       "font_size": 12.0
     },
     {
-      "level": "H2",
-      "text": "trusting the root certificate, you trust all certificates issued by that certificate",
+      "level": "H4",
+      "text": "Use this certificate as a trusted root",
       "page": 5,
       "font_size": 12.0
     },
     {
-      "level": "H2",
-      "text": "document with a signature. You trust the signer for certifying documents, and",
+      "level": "H4",
+      "text": "Signed documents or data",
       "page": 5,
       "font_size": 12.0
     },
     {
-      "level": "H2",
-      "text": "When the 'Certified documents' option is selected, the following options are",
+      "level": "H4",
+      "text": "Certified documents",
       "page": 5,
       "font_size": 12.0
     },
     {
-      "level": "H2",
-      "text": "Dynamic content : It a llows movies, sound, and other dynamic elements",
+      "level": "H4",
+      "text": "Dynamic content",
       "page": 5,
       "font_size": 12.0
     },
     {
-      "level": "H2",
+      "level": "H4",
       "text": "Embedded high privilege JavaScript™",
       "page": 5,
       "font_size": 12.0
     },
     {
-      "level": "H2",
-      "text": ": It a llows privileged JavaScript™",
-      "page": 5,
-      "font_size": 12.0
-    },
-    {
-      "level": "H2",
-      "text": "ways. It’s prudent to select this option only when necessary on",
-      "page": 5,
-      "font_size": 12.0
-    },
-    {
-      "level": "H2",
-      "text": "Privileged system operations : It a llows Internet connections, cross-",
-      "page": 5,
-      "font_size": 12.0
-    },
-    {
-      "level": "H2",
-      "text": "domain scripting, silent printing, external-object references, and",
-      "page": 5,
-      "font_size": 12.0
-    },
-    {
-      "level": "H2",
-      "text": "Note: Allow Embedded high privilege JavaScript™ and Privileged system operations only",
+      "level": "H4",
+      "text": "Privileged system operations",
       "page": 5,
       "font_size": 12.0
     },
@@ -260,8 +188,8 @@
       "font_size": 18.0
     },
     {
-      "level": "H2",
-      "text": "related tasks, including adding, clearing, and validating signatures. In some cases, however,",
+      "level": "H4",
+      "text": "Note: Signatures",
       "page": 6,
       "font_size": 12.0
     },
@@ -284,8 +212,32 @@
       "font_size": 18.0
     },
     {
-      "level": "H2",
-      "text": "require employees to validate signatures without any manual intervention. Acrobat trusts all",
+      "level": "H4",
+      "text": "Validate all digital signatures",
+      "page": 8,
+      "font_size": 24.0
+    },
+    {
+      "level": "H4",
+      "text": "All tools",
+      "page": 8,
+      "font_size": 12.0
+    },
+    {
+      "level": "H4",
+      "text": "View",
+      "page": 8,
+      "font_size": 12.0
+    },
+    {
+      "level": "H4",
+      "text": "Signed Version",
+      "page": 8,
+      "font_size": 12.0
+    },
+    {
+      "level": "H4",
+      "text": "Compare Signed Version To Current Version",
       "page": 8,
       "font_size": 12.0
     },
@@ -308,6 +260,12 @@
       "font_size": 18.0
     },
     {
+      "level": "H4",
+      "text": "Open file",
+      "page": 9,
+      "font_size": 12.0
+    },
+    {
       "level": "H1",
       "text": "XML data signatures",
       "page": 10,
@@ -320,32 +278,20 @@
       "font_size": 18.0
     },
     {
-      "level": "H2",
-      "text": "Forms Architectures (XFA) forms. The form author provides XML signing, validating, or",
+      "level": "H4",
+      "text": "Acrobat Save as other Acrobat Reader",
       "page": 10,
       "font_size": 12.0
     },
     {
-      "level": "H2",
-      "text": "XML data signatures conform to the W3C XML-Signature standard. Like PDF digital",
+      "level": "H4",
+      "text": "extended PDF",
       "page": 10,
       "font_size": 12.0
     },
     {
-      "level": "H2",
-      "text": "signatures, XML digital signatures ensure integrity, authentication, and non-repudiation in",
-      "page": 10,
-      "font_size": 12.0
-    },
-    {
-      "level": "H2",
-      "text": "The necessary elements for signature validity include the signing certificate chain, certificate",
-      "page": 10,
-      "font_size": 12.0
-    },
-    {
-      "level": "H2",
-      "text": "Note: Embedding timestamp information requires an appropriately configured timestamp",
+      "level": "H4",
+      "text": "Preferences Security Advanced Preferences Verification",
       "page": 10,
       "font_size": 12.0
     },
@@ -362,14 +308,20 @@
       "font_size": 18.0
     },
     {
-      "level": "H2",
-      "text": "In certain workflows, signature validation information may be unavailable during the signing",
+      "level": "H4",
+      "text": "Preferences Signatures Creation & Appearances More",
       "page": 11,
       "font_size": 12.0
     },
     {
-      "level": "H2",
-      "text": "while traveling without internet access. When internet access is later available, anyone",
+      "level": "H4",
+      "text": "Include signature’s revocation status",
+      "page": 11,
+      "font_size": 12.0
+    },
+    {
+      "level": "H4",
+      "text": "Add Verification Information",
       "page": 11,
       "font_size": 12.0
     }

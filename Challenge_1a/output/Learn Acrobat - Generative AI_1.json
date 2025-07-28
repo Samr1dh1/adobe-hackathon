@@ -8,42 +8,6 @@
       "font_size": 24.0
     },
     {
-      "level": "H3",
-      "text": "German, Spanish, Italian, Portuguese, or Japanese. To understand the governing terms,",
-      "page": 2,
-      "font_size": 12.0
-    },
-    {
-      "level": "H3",
-      "text": "review Adobe's Generative AI User Guidelines. To understand Adobe's data handling",
-      "page": 2,
-      "font_size": 12.0
-    },
-    {
-      "level": "H3",
-      "text": "The AI-powered features in Acrobat and Acrobat Reader support multiple document types,",
-      "page": 2,
-      "font_size": 12.0
-    },
-    {
-      "level": "H3",
-      "text": "Zoom meeting transcripts. The capabilities improve comprehension and save time across",
-      "page": 2,
-      "font_size": 12.0
-    },
-    {
-      "level": "H3",
-      "text": "comprehensive and informative way. It can analyze multiple documents to uncover",
-      "page": 2,
-      "font_size": 12.0
-    },
-    {
-      "level": "H3",
-      "text": "Generative summary automatically provides an outline with headings and summaries to",
-      "page": 2,
-      "font_size": 12.0
-    },
-    {
       "level": "H2",
       "text": "Benefits of generative AI features",
       "page": 3,
@@ -68,43 +32,25 @@
       "font_size": 16.0
     },
     {
-      "level": "H3",
-      "text": "The generative AI features in Acrobat and Acrobat Reader significantly improve",
+      "level": "H4",
+      "text": "- Enhanced productivity",
       "page": 3,
       "font_size": 12.0
     },
     {
-      "level": "H3",
-      "text": "- Improved comprehension: You can better understand complex PDF documents",
+      "level": "H4",
+      "text": "- Impactful content",
       "page": 3,
       "font_size": 12.0
     },
     {
-      "level": "H3",
-      "text": "including Teams and Zoom meeting transcripts, streamlining your workflow and",
-      "page": 3,
-      "font_size": 12.0
-    },
-    {
-      "level": "H3",
-      "text": "attributions. Acrobat and Acrobat Reader generative AI features are built upon powerful,",
-      "page": 3,
-      "font_size": 12.0
-    },
-    {
-      "level": "H3",
-      "text": "emerging large language model technologies that may generate outputs that are inaccurate",
-      "page": 3,
-      "font_size": 12.0
-    },
-    {
-      "level": "H3",
+      "level": "H4",
       "text": "professional advice or any opinions, judgments, or recommendations without conducting",
       "page": 3,
       "font_size": 12.0
     },
     {
-      "level": "H3",
+      "level": "H4",
       "text": "your own independent consultation or research. Generative AI features cannot replace",
       "page": 3,
       "font_size": 12.0
@@ -116,199 +62,133 @@
       "font_size": 16.0
     },
     {
-      "level": "H3",
-      "text": "where the answer came from in the document. Please double-check all AI-generated",
-      "page": 4,
-      "font_size": 12.0
-    },
-    {
-      "level": "H3",
+      "level": "H4",
       "text": "Content usage and handling practices",
       "page": 4,
       "font_size": 12.0
     },
     {
-      "level": "H3",
-      "text": "This FAQ addresses Adobe’s content usage and handling practices specific to improving",
-      "page": 4,
-      "font_size": 12.0
-    },
-    {
-      "level": "H3",
-      "text": "information about your prompt (for example, question type) and document (for example,",
-      "page": 4,
-      "font_size": 12.0
-    },
-    {
-      "level": "H3",
-      "text": "number of pages, document structure, document type, and other document statistics) for",
-      "page": 4,
-      "font_size": 12.0
-    },
-    {
-      "level": "H3",
+      "level": "H4",
       "text": "acrobat reader?",
       "page": 4,
       "font_size": 12.0
     },
     {
-      "level": "H3",
-      "text": "harmful, illegal, offensive, etc.), we investigate it by manually reviewing the document,",
+      "level": "H4",
+      "text": "Reported content, bugs, or vulnerabilities",
       "page": 4,
       "font_size": 12.0
     },
     {
-      "level": "H3",
-      "text": "User-Provided Feedback . For Acrobat Individual users* and Acrobat Reader users that",
+      "level": "H4",
+      "text": "User-Provided Feedback",
       "page": 4,
       "font_size": 12.0
     },
     {
-      "level": "H3",
-      "text": "and generated responses during a document session for product improvement",
-      "page": 4,
-      "font_size": 12.0
-    },
-    {
-      "level": "H3",
-      "text": "product improvement include improving the operability of generative AI in Acrobat",
-      "page": 5,
-      "font_size": 12.0
-    },
-    {
-      "level": "H3",
-      "text": "wish to share your content, please uncheck the product improvement checkbox when",
-      "page": 5,
-      "font_size": 12.0
-    },
-    {
-      "level": "H3",
+      "level": "H4",
       "text": "providing feedback?",
       "page": 5,
       "font_size": 12.0
     },
     {
-      "level": "H3",
-      "text": "When you share your documents, textual prompts, and the generated responses with",
-      "page": 5,
-      "font_size": 12.0
-    },
-    {
-      "level": "H3",
-      "text": "applying data masking procedures to this content (i.e., replacing personal information",
-      "page": 5,
-      "font_size": 12.0
-    },
-    {
-      "level": "H3",
-      "text": "with predefined categories using Named Entity Recognition, e.g., replacing “John",
-      "page": 5,
-      "font_size": 12.0
-    },
-    {
-      "level": "H3",
-      "text": "Content is stored for 30 days in an encrypted, siloed, Adobe-controlled environment",
-      "page": 5,
-      "font_size": 12.0
-    },
-    {
-      "level": "H3",
+      "level": "H4",
       "text": "feedback, how long do we retain that content?",
       "page": 5,
       "font_size": 12.0
     },
     {
-      "level": "H3",
+      "level": "H4",
       "text": "open a file in the application?",
       "page": 5,
       "font_size": 12.0
     },
     {
-      "level": "H3",
+      "level": "H4",
       "text": "application?",
       "page": 5,
       "font_size": 12.0
     },
     {
-      "level": "H3",
-      "text": "entitlements. Users with Enterprise entitlements may only receive Acrobat generative AI",
-      "page": 6,
-      "font_size": 12.0
-    },
-    {
-      "level": "H3",
+      "level": "H4",
       "text": "What LLMS are we leveraging to power generative ai in acrobat?",
       "page": 6,
       "font_size": 12.0
     },
     {
-      "level": "H3",
-      "text": "have integrated the Microsoft Azure OpenAI Service with our proprietary technologies to",
-      "page": 6,
-      "font_size": 12.0
-    },
-    {
-      "level": "H3",
+      "level": "H4",
       "text": "Does adobe concurrently train any large language models (“LLMS”) with your content",
       "page": 6,
       "font_size": 12.0
     },
     {
-      "level": "H3",
+      "level": "H4",
       "text": "while you're using generative ai features in acrobat?",
       "page": 6,
       "font_size": 12.0
     },
     {
-      "level": "H3",
+      "level": "H4",
       "text": "Managing chat history",
       "page": 6,
       "font_size": 12.0
     },
     {
-      "level": "H3",
+      "level": "H4",
       "text": "What is chat history?",
       "page": 6,
       "font_size": 12.0
     },
     {
-      "level": "H3",
+      "level": "H4",
       "text": "How can I see my chat history?",
       "page": 6,
       "font_size": 12.0
     },
     {
-      "level": "H3",
+      "level": "H4",
       "text": "Where is my chat history stored?",
       "page": 7,
       "font_size": 12.0
     },
     {
-      "level": "H3",
+      "level": "H4",
       "text": "Can I export my chat history in AI Assistant?",
       "page": 7,
       "font_size": 12.0
     },
     {
-      "level": "H3",
+      "level": "H4",
       "text": "How can I clear my chat history in AI Assistant?",
       "page": 7,
       "font_size": 12.0
     },
     {
-      "level": "H3",
+      "level": "H4",
+      "text": "More",
+      "page": 7,
+      "font_size": 12.0
+    },
+    {
+      "level": "H4",
+      "text": "Clear chat history",
+      "page": 7,
+      "font_size": 12.0
+    },
+    {
+      "level": "H4",
       "text": "Can I disable chat history in AI Assistant?",
       "page": 7,
       "font_size": 12.0
     },
     {
-      "level": "H3",
+      "level": "H4",
       "text": "Can i share my chat history with others?",
       "page": 7,
       "font_size": 12.0
     },
     {
-      "level": "H3",
+      "level": "H4",
       "text": "google drive or OneDrive?",
       "page": 7,
       "font_size": 12.0
@@ -320,92 +200,50 @@
       "font_size": 24.0
     },
     {
-      "level": "H3",
-      "text": "File considerations The language of the PDF file is English, French,",
+      "level": "H4",
+      "text": "File considerations",
       "page": 9,
       "font_size": 12.0
     },
     {
-      "level": "H3",
-      "text": "German, Spanish, Italian, Brazilian Portuguese, or",
-      "page": 9,
-      "font_size": 12.0
-    },
-    {
-      "level": "H3",
-      "text": "The PDF shouldn’t be password protected or have any",
-      "page": 9,
-      "font_size": 12.0
-    },
-    {
-      "level": "H3",
-      "text": "The maximum character limit for the text selection",
-      "page": 9,
-      "font_size": 12.0
-    },
-    {
-      "level": "H3",
-      "text": "feature in AI Assistant is 8000 characters. The selected",
-      "page": 9,
-      "font_size": 12.0
-    },
-    {
-      "level": "H3",
-      "text": "text must be on a single page and cannot span multiple",
-      "page": 9,
-      "font_size": 12.0
-    },
-    {
-      "level": "H3",
+      "level": "H4",
       "text": "Account and login",
       "page": 9,
       "font_size": 12.0
     },
     {
-      "level": "H3",
+      "level": "H4",
+      "text": "Usage",
+      "page": 9,
+      "font_size": 12.0
+    },
+    {
+      "level": "H4",
       "text": "App settings",
       "page": 9,
       "font_size": 12.0
     },
     {
-      "level": "H3",
-      "text": "Set the language of the Acrobat or Acrobat Reader app",
+      "level": "H4",
+      "text": "Enable new Acrobat",
       "page": 9,
       "font_size": 12.0
     },
     {
-      "level": "H3",
-      "text": "to English, French, German, Spanish, Italian, Brazilian",
+      "level": "H4",
+      "text": "View > Enable new Acrobat",
       "page": 9,
       "font_size": 12.0
     },
     {
-      "level": "H3",
-      "text": "Turn on the new Acrobat or Acrobat Reader",
-      "page": 9,
-      "font_size": 12.0
-    },
-    {
-      "level": "H3",
-      "text": "experience. On Windows, select the hamburger menu,",
-      "page": 9,
-      "font_size": 12.0
-    },
-    {
-      "level": "H3",
-      "text": "and then select Enable new Acrobat . On macOS, go",
-      "page": 9,
-      "font_size": 12.0
-    },
-    {
-      "level": "H3",
+      "level": "H4",
       "text": "Supported OS",
       "page": 9,
       "font_size": 12.0
     },
     {
-      "level": "H3",
-      "text": "iOS : Version 16 and later",
+      "level": "H4",
+      "text": "iOS",
       "page": 9,
       "font_size": 12.0
     },
@@ -422,15 +260,75 @@
       "font_size": 16.0
     },
     {
-      "level": "H3",
-      "text": "Android : Version 9 and later",
+      "level": "H4",
+      "text": "Android",
       "page": 10,
       "font_size": 12.0
     },
     {
-      "level": "H3",
-      "text": "Windows and macOS : See Acrobat system",
+      "level": "H4",
+      "text": "Windows and macOS",
       "page": 10,
+      "font_size": 12.0
+    },
+    {
+      "level": "H4",
+      "text": "Supported browsers",
+      "page": 10,
+      "font_size": 12.0
+    },
+    {
+      "level": "H4",
+      "text": "Select files Recommended tools for you",
+      "page": 10,
+      "font_size": 12.0
+    },
+    {
+      "level": "H4",
+      "text": "Open",
+      "page": 10,
+      "font_size": 12.0
+    },
+    {
+      "level": "H4",
+      "text": "Get started",
+      "page": 11,
+      "font_size": 12.0
+    },
+    {
+      "level": "H4",
+      "text": "Hide sources",
+      "page": 11,
+      "font_size": 12.0
+    },
+    {
+      "level": "H4",
+      "text": "Copy Copy full chat",
+      "page": 11,
+      "font_size": 12.0
+    },
+    {
+      "level": "H4",
+      "text": "Stop",
+      "page": 11,
+      "font_size": 12.0
+    },
+    {
+      "level": "H4",
+      "text": "Add files",
+      "page": 11,
+      "font_size": 12.0
+    },
+    {
+      "level": "H4",
+      "text": "View and manage files in chat",
+      "page": 11,
+      "font_size": 12.0
+    },
+    {
+      "level": "H4",
+      "text": "Remove file from chat",
+      "page": 11,
       "font_size": 12.0
     },
     {
@@ -446,9 +344,33 @@
       "font_size": 16.0
     },
     {
-      "level": "H3",
-      "text": "The Generative summary feature summarizes the document's organization and content. It",
+      "level": "H4",
+      "text": "Recent",
       "page": 12,
+      "font_size": 12.0
+    },
+    {
+      "level": "H4",
+      "text": "All tools Generative summary",
+      "page": 12,
+      "font_size": 12.0
+    },
+    {
+      "level": "H4",
+      "text": "Get started",
+      "page": 13,
+      "font_size": 12.0
+    },
+    {
+      "level": "H4",
+      "text": "Copy Copy full",
+      "page": 13,
+      "font_size": 12.0
+    },
+    {
+      "level": "H4",
+      "text": "summary",
+      "page": 13,
       "font_size": 12.0
     },
     {
@@ -458,38 +380,32 @@
       "font_size": 16.0
     },
     {
-      "level": "H3",
-      "text": "concurrently streams summaries for sections it has already analyzed. It helps eliminate",
+      "level": "H4",
+      "text": "Ask AI",
       "page": 14,
       "font_size": 12.0
     },
     {
-      "level": "H3",
-      "text": "immediately see summarized content for the sections that the Generative summary",
+      "level": "H4",
+      "text": "Assistant",
       "page": 14,
       "font_size": 12.0
     },
     {
-      "level": "H3",
-      "text": "Parallel processing : While you engage with the summarized sections, the feature",
+      "level": "H4",
+      "text": "Real-time streaming",
       "page": 14,
       "font_size": 12.0
     },
     {
-      "level": "H3",
-      "text": "Use generative AI features in meeting apps",
+      "level": "H4",
+      "text": "Segmented display",
       "page": 14,
       "font_size": 12.0
     },
     {
-      "level": "H3",
-      "text": "features to summarize discussions or draft emails for meeting notes or action",
-      "page": 14,
-      "font_size": 12.0
-    },
-    {
-      "level": "H3",
-      "text": "items. You can access the generative AI features from Acrobat Reader, Acrobat",
+      "level": "H4",
+      "text": "Parallel processing",
       "page": 14,
       "font_size": 12.0
     },
@@ -512,8 +428,26 @@
       "font_size": 16.0
     },
     {
-      "level": "H3",
-      "text": "View meeting details in Acrobat",
+      "level": "H4",
+      "text": "Add meeting transcripts Third-party apps",
+      "page": 15,
+      "font_size": 12.0
+    },
+    {
+      "level": "H4",
+      "text": "Sign in to Teams",
+      "page": 15,
+      "font_size": 12.0
+    },
+    {
+      "level": "H4",
+      "text": "Learn more",
+      "page": 15,
+      "font_size": 12.0
+    },
+    {
+      "level": "H4",
+      "text": "Select file",
       "page": 15,
       "font_size": 12.0
     },
@@ -524,6 +458,54 @@
       "font_size": 16.0
     },
     {
+      "level": "H4",
+      "text": "Recommended tools for you",
+      "page": 16,
+      "font_size": 12.0
+    },
+    {
+      "level": "H4",
+      "text": "Select files",
+      "page": 16,
+      "font_size": 12.0
+    },
+    {
+      "level": "H4",
+      "text": "Recommended tools for",
+      "page": 17,
+      "font_size": 12.0
+    },
+    {
+      "level": "H4",
+      "text": "you",
+      "page": 17,
+      "font_size": 12.0
+    },
+    {
+      "level": "H4",
+      "text": "Explore what's",
+      "page": 17,
+      "font_size": 12.0
+    },
+    {
+      "level": "H4",
+      "text": "new",
+      "page": 17,
+      "font_size": 12.0
+    },
+    {
+      "level": "H4",
+      "text": "All tools AI Assistant Generative",
+      "page": 17,
+      "font_size": 12.0
+    },
+    {
+      "level": "H4",
+      "text": "summary",
+      "page": 17,
+      "font_size": 12.0
+    },
+    {
       "level": "H2",
       "text": "Use generative AI features in Acrobat Reader",
       "page": 18,
@@ -531,15 +513,21 @@
     },
     {
       "level": "H4",
-      "text": "Acrobat Desktop",
+      "text": "Get started",
       "page": 18,
-      "font_size": 11.0
+      "font_size": 12.0
     },
     {
       "level": "H4",
-      "text": "Acrobat online",
+      "text": "Recommended tools for you",
       "page": 18,
-      "font_size": 11.0
+      "font_size": 12.0
+    },
+    {
+      "level": "H4",
+      "text": "Get started",
+      "page": 19,
+      "font_size": 12.0
     },
     {
       "level": "H2",
@@ -548,16 +536,16 @@
       "font_size": 16.0
     },
     {
-      "level": "H3",
-      "text": "and generated responses during a document session for product improvement",
+      "level": "H4",
+      "text": "Tell us more",
       "page": 20,
       "font_size": 12.0
     },
     {
       "level": "H4",
-      "text": "Provide feedback for what worked well",
+      "text": "Submit",
       "page": 20,
-      "font_size": 11.0
+      "font_size": 12.0
     },
     {
       "level": "H2",
@@ -567,9 +555,15 @@
     },
     {
       "level": "H4",
-      "text": "Provide feedback for what didn’t work well",
+      "text": "Report",
       "page": 21,
-      "font_size": 11.0
+      "font_size": 12.0
+    },
+    {
+      "level": "H4",
+      "text": "Submit",
+      "page": 22,
+      "font_size": 12.0
     },
     {
       "level": "H1",
@@ -597,9 +591,27 @@
     },
     {
       "level": "H4",
-      "text": "Rate the Generative AI features",
+      "text": "Submit",
       "page": 23,
-      "font_size": 11.0
+      "font_size": 12.0
+    },
+    {
+      "level": "H4",
+      "text": "Preferences Generative AI",
+      "page": 23,
+      "font_size": 12.0
+    },
+    {
+      "level": "H4",
+      "text": "Enable generative AI features in",
+      "page": 23,
+      "font_size": 12.0
+    },
+    {
+      "level": "H4",
+      "text": "Acrobat OK",
+      "page": 23,
+      "font_size": 12.0
     },
     {
       "level": "H2",
@@ -608,69 +620,81 @@
       "font_size": 16.0
     },
     {
-      "level": "H3",
-      "text": "Alternatively, for new Acrobat, your admin can set the bEnableAV2Enterprise registry key",
+      "level": "H4",
+      "text": "Enable generative AI features in",
+      "page": 24,
+      "font_size": 12.0
+    },
+    {
+      "level": "H4",
+      "text": "Acrobat OK",
+      "page": 24,
+      "font_size": 12.0
+    },
+    {
+      "level": "H4",
+      "text": "Settings",
+      "page": 24,
+      "font_size": 12.0
+    },
+    {
+      "level": "H4",
+      "text": "Enable generative AI features in Acrobat Save",
+      "page": 24,
+      "font_size": 12.0
+    },
+    {
+      "level": "H4",
+      "text": "FeatureLockDown (Lockable Settings) Modern Viewer",
       "page": 25,
       "font_size": 12.0
     },
     {
-      "level": "H3",
-      "text": "under FeatureLockDown (Lockable Settings) for Modern Viewer in the Acrobat Enterprise",
-      "page": 25,
-      "font_size": 12.0
-    },
-    {
-      "level": "H3",
-      "text": "draft impactful content. It improves productivity and efficiency, transforming your interaction",
-      "page": 25,
-      "font_size": 12.0
-    },
-    {
-      "level": "H3",
-      "text": "Using AI Assistant in Acrobat mobile",
+      "level": "H4",
+      "text": "AI Assistant",
       "page": 26,
       "font_size": 12.0
     },
     {
-      "level": "H3",
-      "text": "AI Assistant quickly provides comprehensive and informative answers to questions based on",
+      "level": "H4",
+      "text": "Ask AI",
       "page": 26,
       "font_size": 12.0
     },
     {
-      "level": "H3",
-      "text": "Alternatively, you can also access AI Assistant from the contextual menu. Select",
+      "level": "H4",
+      "text": "Assistant",
       "page": 26,
       "font_size": 12.0
     },
     {
-      "level": "H3",
+      "level": "H4",
+      "text": "Agree",
+      "page": 27,
+      "font_size": 12.0
+    },
+    {
+      "level": "H4",
       "text": "I'm",
       "page": 27,
       "font_size": 12.0
     },
     {
-      "level": "H3",
-      "text": "the microphone on your device. The voice assistant panel opens, displaying",
-      "page": 27,
-      "font_size": 12.0
-    },
-    {
-      "level": "H3",
-      "text": "Select a number to navigate directly to the corresponding section of the",
+      "level": "H4",
+      "text": "listening, ask a question",
       "page": 28,
       "font_size": 12.0
     },
     {
-      "level": "H3",
-      "text": "To hide the attributed sources within the document, select Hide sources from",
+      "level": "H4",
+      "text": "Hide sources",
       "page": 28,
       "font_size": 12.0
     },
     {
-      "level": "H3",
-      "text": "Review related questions that the AI Assistant suggests based on your primary",
-      "page": 29,
+      "level": "H4",
+      "text": "Stop",
+      "page": 28,
       "font_size": 12.0
     },
     {
@@ -684,6 +708,18 @@
       "text": "Turn off AI Assistant",
       "page": 32,
       "font_size": 16.0
+    },
+    {
+      "level": "H4",
+      "text": "Preferences",
+      "page": 32,
+      "font_size": 12.0
+    },
+    {
+      "level": "H4",
+      "text": "Enable generative AI features in Acrobat",
+      "page": 32,
+      "font_size": 12.0
     }
   ]
 }

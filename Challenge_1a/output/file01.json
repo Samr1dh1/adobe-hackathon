@@ -2,97 +2,19 @@
   "title": "Application form for grant of LTC advance",
   "outline": [
     {
-      "level": "H1",
-      "text": "1. Name of the Government Servant",
+      "level": "H4",
+      "text": "Application form for grant of LTC advance",
       "page": 1,
-      "font_size": 9.7
+      "font_size": 11.7
     },
     {
-      "level": "H1",
-      "text": "Designation",
-      "page": 1,
-      "font_size": 9.7
-    },
-    {
-      "level": "H1",
-      "text": "Date of entering the Central Government",
-      "page": 1,
-      "font_size": 9.7
-    },
-    {
-      "level": "H1",
-      "text": "Service",
-      "page": 1,
-      "font_size": 9.7
-    },
-    {
-      "level": "H1",
-      "text": "PAY + SI + NPA",
-      "page": 1,
-      "font_size": 9.7
-    },
-    {
-      "level": "H1",
-      "text": "5. Whether permanent or temporary",
-      "page": 1,
-      "font_size": 9.7
-    },
-    {
-      "level": "H1",
-      "text": "6. Home Town as recorded in the Service Book",
-      "page": 1,
-      "font_size": 9.7
-    },
-    {
-      "level": "H1",
-      "text": "Whether wife / husband is employed and if",
-      "page": 1,
-      "font_size": 9.7
-    },
-    {
-      "level": "H1",
-      "text": "so whether entitled to LTC",
-      "page": 1,
-      "font_size": 9.7
-    },
-    {
-      "level": "H1",
-      "text": "Whether the concession is to be availed for",
-      "page": 1,
-      "font_size": 9.7
-    },
-    {
-      "level": "H1",
-      "text": "visiting home town and if so block for which",
-      "page": 1,
-      "font_size": 9.7
-    },
-    {
-      "level": "H1",
-      "text": "(a) If the concession is to visit anywhere in",
-      "page": 1,
-      "font_size": 9.7
-    },
-    {
-      "level": "H1",
-      "text": "Single rail fare/bus fare from the",
-      "page": 1,
-      "font_size": 9.7
-    },
-    {
-      "level": "H1",
-      "text": "10. headquarters to home town/place of visit by",
-      "page": 1,
-      "font_size": 9.7
-    },
-    {
-      "level": "H1",
+      "level": "H4",
       "text": "S.No Name Age Relationship",
       "page": 1,
       "font_size": 9.7
     },
     {
-      "level": "H1",
+      "level": "H4",
       "text": "Date",
       "page": 1,
       "font_size": 9.7

@@ -1,4 +1,83 @@
 {
   "title": "Comprehensive Guide to Restaurants and Hotels in the South of France",
-  "outline": []
+  "outline": [
+    {
+      "level": "H4",
+      "text": "Comprehensive Guide to Restaurants and Hotels in the South of France",
+      "page": 1,
+      "font_size": 12.0
+    },
+    {
+      "level": "H4",
+      "text": "Introduction",
+      "page": 1,
+      "font_size": 12.0
+    },
+    {
+      "level": "H4",
+      "text": "Restaurants",
+      "page": 2,
+      "font_size": 12.0
+    },
+    {
+      "level": "H4",
+      "text": "Budget-Friendly Restaurants",
+      "page": 2,
+      "font_size": 12.0
+    },
+    {
+      "level": "H4",
+      "text": "Family-Friendly Restaurants",
+      "page": 3,
+      "font_size": 12.0
+    },
+    {
+      "level": "H4",
+      "text": "Upscale Restaurants",
+      "page": 4,
+      "font_size": 12.0
+    },
+    {
+      "level": "H4",
+      "text": "Luxurious Restaurants",
+      "page": 6,
+      "font_size": 12.0
+    },
+    {
+      "level": "H4",
+      "text": "Hotels",
+      "page": 8,
+      "font_size": 12.0
+    },
+    {
+      "level": "H4",
+      "text": "Budget-Friendly Hotels",
+      "page": 8,
+      "font_size": 12.0
+    },
+    {
+      "level": "H4",
+      "text": "Family-Friendly Hotels",
+      "page": 9,
+      "font_size": 12.0
+    },
+    {
+      "level": "H4",
+      "text": "Upscale Hotels",
+      "page": 11,
+      "font_size": 12.0
+    },
+    {
+      "level": "H4",
+      "text": "Luxurious Hotels",
+      "page": 12,
+      "font_size": 12.0
+    },
+    {
+      "level": "H4",
+      "text": "Conclusion",
+      "page": 14,
+      "font_size": 12.0
+    }
+  ]
 }

@@ -14,14 +14,38 @@
       "font_size": 16.0
     },
     {
-      "level": "H3",
-      "text": "party app like Microsoft Outlook, Gmail, WhatsApp, Microsoft Teams, or the default",
-      "page": 3,
+      "level": "H4",
+      "text": "Link Setting People can comment",
+      "page": 2,
       "font_size": 12.0
     },
     {
-      "level": "H3",
-      "text": "email client, Acrobat creates a shareable link and opens the respective application",
+      "level": "H4",
+      "text": "Invite",
+      "page": 2,
+      "font_size": 12.0
+    },
+    {
+      "level": "H4",
+      "text": "Create a link to share",
+      "page": 2,
+      "font_size": 12.0
+    },
+    {
+      "level": "H4",
+      "text": "Send a link or attach this file to an email",
+      "page": 2,
+      "font_size": 12.0
+    },
+    {
+      "level": "H4",
+      "text": "Add name or email to invite",
+      "page": 2,
+      "font_size": 12.0
+    },
+    {
+      "level": "H4",
+      "text": "Create a link to share",
       "page": 3,
       "font_size": 12.0
     },
@@ -32,10 +56,70 @@
       "font_size": 16.0
     },
     {
+      "level": "H4",
+      "text": "Share",
+      "page": 4,
+      "font_size": 12.0
+    },
+    {
+      "level": "H4",
+      "text": "Get link Get",
+      "page": 4,
+      "font_size": 12.0
+    },
+    {
+      "level": "H4",
+      "text": "link",
+      "page": 4,
+      "font_size": 12.0
+    },
+    {
+      "level": "H4",
+      "text": "Copy link Copy link",
+      "page": 4,
+      "font_size": 12.0
+    },
+    {
+      "level": "H4",
+      "text": "People can comment",
+      "page": 5,
+      "font_size": 12.0
+    },
+    {
+      "level": "H4",
+      "text": "Anyone can access and comment",
+      "page": 5,
+      "font_size": 12.0
+    },
+    {
+      "level": "H4",
+      "text": "Add People: Share",
+      "page": 5,
+      "font_size": 12.0
+    },
+    {
       "level": "H2",
       "text": "Mark up text",
       "page": 6,
       "font_size": 16.0
+    },
+    {
+      "level": "H4",
+      "text": "Shared with",
+      "page": 6,
+      "font_size": 12.0
+    },
+    {
+      "level": "H4",
+      "text": "Unshare",
+      "page": 6,
+      "font_size": 12.0
+    },
+    {
+      "level": "H4",
+      "text": "Note: Insert text Replace selected text",
+      "page": 6,
+      "font_size": 12.0
     },
     {
       "level": "H1",
@@ -62,42 +146,6 @@
       "font_size": 16.0
     },
     {
-      "level": "H3",
-      "text": "To highlight text, select Highlight text",
-      "page": 7,
-      "font_size": 12.0
-    },
-    {
-      "level": "H3",
-      "text": "To strikethrough the text, select Strikethrough text",
-      "page": 7,
-      "font_size": 12.0
-    },
-    {
-      "level": "H3",
-      "text": "To underline text, select Underline",
-      "page": 7,
-      "font_size": 12.0
-    },
-    {
-      "level": "H3",
-      "text": "To redact text, select Redact Text & Images",
-      "page": 7,
-      "font_size": 12.0
-    },
-    {
-      "level": "H3",
-      "text": "To copy the text, select copy with formatting",
-      "page": 7,
-      "font_size": 12.0
-    },
-    {
-      "level": "H3",
-      "text": "To edit the selected text, select Edit",
-      "page": 7,
-      "font_size": 12.0
-    },
-    {
       "level": "H2",
       "text": "Change the color of the markup",
       "page": 8,
@@ -122,14 +170,14 @@
       "font_size": 16.0
     },
     {
-      "level": "H3",
-      "text": "To delete the markup, select the markup and then select delete",
+      "level": "H4",
+      "text": "Post",
       "page": 8,
       "font_size": 12.0
     },
     {
-      "level": "H3",
-      "text": "1. From the Quick actions toolbar, select Add comment",
+      "level": "H4",
+      "text": "Add comment",
       "page": 8,
       "font_size": 12.0
     },
@@ -138,6 +186,12 @@
       "text": "Insert text",
       "page": 9,
       "font_size": 16.0
+    },
+    {
+      "level": "H4",
+      "text": "Replace selected text",
+      "page": 9,
+      "font_size": 12.0
     },
     {
       "level": "H2",
@@ -158,14 +212,8 @@
       "font_size": 16.0
     },
     {
-      "level": "H3",
-      "text": "the pop-up note without adding text. The paragraph insertion",
-      "page": 10,
-      "font_size": 12.0
-    },
-    {
-      "level": "H3",
-      "text": "the pop-up note without adding text. The space insertion",
+      "level": "H4",
+      "text": "Share",
       "page": 10,
       "font_size": 12.0
     },
@@ -180,6 +228,84 @@
       "text": "Send personalized invitations for commenting",
       "page": 11,
       "font_size": 16.0
+    },
+    {
+      "level": "H4",
+      "text": "Get link Get",
+      "page": 11,
+      "font_size": 12.0
+    },
+    {
+      "level": "H4",
+      "text": "link",
+      "page": 11,
+      "font_size": 12.0
+    },
+    {
+      "level": "H4",
+      "text": "Copy link Copy link",
+      "page": 11,
+      "font_size": 12.0
+    },
+    {
+      "level": "H4",
+      "text": "Copy link",
+      "page": 11,
+      "font_size": 12.0
+    },
+    {
+      "level": "H4",
+      "text": "Home Create PDF and share link",
+      "page": 11,
+      "font_size": 12.0
+    },
+    {
+      "level": "H4",
+      "text": "People can comment",
+      "page": 11,
+      "font_size": 12.0
+    },
+    {
+      "level": "H4",
+      "text": "Anyone can access and comment",
+      "page": 11,
+      "font_size": 12.0
+    },
+    {
+      "level": "H4",
+      "text": "Add People: Share",
+      "page": 11,
+      "font_size": 12.0
+    },
+    {
+      "level": "H4",
+      "text": "Shared with",
+      "page": 11,
+      "font_size": 12.0
+    },
+    {
+      "level": "H4",
+      "text": "Unshare",
+      "page": 11,
+      "font_size": 12.0
+    },
+    {
+      "level": "H4",
+      "text": "Open",
+      "page": 11,
+      "font_size": 12.0
+    },
+    {
+      "level": "H4",
+      "text": "Share",
+      "page": 11,
+      "font_size": 12.0
+    },
+    {
+      "level": "H4",
+      "text": "Acrobat Create And Send For Review",
+      "page": 11,
+      "font_size": 12.0
     },
     {
       "level": "H2",
@@ -200,8 +326,8 @@
       "font_size": 16.0
     },
     {
-      "level": "H3",
-      "text": "repository on an internal server. Acrobat synchronizes comments at regular intervals to",
+      "level": "H4",
+      "text": "Open",
       "page": 12,
       "font_size": 12.0
     },
@@ -218,22 +344,58 @@
       "font_size": 24.0
     },
     {
-      "level": "H3",
-      "text": "3. Select Automatically collect comments on my own internal server from the",
-      "page": 14,
-      "font_size": 12.0
-    },
-    {
-      "level": "H3",
-      "text": "Acrobat automatically creates and configures a new document library",
+      "level": "H4",
+      "text": "Send for Review",
       "page": 14,
       "font_size": 12.0
     },
     {
       "level": "H4",
-      "text": "Let Acrobat automatically create and configure a document library within your SharePoint",
+      "text": "Tools",
       "page": 14,
-      "font_size": 11.0
+      "font_size": 12.0
+    },
+    {
+      "level": "H4",
+      "text": "Send for Shared Commenting",
+      "page": 14,
+      "font_size": 12.0
+    },
+    {
+      "level": "H4",
+      "text": "Automatically collect comments on my own internal server",
+      "page": 14,
+      "font_size": 12.0
+    },
+    {
+      "level": "H4",
+      "text": "Next",
+      "page": 14,
+      "font_size": 12.0
+    },
+    {
+      "level": "H4",
+      "text": "SharePoint subsite",
+      "page": 14,
+      "font_size": 12.0
+    },
+    {
+      "level": "H4",
+      "text": "Choose a subsite",
+      "page": 14,
+      "font_size": 12.0
+    },
+    {
+      "level": "H4",
+      "text": "Next Next",
+      "page": 14,
+      "font_size": 12.0
+    },
+    {
+      "level": "H4",
+      "text": "Send",
+      "page": 14,
+      "font_size": 12.0
     }
   ]
 }

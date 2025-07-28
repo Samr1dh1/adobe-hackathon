@@ -15,13 +15,67 @@
     },
     {
       "level": "H4",
-      "text": "To save changes, select Save to computer from the upper right. Alternatively",
+      "text": "PDF Portfolio",
       "page": 2,
       "font_size": 12.0
     },
     {
       "level": "H4",
-      "text": "In Acrobat Reader, for Windows, select the hamburger menu   and then",
+      "text": "Microsoft Word",
+      "page": 2,
+      "font_size": 12.0
+    },
+    {
+      "level": "H4",
+      "text": "Adobe PDF",
+      "page": 2,
+      "font_size": 12.0
+    },
+    {
+      "level": "H4",
+      "text": "Adobe Acrobat Reader PDF Portfolio",
+      "page": 2,
+      "font_size": 12.0
+    },
+    {
+      "level": "H4",
+      "text": "PDF Portfolios",
+      "page": 2,
+      "font_size": 12.0
+    },
+    {
+      "level": "H4",
+      "text": "Save to computer",
+      "page": 2,
+      "font_size": 12.0
+    },
+    {
+      "level": "H4",
+      "text": "Save",
+      "page": 2,
+      "font_size": 12.0
+    },
+    {
+      "level": "H4",
+      "text": "File Save",
+      "page": 2,
+      "font_size": 12.0
+    },
+    {
+      "level": "H4",
+      "text": "Save As File Save As",
+      "page": 2,
+      "font_size": 12.0
+    },
+    {
+      "level": "H4",
+      "text": "In Acrobat Reader,",
+      "page": 2,
+      "font_size": 12.0
+    },
+    {
+      "level": "H4",
+      "text": "Save As File Save as Text",
       "page": 2,
       "font_size": 12.0
     },
@@ -39,13 +93,31 @@
     },
     {
       "level": "H4",
-      "text": "that supports Object Linking and Embedding (OLE). This document appears outside",
+      "text": "Menu Undo, Redo & more Revert",
       "page": 4,
       "font_size": 12.0
     },
     {
       "level": "H4",
-      "text": "Recover lost changes",
+      "text": "File Revert",
+      "page": 4,
+      "font_size": 12.0
+    },
+    {
+      "level": "H4",
+      "text": "Web Capture",
+      "page": 4,
+      "font_size": 12.0
+    },
+    {
+      "level": "H4",
+      "text": "All tools Organize Pages Extract",
+      "page": 4,
+      "font_size": 12.0
+    },
+    {
+      "level": "H4",
+      "text": "Object Linking",
       "page": 4,
       "font_size": 12.0
     },
@@ -68,10 +140,46 @@
       "font_size": 16.0
     },
     {
+      "level": "H4",
+      "text": "PDF Optimizer Acrobat Pro",
+      "page": 5,
+      "font_size": 12.0
+    },
+    {
+      "level": "H4",
+      "text": "DOCX Microsoft Word",
+      "page": 5,
+      "font_size": 12.0
+    },
+    {
+      "level": "H4",
+      "text": "Convert to DOCX",
+      "page": 5,
+      "font_size": 12.0
+    },
+    {
       "level": "H3",
       "text": "Convert PDF to DOC",
       "page": 6,
       "font_size": 16.0
+    },
+    {
+      "level": "H4",
+      "text": "Save",
+      "page": 6,
+      "font_size": 12.0
+    },
+    {
+      "level": "H4",
+      "text": "DOC Microsoft Word",
+      "page": 6,
+      "font_size": 12.0
+    },
+    {
+      "level": "H4",
+      "text": "Convert to DOC",
+      "page": 6,
+      "font_size": 12.0
     },
     {
       "level": "H3",
@@ -81,7 +189,19 @@
     },
     {
       "level": "H4",
+      "text": "Convert",
+      "page": 7,
+      "font_size": 12.0
+    },
+    {
+      "level": "H4",
       "text": "Convert to PPTX",
+      "page": 7,
+      "font_size": 12.0
+    },
+    {
+      "level": "H4",
+      "text": "Save",
       "page": 7,
       "font_size": 12.0
     },
@@ -111,13 +231,61 @@
     },
     {
       "level": "H4",
-      "text": "JPEG and JPEG 2000 conversion settings",
+      "text": "Convert",
       "page": 8,
       "font_size": 12.0
     },
     {
       "level": "H4",
-      "text": "Grayscale/Color: Specifies a compression setting that balances file size with image",
+      "text": "Export a PDF",
+      "page": 8,
+      "font_size": 12.0
+    },
+    {
+      "level": "H4",
+      "text": "All tools",
+      "page": 8,
+      "font_size": 12.0
+    },
+    {
+      "level": "H4",
+      "text": "PDF Optimizer",
+      "page": 8,
+      "font_size": 12.0
+    },
+    {
+      "level": "H4",
+      "text": "Preferences Convert From PDF",
+      "page": 8,
+      "font_size": 12.0
+    },
+    {
+      "level": "H4",
+      "text": "Edit Settings Defaults",
+      "page": 8,
+      "font_size": 12.0
+    },
+    {
+      "level": "H4",
+      "text": "Save as Settings",
+      "page": 8,
+      "font_size": 12.0
+    },
+    {
+      "level": "H4",
+      "text": "All tools Export a PDF Image format",
+      "page": 8,
+      "font_size": 12.0
+    },
+    {
+      "level": "H4",
+      "text": "Image format",
+      "page": 8,
+      "font_size": 12.0
+    },
+    {
+      "level": "H4",
+      "text": "JPEG JPEG 2000",
       "page": 8,
       "font_size": 12.0
     },
@@ -135,25 +303,13 @@
     },
     {
       "level": "H4",
-      "text": "Baseline (Standard): Displays the image when it has fully downloaded. This",
-      "page": 9,
-      "font_size": 12.0
-    },
-    {
-      "level": "H4",
-      "text": "Baseline (Optimized): Optimizes color quality of the image and produces",
-      "page": 9,
-      "font_size": 12.0
-    },
-    {
-      "level": "H4",
-      "text": "Progressive (3 scans-5 scans): Downloads the image first as a low-resolution",
-      "page": 9,
-      "font_size": 12.0
-    },
-    {
-      "level": "H4",
       "text": "RGB/CMYK/Grayscale",
+      "page": 9,
+      "font_size": 12.0
+    },
+    {
+      "level": "H4",
+      "text": "Export To Export All Images",
       "page": 9,
       "font_size": 12.0
     },
@@ -165,7 +321,13 @@
     },
     {
       "level": "H4",
-      "text": "PDF to PNG conversion settings",
+      "text": "All tools Export a PDF Image format",
+      "page": 9,
+      "font_size": 12.0
+    },
+    {
+      "level": "H4",
+      "text": "Image format PNG",
       "page": 9,
       "font_size": 12.0
     },
@@ -195,31 +357,13 @@
     },
     {
       "level": "H4",
-      "text": "after downloading is complete. Adam7 creates an image that displays low-resolution versions",
+      "text": "None",
       "page": 10,
       "font_size": 12.0
     },
     {
       "level": "H4",
-      "text": "None : Compresses the image without a filter. Recommended for indexed-color",
-      "page": 10,
-      "font_size": 12.0
-    },
-    {
-      "level": "H4",
-      "text": "Average: Optimizes the compression of low-level noise by averaging the color values",
-      "page": 10,
-      "font_size": 12.0
-    },
-    {
-      "level": "H4",
-      "text": "Paeth : Optimizes the compression of low-level noise by reassigning adjacent color",
-      "page": 10,
-      "font_size": 12.0
-    },
-    {
-      "level": "H4",
-      "text": "Adaptive: Applies the filtering algorithm—Sub, Up, Average, or Paeth—best suited for",
+      "text": "Paeth",
       "page": 10,
       "font_size": 12.0
     },
@@ -255,7 +399,13 @@
     },
     {
       "level": "H4",
-      "text": "PDF to TIFF conversion settings",
+      "text": "All tools Export a PDF Image format",
+      "page": 11,
+      "font_size": 12.0
+    },
+    {
+      "level": "H4",
+      "text": "Image format TIFF",
       "page": 11,
       "font_size": 12.0
     },
@@ -282,6 +432,12 @@
       "text": "PDF to Microso� Word conversion se�ngs",
       "page": 12,
       "font_size": 24.0
+    },
+    {
+      "level": "H4",
+      "text": "DOC DOCX",
+      "page": 12,
+      "font_size": 12.0
     },
     {
       "level": "H4",
@@ -321,6 +477,36 @@
     },
     {
       "level": "H4",
+      "text": "EXPORT PDF TO Other format",
+      "page": 13,
+      "font_size": 12.0
+    },
+    {
+      "level": "H4",
+      "text": "RTF",
+      "page": 13,
+      "font_size": 12.0
+    },
+    {
+      "level": "H4",
+      "text": "Convert to RTF",
+      "page": 13,
+      "font_size": 12.0
+    },
+    {
+      "level": "H4",
+      "text": "Save",
+      "page": 13,
+      "font_size": 12.0
+    },
+    {
+      "level": "H4",
+      "text": "Other format RTF",
+      "page": 13,
+      "font_size": 12.0
+    },
+    {
+      "level": "H4",
       "text": "Layout Settings",
       "page": 13,
       "font_size": 12.0
@@ -357,7 +543,13 @@
     },
     {
       "level": "H4",
-      "text": "FILE AND NAVIGATION PANE SETTINGS",
+      "text": "Other format HTML",
+      "page": 15,
+      "font_size": 12.0
+    },
+    {
+      "level": "H4",
+      "text": "Save",
       "page": 15,
       "font_size": 12.0
     },
@@ -384,30 +576,6 @@
       "text": "Text recogni�on se�ngs",
       "page": 16,
       "font_size": 16.0
-    },
-    {
-      "level": "H4",
-      "text": "Add Headings-based Navigation Frame",
-      "page": 16,
-      "font_size": 12.0
-    },
-    {
-      "level": "H4",
-      "text": "Add Bookmarks-based Navigation Frame",
-      "page": 16,
-      "font_size": 12.0
-    },
-    {
-      "level": "H4",
-      "text": "Split by Document Headings",
-      "page": 16,
-      "font_size": 12.0
-    },
-    {
-      "level": "H4",
-      "text": "Split by Document Bookmarks",
-      "page": 16,
-      "font_size": 12.0
     },
     {
       "level": "H4",
@@ -452,6 +620,30 @@
       "font_size": 16.0
     },
     {
+      "level": "H4",
+      "text": "From the Microsoft Excel XLSX",
+      "page": 17,
+      "font_size": 12.0
+    },
+    {
+      "level": "H4",
+      "text": "Convert to XLSX",
+      "page": 17,
+      "font_size": 12.0
+    },
+    {
+      "level": "H4",
+      "text": "Save",
+      "page": 17,
+      "font_size": 12.0
+    },
+    {
+      "level": "H4",
+      "text": "Microsoft Excel XML",
+      "page": 17,
+      "font_size": 12.0
+    },
+    {
       "level": "H3",
       "text": "Text recogni�on se�ngs",
       "page": 18,
@@ -459,7 +651,25 @@
     },
     {
       "level": "H4",
-      "text": "PDF to Microso� Excel (XLSX or XML) conversion se�ngs",
+      "text": "Convert to XML",
+      "page": 18,
+      "font_size": 12.0
+    },
+    {
+      "level": "H4",
+      "text": "Save",
+      "page": 18,
+      "font_size": 12.0
+    },
+    {
+      "level": "H4",
+      "text": "All tools Export a PDF Microsoft Excel",
+      "page": 18,
+      "font_size": 12.0
+    },
+    {
+      "level": "H4",
+      "text": "XLSX XML",
       "page": 18,
       "font_size": 12.0
     },
@@ -478,6 +688,12 @@
     {
       "level": "H4",
       "text": "Detect decimal and thousands separators using regional settings",
+      "page": 18,
+      "font_size": 12.0
+    },
+    {
+      "level": "H4",
+      "text": "Treat the following as decimal and thousands separators",
       "page": 18,
       "font_size": 12.0
     },
@@ -507,37 +723,31 @@
     },
     {
       "level": "H4",
-      "text": "includes full DSC (Document Structuring Conventions) comments and other advanced",
+      "text": "Other format EPS PS",
       "page": 20,
       "font_size": 12.0
     },
     {
       "level": "H4",
-      "text": "PDF to PS and EPS conversion se�ngs",
+      "text": "Convert to EPS Convert to PS",
+      "page": 20,
+      "font_size": 12.0
+    },
+    {
+      "level": "H4",
+      "text": "Save",
+      "page": 20,
+      "font_size": 12.0
+    },
+    {
+      "level": "H4",
+      "text": "Other format PS EPS",
       "page": 21,
       "font_size": 12.0
     },
     {
       "level": "H4",
       "text": "Printer Description File",
-      "page": 21,
-      "font_size": 12.0
-    },
-    {
-      "level": "H4",
-      "text": "The PostScript Printer Description (PPD) provides the necessary information to format a",
-      "page": 21,
-      "font_size": 12.0
-    },
-    {
-      "level": "H4",
-      "text": "PostScript file correctly for a particular output device. Device Independent creates only",
-      "page": 21,
-      "font_size": 12.0
-    },
-    {
-      "level": "H4",
-      "text": "composite (not color-separated) PostScript or EPS files. Acrobat Default provides a starting",
       "page": 21,
       "font_size": 12.0
     },
@@ -550,6 +760,18 @@
     {
       "level": "H4",
       "text": "PostScript",
+      "page": 21,
+      "font_size": 12.0
+    },
+    {
+      "level": "H4",
+      "text": "Language Level 3",
+      "page": 21,
+      "font_size": 12.0
+    },
+    {
+      "level": "H4",
+      "text": "Language Level 2",
       "page": 21,
       "font_size": 12.0
     },
@@ -609,7 +831,31 @@
     },
     {
       "level": "H4",
-      "text": "PDF to Text and XML 1.0 conversion settings",
+      "text": "All Tools Export a PDF",
+      "page": 22,
+      "font_size": 12.0
+    },
+    {
+      "level": "H4",
+      "text": "XML 1.0",
+      "page": 22,
+      "font_size": 12.0
+    },
+    {
+      "level": "H4",
+      "text": "All Tools Export a PDF other format",
+      "page": 22,
+      "font_size": 12.0
+    },
+    {
+      "level": "H4",
+      "text": "other format TXT",
+      "page": 22,
+      "font_size": 12.0
+    },
+    {
+      "level": "H4",
+      "text": "Other format TXT XML 1.0",
       "page": 22,
       "font_size": 12.0
     },
@@ -621,7 +867,13 @@
     },
     {
       "level": "H4",
-      "text": "character. UTF-16 represents characters using 16-bit bytes. ISO-Latin-1 is an 8-bit",
+      "text": "UTF-8",
+      "page": 22,
+      "font_size": 12.0
+    },
+    {
+      "level": "H4",
+      "text": "UTF-16",
       "page": 22,
       "font_size": 12.0
     },
@@ -633,7 +885,13 @@
     },
     {
       "level": "H4",
-      "text": "which appear in the Plug-ins/SaveAsXML/MappingTables folder. These mapping tables",
+      "text": "Use mapping table default",
+      "page": 23,
+      "font_size": 12.0
+    },
+    {
+      "level": "H4",
+      "text": "UTF-8",
       "page": 23,
       "font_size": 12.0
     },
@@ -692,10 +950,64 @@
       "font_size": 16.0
     },
     {
+      "level": "H4",
+      "text": "Convert",
+      "page": 24,
+      "font_size": 12.0
+    },
+    {
+      "level": "H4",
+      "text": "Convert Image format",
+      "page": 24,
+      "font_size": 12.0
+    },
+    {
+      "level": "H4",
+      "text": "JPEG JPEG 2000",
+      "page": 24,
+      "font_size": 12.0
+    },
+    {
+      "level": "H4",
+      "text": "Convert to JPEG Convert to JPEG 2000",
+      "page": 24,
+      "font_size": 12.0
+    },
+    {
+      "level": "H4",
+      "text": "Save",
+      "page": 24,
+      "font_size": 12.0
+    },
+    {
       "level": "H3",
       "text": "Convert PDF to PNG",
       "page": 25,
       "font_size": 16.0
+    },
+    {
+      "level": "H4",
+      "text": "Image format",
+      "page": 25,
+      "font_size": 12.0
+    },
+    {
+      "level": "H4",
+      "text": "Save",
+      "page": 25,
+      "font_size": 12.0
+    },
+    {
+      "level": "H4",
+      "text": "Convert",
+      "page": 25,
+      "font_size": 12.0
+    },
+    {
+      "level": "H4",
+      "text": "PNG",
+      "page": 25,
+      "font_size": 12.0
     },
     {
       "level": "H4",
@@ -711,13 +1023,25 @@
     },
     {
       "level": "H4",
-      "text": "3. Optional) To configure the conversion settings, select Settings and then modify",
+      "text": "Convert",
       "page": 26,
       "font_size": 12.0
     },
     {
       "level": "H4",
-      "text": "1. Select Export all Images and then select Settings",
+      "text": "All tools Export a PDF",
+      "page": 26,
+      "font_size": 12.0
+    },
+    {
+      "level": "H4",
+      "text": "image format",
+      "page": 26,
+      "font_size": 12.0
+    },
+    {
+      "level": "H4",
+      "text": "Export all Images",
       "page": 26,
       "font_size": 12.0
     },
@@ -729,19 +1053,49 @@
     },
     {
       "level": "H4",
-      "text": "2. In the dialog that appears, specify the ,",
+      "text": "Management Conversion Extraction",
       "page": 26,
       "font_size": 12.0
     },
     {
       "level": "H4",
-      "text": "Export selections from a PDF to another format",
+      "text": "Exclude images smaller than",
+      "page": 26,
+      "font_size": 12.0
+    },
+    {
+      "level": "H4",
+      "text": "Convert to JPEG",
+      "page": 26,
+      "font_size": 12.0
+    },
+    {
+      "level": "H4",
+      "text": "Choose a",
+      "page": 26,
+      "font_size": 12.0
+    },
+    {
+      "level": "H4",
+      "text": "different folder",
+      "page": 26,
+      "font_size": 12.0
+    },
+    {
+      "level": "H4",
+      "text": "Save",
       "page": 27,
       "font_size": 12.0
     },
     {
       "level": "H4",
-      "text": "Select a format from the Save As Type list and select Save",
+      "text": "Export Selection As",
+      "page": 27,
+      "font_size": 12.0
+    },
+    {
+      "level": "H4",
+      "text": "Save As Type Save",
       "page": 27,
       "font_size": 12.0
     },
@@ -753,13 +1107,25 @@
     },
     {
       "level": "H4",
-      "text": "Select text and images",
+      "text": "Select",
       "page": 28,
       "font_size": 12.0
     },
     {
       "level": "H4",
-      "text": "press Ctrl (Windows) or Command (macOS); the pointer changes to display a",
+      "text": "All",
+      "page": 28,
+      "font_size": 12.0
+    },
+    {
+      "level": "H4",
+      "text": "tools Scan & OCR, In this file RECOGNIZE TEXT",
+      "page": 28,
+      "font_size": 12.0
+    },
+    {
+      "level": "H4",
+      "text": "Select text and images",
       "page": 28,
       "font_size": 12.0
     },
@@ -777,6 +1143,18 @@
     },
     {
       "level": "H4",
+      "text": "View",
+      "page": 29,
+      "font_size": 12.0
+    },
+    {
+      "level": "H4",
+      "text": "view Page display Single-page view",
+      "page": 29,
+      "font_size": 12.0
+    },
+    {
+      "level": "H4",
       "text": "Copy selected text",
       "page": 29,
       "font_size": 12.0
@@ -788,6 +1166,18 @@
       "font_size": 12.0
     },
     {
+      "level": "H4",
+      "text": "Ctrl + V",
+      "page": 29,
+      "font_size": 12.0
+    },
+    {
+      "level": "H4",
+      "text": "command + V",
+      "page": 29,
+      "font_size": 12.0
+    },
+    {
       "level": "H2",
       "text": "Convert selected content to other formats",
       "page": 30,
@@ -795,25 +1185,61 @@
     },
     {
       "level": "H4",
-      "text": "• Word Document or Word 97-2003",
+      "text": "Select",
       "page": 30,
       "font_size": 12.0
     },
     {
       "level": "H4",
-      "text": "• Excel Workbook, XML Spreadsheet, or CSV",
+      "text": "Alt",
       "page": 30,
       "font_size": 12.0
     },
     {
       "level": "H4",
-      "text": "• Rich Text Format or HTML",
+      "text": "Note: Single",
       "page": 30,
       "font_size": 12.0
     },
     {
       "level": "H4",
-      "text": "• PowerPoint",
+      "text": "Page View Page Display Enable Scrolling",
+      "page": 30,
+      "font_size": 12.0
+    },
+    {
+      "level": "H4",
+      "text": "Export Selection As,",
+      "page": 30,
+      "font_size": 12.0
+    },
+    {
+      "level": "H4",
+      "text": "Save As",
+      "page": 30,
+      "font_size": 12.0
+    },
+    {
+      "level": "H4",
+      "text": "Word Document or Word 97-2003",
+      "page": 30,
+      "font_size": 12.0
+    },
+    {
+      "level": "H4",
+      "text": "Excel Workbook, XML Spreadsheet, or CSV",
+      "page": 30,
+      "font_size": 12.0
+    },
+    {
+      "level": "H4",
+      "text": "Rich Text Format or HTML",
+      "page": 30,
+      "font_size": 12.0
+    },
+    {
+      "level": "H4",
+      "text": "PowerPoint",
       "page": 30,
       "font_size": 12.0
     }

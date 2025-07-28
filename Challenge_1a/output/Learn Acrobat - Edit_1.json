@@ -8,26 +8,32 @@
       "font_size": 24.0
     },
     {
+      "level": "H4",
+      "text": "Edit",
+      "page": 2,
+      "font_size": 12.0
+    },
+    {
       "level": "H2",
       "text": "Set the default font for adding and editing text",
       "page": 3,
       "font_size": 16.0
     },
     {
-      "level": "H3",
-      "text": "1. From the hamburger menu (Windows) or the Acrobat menu (macOS),",
+      "level": "H4",
+      "text": "Preferences",
       "page": 3,
       "font_size": 12.0
     },
     {
-      "level": "H3",
-      "text": "(Alternatively, you can press Ctrl+K keys on Windows® or Command+K keys on",
+      "level": "H4",
+      "text": "Ctrl+K Command+K",
       "page": 3,
       "font_size": 12.0
     },
     {
-      "level": "H3",
-      "text": "macOS.)",
+      "level": "H4",
+      "text": "Content Editing",
       "page": 3,
       "font_size": 12.0
     },
@@ -38,8 +44,8 @@
       "font_size": 16.0
     },
     {
-      "level": "H3",
-      "text": "can also try the advanced format options, such as line spacing, character",
+      "level": "H4",
+      "text": "Edit",
       "page": 4,
       "font_size": 12.0
     },
@@ -50,20 +56,62 @@
       "font_size": 16.0
     },
     {
+      "level": "H4",
+      "text": "Edit",
+      "page": 5,
+      "font_size": 12.0
+    },
+    {
+      "level": "H4",
+      "text": "Format Text",
+      "page": 5,
+      "font_size": 12.0
+    },
+    {
       "level": "H2",
       "text": "Add new text",
       "page": 6,
       "font_size": 16.0
     },
     {
-      "level": "H3",
-      "text": "Formatting options on the left pane",
+      "level": "H4",
+      "text": "Bold",
       "page": 6,
       "font_size": 12.0
     },
     {
-      "level": "H3",
-      "text": "Font name, size, and color",
+      "level": "H4",
+      "text": "Italic",
+      "page": 6,
+      "font_size": 12.0
+    },
+    {
+      "level": "H4",
+      "text": "Underline",
+      "page": 6,
+      "font_size": 12.0
+    },
+    {
+      "level": "H4",
+      "text": "Superscript",
+      "page": 6,
+      "font_size": 12.0
+    },
+    {
+      "level": "H4",
+      "text": "Subscript",
+      "page": 6,
+      "font_size": 12.0
+    },
+    {
+      "level": "H4",
+      "text": "Edit Text Add",
+      "page": 6,
+      "font_size": 12.0
+    },
+    {
+      "level": "H4",
+      "text": "Content",
       "page": 6,
       "font_size": 12.0
     },
@@ -74,15 +122,51 @@
       "font_size": 16.0
     },
     {
-      "level": "H3",
-      "text": "Character, paragraph, and line spacing",
+      "level": "H4",
+      "text": "Format",
       "page": 7,
       "font_size": 12.0
     },
     {
-      "level": "H3",
-      "text": "Horizontal scaling",
+      "level": "H4",
+      "text": "Move",
       "page": 7,
+      "font_size": 12.0
+    },
+    {
+      "level": "H4",
+      "text": "Edit",
+      "page": 7,
+      "font_size": 12.0
+    },
+    {
+      "level": "H4",
+      "text": "Edit Text Add",
+      "page": 7,
+      "font_size": 12.0
+    },
+    {
+      "level": "H4",
+      "text": "Content",
+      "page": 7,
+      "font_size": 12.0
+    },
+    {
+      "level": "H4",
+      "text": "Move",
+      "page": 8,
+      "font_size": 12.0
+    },
+    {
+      "level": "H4",
+      "text": "Rotate Rotation",
+      "page": 8,
+      "font_size": 12.0
+    },
+    {
+      "level": "H4",
+      "text": "Resize",
+      "page": 8,
       "font_size": 12.0
     },
     {
@@ -98,9 +182,45 @@
       "font_size": 16.0
     },
     {
-      "level": "H3",
-      "text": "same familiar controls that you use in Microsoft® Office. For example,",
+      "level": "H4",
+      "text": "Edit Text Add",
       "page": 9,
+      "font_size": 12.0
+    },
+    {
+      "level": "H4",
+      "text": "Content",
+      "page": 9,
+      "font_size": 12.0
+    },
+    {
+      "level": "H4",
+      "text": "Enter Backspace",
+      "page": 9,
+      "font_size": 12.0
+    },
+    {
+      "level": "H4",
+      "text": "Format Text",
+      "page": 9,
+      "font_size": 12.0
+    },
+    {
+      "level": "H4",
+      "text": "Edit",
+      "page": 9,
+      "font_size": 12.0
+    },
+    {
+      "level": "H4",
+      "text": "Format Text",
+      "page": 10,
+      "font_size": 12.0
+    },
+    {
+      "level": "H4",
+      "text": "For Windows",
+      "page": 10,
       "font_size": 12.0
     },
     {
@@ -134,6 +254,66 @@
       "font_size": 16.0
     },
     {
+      "level": "H4",
+      "text": "Edit Text Add",
+      "page": 11,
+      "font_size": 12.0
+    },
+    {
+      "level": "H4",
+      "text": "Content",
+      "page": 11,
+      "font_size": 12.0
+    },
+    {
+      "level": "H4",
+      "text": "Format Text",
+      "page": 11,
+      "font_size": 12.0
+    },
+    {
+      "level": "H4",
+      "text": "Undo, Redo &",
+      "page": 11,
+      "font_size": 12.0
+    },
+    {
+      "level": "H4",
+      "text": "more Redo",
+      "page": 11,
+      "font_size": 12.0
+    },
+    {
+      "level": "H4",
+      "text": "Undo, Redo and More > Redo",
+      "page": 11,
+      "font_size": 12.0
+    },
+    {
+      "level": "H4",
+      "text": "more Undo",
+      "page": 11,
+      "font_size": 12.0
+    },
+    {
+      "level": "H4",
+      "text": "Undo, Redo and More > Undo",
+      "page": 11,
+      "font_size": 12.0
+    },
+    {
+      "level": "H4",
+      "text": "Edit",
+      "page": 12,
+      "font_size": 12.0
+    },
+    {
+      "level": "H4",
+      "text": "Paragraph spacing after",
+      "page": 12,
+      "font_size": 12.0
+    },
+    {
       "level": "H1",
       "text": "Edit images or objects in a PDF",
       "page": 13,
@@ -152,20 +332,26 @@
       "font_size": 16.0
     },
     {
-      "level": "H3",
-      "text": "You might encounter formatting challenges that require manual adjustments. Acrobat's",
+      "level": "H4",
+      "text": "Edit a PDF All tools",
       "page": 13,
       "font_size": 12.0
     },
     {
-      "level": "H3",
-      "text": "image-editing capabilities are limited, and using high-resolution images can lead to",
+      "level": "H4",
+      "text": "Image",
       "page": 13,
       "font_size": 12.0
     },
     {
-      "level": "H3",
-      "text": "You can also enhance document accessibility using Acrobat's features, such as adding",
+      "level": "H4",
+      "text": "Choose image",
+      "page": 13,
+      "font_size": 12.0
+    },
+    {
+      "level": "H4",
+      "text": "Generate image",
       "page": 13,
       "font_size": 12.0
     },
@@ -174,6 +360,30 @@
       "text": "Modify images in a PDF",
       "page": 14,
       "font_size": 16.0
+    },
+    {
+      "level": "H4",
+      "text": "Edit",
+      "page": 14,
+      "font_size": 12.0
+    },
+    {
+      "level": "H4",
+      "text": "Edit Adjust Objects",
+      "page": 14,
+      "font_size": 12.0
+    },
+    {
+      "level": "H4",
+      "text": "Choose image",
+      "page": 14,
+      "font_size": 11.0
+    },
+    {
+      "level": "H4",
+      "text": "Generate image",
+      "page": 14,
+      "font_size": 11.0
     },
     {
       "level": "H2",
@@ -188,10 +398,100 @@
       "font_size": 16.0
     },
     {
+      "level": "H4",
+      "text": "Edit",
+      "page": 15,
+      "font_size": 12.0
+    },
+    {
+      "level": "H4",
+      "text": "Delete",
+      "page": 15,
+      "font_size": 11.0
+    },
+    {
+      "level": "H4",
+      "text": "Edit a PDF",
+      "page": 15,
+      "font_size": 12.0
+    },
+    {
+      "level": "H4",
+      "text": "More",
+      "page": 15,
+      "font_size": 12.0
+    },
+    {
+      "level": "H4",
+      "text": "Button",
+      "page": 15,
+      "font_size": 12.0
+    },
+    {
       "level": "H2",
       "text": "Edit an image outside Acrobat",
       "page": 16,
       "font_size": 16.0
+    },
+    {
+      "level": "H4",
+      "text": "Video",
+      "page": 16,
+      "font_size": 12.0
+    },
+    {
+      "level": "H4",
+      "text": "Sound",
+      "page": 16,
+      "font_size": 12.0
+    },
+    {
+      "level": "H4",
+      "text": "3D Media",
+      "page": 16,
+      "font_size": 12.0
+    },
+    {
+      "level": "H4",
+      "text": "Edit using",
+      "page": 16,
+      "font_size": 12.0
+    },
+    {
+      "level": "H4",
+      "text": "Edit",
+      "page": 16,
+      "font_size": 12.0
+    },
+    {
+      "level": "H4",
+      "text": "Select All",
+      "page": 16,
+      "font_size": 12.0
+    },
+    {
+      "level": "H4",
+      "text": "Adjust Objects Edit using",
+      "page": 16,
+      "font_size": 11.0
+    },
+    {
+      "level": "H4",
+      "text": "Open with",
+      "page": 16,
+      "font_size": 11.0
+    },
+    {
+      "level": "H4",
+      "text": "Open",
+      "page": 16,
+      "font_size": 11.0
+    },
+    {
+      "level": "H4",
+      "text": "Note: Don’t Convert",
+      "page": 16,
+      "font_size": 11.0
     }
   ]
 }

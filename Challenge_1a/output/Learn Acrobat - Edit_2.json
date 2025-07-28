@@ -8,8 +8,14 @@
       "font_size": 16.0
     },
     {
-      "level": "H2",
-      "text": "Transparency information is preserved only for masks that are specified as",
+      "level": "H4",
+      "text": "File Save",
+      "page": 1,
+      "font_size": 12.0
+    },
+    {
+      "level": "H4",
+      "text": "Convert Export PDF To Image format",
       "page": 1,
       "font_size": 12.0
     },
@@ -20,8 +26,44 @@
       "font_size": 16.0
     },
     {
-      "level": "H2",
-      "text": "Select the drop-down menu under PAGES SELECTED , then select the appropriate",
+      "level": "H4",
+      "text": "Rotate, move, delete, extract, or renumber",
+      "page": 3,
+      "font_size": 24.0
+    },
+    {
+      "level": "H4",
+      "text": "pages in a PDF",
+      "page": 3,
+      "font_size": 24.0
+    },
+    {
+      "level": "H4",
+      "text": "Page Thumbnails",
+      "page": 3,
+      "font_size": 12.0
+    },
+    {
+      "level": "H4",
+      "text": "Rotate",
+      "page": 3,
+      "font_size": 12.0
+    },
+    {
+      "level": "H4",
+      "text": "PAGES SELECTED",
+      "page": 3,
+      "font_size": 12.0
+    },
+    {
+      "level": "H4",
+      "text": "View View Rotate view Rotate view right Rotate view",
+      "page": 3,
+      "font_size": 12.0
+    },
+    {
+      "level": "H4",
+      "text": "left",
       "page": 3,
       "font_size": 12.0
     },
@@ -32,32 +74,98 @@
       "font_size": 16.0
     },
     {
-      "level": "H2",
-      "text": "under PAGES SELECTED , then select the appropriate option. Alternatively, you can",
+      "level": "H4",
+      "text": "Extract pages from a PDF",
+      "page": 4,
+      "font_size": 24.0
+    },
+    {
+      "level": "H4",
+      "text": "PAGES SELECTED",
       "page": 4,
       "font_size": 12.0
     },
     {
-      "level": "H2",
-      "text": "To remove the extracted pages from the original document, select Delete",
+      "level": "H4",
+      "text": "Extract pages PAGE OPTIONS",
       "page": 4,
       "font_size": 12.0
     },
     {
-      "level": "H2",
+      "level": "H4",
+      "text": "Extract",
+      "page": 4,
+      "font_size": 12.0
+    },
+    {
+      "level": "H4",
+      "text": "Delete",
+      "page": 4,
+      "font_size": 12.0
+    },
+    {
+      "level": "H4",
+      "text": "pages after extracting",
+      "page": 4,
+      "font_size": 12.0
+    },
+    {
+      "level": "H4",
       "text": "Extract pages as",
       "page": 4,
       "font_size": 12.0
     },
     {
-      "level": "H2",
-      "text": "To create a single-page PDF for each extracted page, select",
+      "level": "H4",
+      "text": "separate files",
       "page": 4,
       "font_size": 12.0
     },
     {
-      "level": "H2",
-      "text": "To remove the extracted pages from the original document, select Delete",
+      "level": "H4",
+      "text": "Document properties",
+      "page": 4,
+      "font_size": 12.0
+    },
+    {
+      "level": "H4",
+      "text": "File Security",
+      "page": 4,
+      "font_size": 12.0
+    },
+    {
+      "level": "H4",
+      "text": "Extract pages PAGE OPTIONS",
+      "page": 5,
+      "font_size": 12.0
+    },
+    {
+      "level": "H4",
+      "text": "Extract",
+      "page": 5,
+      "font_size": 12.0
+    },
+    {
+      "level": "H4",
+      "text": "Delete",
+      "page": 5,
+      "font_size": 12.0
+    },
+    {
+      "level": "H4",
+      "text": "pages after extracting",
+      "page": 5,
+      "font_size": 12.0
+    },
+    {
+      "level": "H4",
+      "text": "Extract pages as",
+      "page": 5,
+      "font_size": 12.0
+    },
+    {
+      "level": "H4",
+      "text": "separate files",
       "page": 5,
       "font_size": 12.0
     },
@@ -68,44 +176,92 @@
       "font_size": 16.0
     },
     {
-      "level": "H2",
+      "level": "H4",
+      "text": "Split PDFs into multiple documents",
+      "page": 6,
+      "font_size": 24.0
+    },
+    {
+      "level": "H4",
+      "text": "Split By",
+      "page": 6,
+      "font_size": 12.0
+    },
+    {
+      "level": "H4",
       "text": "Number of pages",
       "page": 6,
       "font_size": 12.0
     },
     {
-      "level": "H2",
+      "level": "H4",
       "text": "File Size",
       "page": 6,
       "font_size": 12.0
     },
     {
-      "level": "H2",
+      "level": "H4",
       "text": "Top-level Bookmarks",
       "page": 6,
       "font_size": 12.0
     },
     {
-      "level": "H2",
-      "text": "If the document includes bookmarks, it creates one document for every top-level",
+      "level": "H4",
+      "text": "Output",
       "page": 6,
       "font_size": 12.0
     },
     {
-      "level": "H2",
+      "level": "H4",
+      "text": "Options OK",
+      "page": 6,
+      "font_size": 12.0
+    },
+    {
+      "level": "H4",
+      "text": "Split",
+      "page": 6,
+      "font_size": 12.0
+    },
+    {
+      "level": "H4",
+      "text": "Split by",
+      "page": 6,
+      "font_size": 12.0
+    },
+    {
+      "level": "H4",
       "text": "File Size",
       "page": 7,
       "font_size": 12.0
     },
     {
-      "level": "H2",
+      "level": "H4",
       "text": "Top-level Bookmarks",
       "page": 7,
       "font_size": 12.0
     },
     {
-      "level": "H2",
-      "text": "If the document includes bookmarks, it creates one document for every top-level",
+      "level": "H4",
+      "text": "Output",
+      "page": 7,
+      "font_size": 12.0
+    },
+    {
+      "level": "H4",
+      "text": "Options OK",
+      "page": 7,
+      "font_size": 12.0
+    },
+    {
+      "level": "H4",
+      "text": "Split multiple files Add Files Add Files, Add Folders",
+      "page": 7,
+      "font_size": 12.0
+    },
+    {
+      "level": "H4",
+      "text": "Add Open Files OK Split",
       "page": 7,
       "font_size": 12.0
     },
@@ -122,21 +278,57 @@
       "font_size": 16.0
     },
     {
-      "level": "H2",
-      "text": "To display the PDFs side by side, select Window from the hamburger",
+      "level": "H4",
+      "text": "Move or copy pages in a PDF",
       "page": 8,
-      "font_size": 12.0
+      "font_size": 24.0
     },
     {
-      "level": "H2",
+      "level": "H4",
       "text": "All tools Organize pages",
       "page": 8,
       "font_size": 12.0
     },
     {
-      "level": "H2",
-      "text": "2. Select > . The page thumbnails are displayed in the",
+      "level": "H4",
+      "text": "Cut Copy",
       "page": 8,
+      "font_size": 12.0
+    },
+    {
+      "level": "H4",
+      "text": "Paste",
+      "page": 8,
+      "font_size": 12.0
+    },
+    {
+      "level": "H4",
+      "text": "Window",
+      "page": 8,
+      "font_size": 12.0
+    },
+    {
+      "level": "H4",
+      "text": "Window Tile Vertically",
+      "page": 8,
+      "font_size": 12.0
+    },
+    {
+      "level": "H4",
+      "text": "Copy",
+      "page": 8,
+      "font_size": 12.0
+    },
+    {
+      "level": "H4",
+      "text": "Paste",
+      "page": 9,
+      "font_size": 12.0
+    },
+    {
+      "level": "H4",
+      "text": "Page Thumbnails",
+      "page": 9,
       "font_size": 12.0
     },
     {
@@ -146,8 +338,38 @@
       "font_size": 16.0
     },
     {
-      "level": "H2",
-      "text": "previously associated with the replacement page don't carry over. Comments, however, are",
+      "level": "H4",
+      "text": "Delete or replace pages in a PDF",
+      "page": 10,
+      "font_size": 24.0
+    },
+    {
+      "level": "H4",
+      "text": "Reduce File Size",
+      "page": 10,
+      "font_size": 12.0
+    },
+    {
+      "level": "H4",
+      "text": "Note: Delete",
+      "page": 10,
+      "font_size": 11.0
+    },
+    {
+      "level": "H4",
+      "text": "All tools Organize pages",
+      "page": 10,
+      "font_size": 12.0
+    },
+    {
+      "level": "H4",
+      "text": "PAGES SELECTED",
+      "page": 10,
+      "font_size": 12.0
+    },
+    {
+      "level": "H4",
+      "text": "Delete pages OK",
       "page": 10,
       "font_size": 12.0
     },
@@ -170,26 +392,104 @@
       "font_size": 16.0
     },
     {
-      "level": "H2",
-      "text": "pages from the contextual toolbar that appears next to the selected page",
+      "level": "H4",
+      "text": "Note: Use Logical Page Numbers Page Display",
       "page": 11,
       "font_size": 12.0
     },
     {
-      "level": "H2",
-      "text": "thumbnails in the document area of the target document where thumbnails are",
+      "level": "H4",
+      "text": "Preferences",
+      "page": 11,
+      "font_size": 12.0
+    },
+    {
+      "level": "H4",
+      "text": "All tools Organize pages",
+      "page": 11,
+      "font_size": 12.0
+    },
+    {
+      "level": "H4",
+      "text": "Replace",
+      "page": 11,
+      "font_size": 12.0
+    },
+    {
+      "level": "H4",
+      "text": "Replace Pages Original",
+      "page": 11,
+      "font_size": 12.0
+    },
+    {
+      "level": "H4",
+      "text": "Replace Pages Replacement",
+      "page": 11,
+      "font_size": 12.0
+    },
+    {
+      "level": "H4",
+      "text": "Ctrl",
       "page": 12,
       "font_size": 12.0
     },
     {
-      "level": "H2",
-      "text": "Note: Using the Number Pages command affects only the page thumbnails on",
+      "level": "H4",
+      "text": "Command",
+      "page": 12,
+      "font_size": 12.0
+    },
+    {
+      "level": "H4",
+      "text": "Ctrl command",
+      "page": 12,
+      "font_size": 12.0
+    },
+    {
+      "level": "H4",
+      "text": "Renumber pages in a PDF",
+      "page": 13,
+      "font_size": 24.0
+    },
+    {
+      "level": "H4",
+      "text": "Page Navigation",
       "page": 13,
       "font_size": 12.0
     },
     {
-      "level": "H2",
+      "level": "H4",
+      "text": "Note: Number Pages",
+      "page": 13,
+      "font_size": 12.0
+    },
+    {
+      "level": "H4",
+      "text": "Pages",
+      "page": 13,
+      "font_size": 12.0
+    },
+    {
+      "level": "H4",
+      "text": "Selected Page Thumbnails",
+      "page": 13,
+      "font_size": 12.0
+    },
+    {
+      "level": "H4",
+      "text": "Begin New Section",
+      "page": 13,
+      "font_size": 12.0
+    },
+    {
+      "level": "H4",
       "text": "Prefix",
+      "page": 13,
+      "font_size": 12.0
+    },
+    {
+      "level": "H4",
+      "text": "Extend Numbering Used In Preceding Section To Selected Pages",
       "page": 13,
       "font_size": 12.0
     },
@@ -200,14 +500,68 @@
       "font_size": 16.0
     },
     {
-      "level": "H2",
-      "text": "editable text, line breaks, or complex formatting. Other inhibiting factors include compatibility",
+      "level": "H4",
+      "text": "Edit Scanned PDFs",
+      "page": 14,
+      "font_size": 24.0
+    },
+    {
+      "level": "H4",
+      "text": "Check the accuracy of optical character recognition (OCR) output",
       "page": 14,
       "font_size": 12.0
     },
     {
-      "level": "H2",
-      "text": "scanned document, Acrobat automatically runs OCR in the background to make the",
+      "level": "H4",
+      "text": "Scan & OCR Recognize",
+      "page": 14,
+      "font_size": 12.0
+    },
+    {
+      "level": "H4",
+      "text": "Text",
+      "page": 14,
+      "font_size": 12.0
+    },
+    {
+      "level": "H4",
+      "text": "Enhance image quality Enhance",
+      "page": 14,
+      "font_size": 12.0
+    },
+    {
+      "level": "H4",
+      "text": "scanned file Enhance camera image",
+      "page": 14,
+      "font_size": 12.0
+    },
+    {
+      "level": "H4",
+      "text": "Use the correct font and formatting",
+      "page": 14,
+      "font_size": 12.0
+    },
+    {
+      "level": "H4",
+      "text": "Remove security restrictions",
+      "page": 14,
+      "font_size": 12.0
+    },
+    {
+      "level": "H4",
+      "text": "Avoid editing complex elements",
+      "page": 14,
+      "font_size": 12.0
+    },
+    {
+      "level": "H4",
+      "text": "Check for compatibility issues",
+      "page": 14,
+      "font_size": 12.0
+    },
+    {
+      "level": "H4",
+      "text": "Save a backup copy",
       "page": 14,
       "font_size": 12.0
     },
@@ -218,14 +572,38 @@
       "font_size": 16.0
     },
     {
-      "level": "H2",
-      "text": "It opens the Scan & OCR tool options in the left panel",
+      "level": "H4",
+      "text": "Get",
       "page": 15,
       "font_size": 12.0
     },
     {
-      "level": "H2",
-      "text": "4. From the upper-left corner, select the hamburger menu (Windows) or File",
+      "level": "H4",
+      "text": "started",
+      "page": 15,
+      "font_size": 12.0
+    },
+    {
+      "level": "H4",
+      "text": "In this file",
+      "page": 15,
+      "font_size": 12.0
+    },
+    {
+      "level": "H4",
+      "text": "Recognize text",
+      "page": 15,
+      "font_size": 12.0
+    },
+    {
+      "level": "H4",
+      "text": "Edit",
+      "page": 15,
+      "font_size": 12.0
+    },
+    {
+      "level": "H4",
+      "text": "Save as",
       "page": 15,
       "font_size": 12.0
     },
@@ -236,20 +614,38 @@
       "font_size": 16.0
     },
     {
-      "level": "H2",
-      "text": "scanner. This feature addresses common issues in mobile-captured images, such as incorrect",
+      "level": "H4",
+      "text": "Enhance scanned file or camera images for",
+      "page": 16,
+      "font_size": 24.0
+    },
+    {
+      "level": "H4",
+      "text": "clear PDFs",
+      "page": 16,
+      "font_size": 24.0
+    },
+    {
+      "level": "H4",
+      "text": "Enhance camera",
       "page": 16,
       "font_size": 12.0
     },
     {
-      "level": "H2",
-      "text": "perspectives, areas beyond boundaries, shadows, and inconsistent lighting. While it may not",
+      "level": "H4",
+      "text": "image",
       "page": 16,
       "font_size": 12.0
     },
     {
-      "level": "H2",
-      "text": "5. (Optional) To further adjust the default enhancement level, drag the Adjust",
+      "level": "H4",
+      "text": "All tools Scan & OCR",
+      "page": 16,
+      "font_size": 12.0
+    },
+    {
+      "level": "H4",
+      "text": "Enhance",
       "page": 16,
       "font_size": 12.0
     }

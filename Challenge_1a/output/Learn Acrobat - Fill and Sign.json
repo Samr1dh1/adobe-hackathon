@@ -2,7 +2,13 @@
   "title": "Fill and Sign PDF Forms",
   "outline": [
     {
-      "level": "H2",
+      "level": "H4",
+      "text": "Fill and Sign PDF Forms",
+      "page": 1,
+      "font_size": 24.0
+    },
+    {
+      "level": "H4",
       "text": "of PDF forms",
       "page": 1,
       "font_size": 12.0
@@ -14,9 +20,81 @@
       "font_size": 16.0
     },
     {
-      "level": "H2",
-      "text": "1. From the Quick action toolbar, select Add your signature or initials",
+      "level": "H4",
+      "text": "Types of PDF forms",
+      "page": 2,
+      "font_size": 24.0
+    },
+    {
+      "level": "H4",
+      "text": "Interactive forms",
+      "page": 2,
+      "font_size": 12.0
+    },
+    {
+      "level": "H4",
+      "text": "Flat forms",
+      "page": 2,
+      "font_size": 12.0
+    },
+    {
+      "level": "H4",
+      "text": "E-Sign",
+      "page": 2,
+      "font_size": 12.0
+    },
+    {
+      "level": "H4",
+      "text": "All tools Fill & Sign",
+      "page": 2,
+      "font_size": 12.0
+    },
+    {
+      "level": "H4",
+      "text": "Keep signatures black",
+      "page": 3,
+      "font_size": 12.0
+    },
+    {
+      "level": "H4",
+      "text": "Character spacing",
+      "page": 3,
+      "font_size": 12.0
+    },
+    {
+      "level": "H4",
+      "text": "Add your signature or initials",
       "page": 5,
+      "font_size": 12.0
+    },
+    {
+      "level": "H4",
+      "text": "Add signature",
+      "page": 6,
+      "font_size": 12.0
+    },
+    {
+      "level": "H4",
+      "text": "Done",
+      "page": 6,
+      "font_size": 12.0
+    },
+    {
+      "level": "H4",
+      "text": "Add initials",
+      "page": 6,
+      "font_size": 12.0
+    },
+    {
+      "level": "H4",
+      "text": "Add Signature",
+      "page": 6,
+      "font_size": 12.0
+    },
+    {
+      "level": "H4",
+      "text": "Add Initials",
+      "page": 7,
       "font_size": 12.0
     },
     {
@@ -32,8 +110,26 @@
       "font_size": 16.0
     },
     {
-      "level": "H2",
-      "text": "Some text fields are dynamic, meaning that they automatically resize to accommodate",
+      "level": "H4",
+      "text": "Fill in PDF Forms",
+      "page": 8,
+      "font_size": 24.0
+    },
+    {
+      "level": "H4",
+      "text": "Fill & Sign",
+      "page": 8,
+      "font_size": 12.0
+    },
+    {
+      "level": "H4",
+      "text": "Hand Tool Select Tool",
+      "page": 8,
+      "font_size": 12.0
+    },
+    {
+      "level": "H4",
+      "text": "Hand",
       "page": 8,
       "font_size": 12.0
     },
@@ -50,69 +146,285 @@
       "font_size": 16.0
     },
     {
-      "level": "H2",
+      "level": "H4",
+      "text": "Auto-Complete forms (interactive forms",
+      "page": 10,
+      "font_size": 24.0
+    },
+    {
+      "level": "H4",
+      "text": "only)",
+      "page": 10,
+      "font_size": 24.0
+    },
+    {
+      "level": "H4",
+      "text": "Auto-Complete Auto-",
+      "page": 10,
+      "font_size": 12.0
+    },
+    {
+      "level": "H4",
+      "text": "Complete",
+      "page": 10,
+      "font_size": 12.0
+    },
+    {
+      "level": "H4",
+      "text": "Auto-Complete",
+      "page": 10,
+      "font_size": 12.0
+    },
+    {
+      "level": "H4",
       "text": "Preferences Acrobat",
       "page": 10,
       "font_size": 12.0
     },
     {
-      "level": "H2",
-      "text": "1. From the hamburger menu, select (Windows®), or select",
+      "level": "H4",
+      "text": "/ Acrobat Reader Preferences",
       "page": 10,
       "font_size": 12.0
     },
     {
-      "level": "H2",
-      "text": "1. Open the Preferences dialog. From the hamburger menu,",
+      "level": "H4",
+      "text": "Preferences Forms",
       "page": 10,
       "font_size": 12.0
     },
     {
-      "level": "H2",
-      "text": "select Preferences (Windows®), or select Acrobat / Acrobat",
+      "level": "H4",
+      "text": "Auto-Complete Basic Advanced",
       "page": 10,
       "font_size": 12.0
     },
     {
-      "level": "H2",
-      "text": "select to select multiple adjacent entries; Ctrl-select to select multiple",
+      "level": "H4",
+      "text": "Remember Numerical Data Auto-Complete",
+      "page": 10,
+      "font_size": 12.0
+    },
+    {
+      "level": "H4",
+      "text": "Preferences",
+      "page": 10,
+      "font_size": 12.0
+    },
+    {
+      "level": "H4",
+      "text": "Preferences Acrobat Acrobat",
+      "page": 10,
+      "font_size": 12.0
+    },
+    {
+      "level": "H4",
+      "text": "Reader Preferences",
+      "page": 10,
+      "font_size": 12.0
+    },
+    {
+      "level": "H4",
+      "text": "Forms",
+      "page": 10,
+      "font_size": 12.0
+    },
+    {
+      "level": "H4",
+      "text": "Edit Entry List",
+      "page": 10,
+      "font_size": 12.0
+    },
+    {
+      "level": "H4",
+      "text": "Auto-Complete Entry List",
       "page": 11,
       "font_size": 12.0
     },
     {
-      "level": "H2",
-      "text": "nonadjacent entries.)",
+      "level": "H4",
+      "text": "Yes",
       "page": 11,
       "font_size": 12.0
     },
     {
-      "level": "H2",
+      "level": "H4",
+      "text": "Remove All",
+      "page": 11,
+      "font_size": 12.0
+    },
+    {
+      "level": "H4",
+      "text": "Remove",
+      "page": 11,
+      "font_size": 12.0
+    },
+    {
+      "level": "H4",
+      "text": "Change flat forms to fillable (Acrobat Pro)",
+      "page": 12,
+      "font_size": 24.0
+    },
+    {
+      "level": "H4",
+      "text": "Prepare Form",
+      "page": 12,
+      "font_size": 12.0
+    },
+    {
+      "level": "H4",
+      "text": "Fill & Sign",
+      "page": 12,
+      "font_size": 12.0
+    },
+    {
+      "level": "H4",
       "text": "Interactive form",
       "page": 12,
       "font_size": 12.0
     },
     {
-      "level": "H2",
+      "level": "H4",
+      "text": "Prepare Forms",
+      "page": 12,
+      "font_size": 12.0
+    },
+    {
+      "level": "H4",
       "text": "Flat form",
       "page": 12,
       "font_size": 12.0
     },
     {
-      "level": "H2",
+      "level": "H4",
+      "text": "Fill & Sign File",
+      "page": 12,
+      "font_size": 12.0
+    },
+    {
+      "level": "H4",
+      "text": "Save As Other Acrobat Reader Extended PDF Enable More Tools (includes",
+      "page": 12,
+      "font_size": 12.0
+    },
+    {
+      "level": "H4",
+      "text": "Form Fill-in & Save)",
+      "page": 12,
+      "font_size": 12.0
+    },
+    {
+      "level": "H4",
+      "text": "Save forms",
+      "page": 13,
+      "font_size": 24.0
+    },
+    {
+      "level": "H4",
+      "text": "Save As File Save",
+      "page": 13,
+      "font_size": 12.0
+    },
+    {
+      "level": "H4",
+      "text": "Save A Copy File Save A",
+      "page": 13,
+      "font_size": 12.0
+    },
+    {
+      "level": "H4",
+      "text": "Copy",
+      "page": 13,
+      "font_size": 12.0
+    },
+    {
+      "level": "H4",
+      "text": "Windows® Save As Other Acrobat Reader Extended PDF Enable More Tools",
+      "page": 13,
+      "font_size": 12.0
+    },
+    {
+      "level": "H4",
       "text": "(Includes Form Fill-in & Save)",
       "page": 13,
       "font_size": 12.0
     },
     {
-      "level": "H2",
-      "text": "(Interactive or flat form) To print the form and the typed entries,",
+      "level": "H4",
+      "text": "macOS File Save As Other Acrobat Reader Extended PDF Enable More Tools",
+      "page": 13,
+      "font_size": 12.0
+    },
+    {
+      "level": "H4",
+      "text": "Print forms",
+      "page": 14,
+      "font_size": 24.0
+    },
+    {
+      "level": "H4",
+      "text": "Print this file",
       "page": 14,
       "font_size": 12.0
     },
     {
-      "level": "H2",
-      "text": "comments on the form, choose Document And Markups . This option prints",
+      "level": "H4",
+      "text": "Print",
       "page": 14,
+      "font_size": 12.0
+    },
+    {
+      "level": "H4",
+      "text": "Comments And Forms OK",
+      "page": 14,
+      "font_size": 12.0
+    },
+    {
+      "level": "H4",
+      "text": "Document Add",
+      "page": 14,
+      "font_size": 12.0
+    },
+    {
+      "level": "H4",
+      "text": "Text",
+      "page": 14,
+      "font_size": 12.0
+    },
+    {
+      "level": "H4",
+      "text": "Document And Markups",
+      "page": 14,
+      "font_size": 12.0
+    },
+    {
+      "level": "H4",
+      "text": "Add Text",
+      "page": 14,
+      "font_size": 12.0
+    },
+    {
+      "level": "H4",
+      "text": "Form Fields Only",
+      "page": 14,
+      "font_size": 12.0
+    },
+    {
+      "level": "H4",
+      "text": "Clear unsaved form entries",
+      "page": 15,
+      "font_size": 24.0
+    },
+    {
+      "level": "H4",
+      "text": "Tools Prepare a form Fields Clear Form",
+      "page": 15,
+      "font_size": 12.0
+    },
+    {
+      "level": "H4",
+      "text": "E-sign",
+      "page": 15,
       "font_size": 12.0
     },
     {
@@ -128,22 +440,52 @@
       "font_size": 16.0
     },
     {
+      "level": "H4",
+      "text": "Apply",
+      "page": 16,
+      "font_size": 12.0
+    },
+    {
+      "level": "H4",
+      "text": "Agreements",
+      "page": 16,
+      "font_size": 12.0
+    },
+    {
+      "level": "H4",
+      "text": "Adobe Acrobat Sign",
+      "page": 16,
+      "font_size": 12.0
+    },
+    {
+      "level": "H4",
+      "text": "Sign",
+      "page": 16,
+      "font_size": 12.0
+    },
+    {
       "level": "H1",
       "text": "Sign using the email link",
       "page": 17,
       "font_size": 16.0
     },
     {
-      "level": "H2",
-      "text": "Reader or Acrobat, the added signature is saved securely in Adobe cloud",
+      "level": "H4",
+      "text": "Click To Sign",
       "page": 17,
       "font_size": 12.0
     },
     {
-      "level": "H2",
-      "text": "3. From the floating toolbar, select Delete",
-      "page": 18,
+      "level": "H4",
+      "text": "Apply",
+      "page": 17,
       "font_size": 12.0
+    },
+    {
+      "level": "H4",
+      "text": "Remove your signature or initials",
+      "page": 18,
+      "font_size": 24.0
     }
   ]
 }

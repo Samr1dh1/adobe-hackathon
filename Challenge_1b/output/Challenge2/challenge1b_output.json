@@ -19,120 +19,120 @@
     ],
     "persona": "HR professional",
     "job_to_be_done": "Create and manage fillable forms for onboarding and compliance.",
-    "processing_timestamp": "2025-07-28T13:15:00.679235"
+    "processing_timestamp": "2025-07-28T16:32:15.986230"
   },
   "extracted_sections": [
     {
-      "document": "Learn Acrobat - Fill and Sign.pdf",
-      "section_title": "Is the form fillable?",
+      "document": "Learn Acrobat - Generative AI_2.pdf",
+      "section_title": "License deployment",
       "importance_rank": 1,
-      "page_number": 8
-    },
-    {
-      "document": "Learn Acrobat - Create and Convert_2.pdf",
-      "section_title": "Compliance Standard",
-      "importance_rank": 2,
-      "page_number": 8
-    },
-    {
-      "document": "Learn Acrobat - Fill and Sign.pdf",
-      "section_title": "Interactive form",
-      "importance_rank": 3,
-      "page_number": 12
-    },
-    {
-      "document": "Learn Acrobat - Generative AI_1.pdf",
-      "section_title": "User Guidelines",
-      "importance_rank": 4,
-      "page_number": 3
-    },
-    {
-      "document": "Learn Acrobat - Generative AI_1.pdf",
-      "section_title": "User Guidelines (1)",
-      "importance_rank": 5,
-      "page_number": 3
-    },
-    {
-      "document": "Learn Acrobat - Request e-signatures_2.pdf",
-      "section_title": "XML data signatures",
-      "importance_rank": 6,
-      "page_number": 10
+      "page_number": 18
     },
     {
       "document": "Learn Acrobat - Create and Convert_1.pdf",
-      "section_title": "Create a blank PDF",
-      "importance_rank": 7,
-      "page_number": 11
+      "section_title": "What’s the best way to create a PDF?",
+      "importance_rank": 2,
+      "page_number": 2
     },
     {
-      "document": "Learn Acrobat - Share_2.pdf",
-      "section_title": "Add an arrow, or shape",
-      "importance_rank": 8,
+      "document": "Learn Acrobat - Create and Convert_1.pdf",
+      "section_title": "What’s the best way to create a PDF? (1)",
+      "importance_rank": 3,
+      "page_number": 2
+    },
+    {
+      "document": "Learn Acrobat - Create and Convert_2.pdf",
+      "section_title": "Create PDFs by printing to file",
+      "importance_rank": 4,
+      "page_number": 12
+    },
+    {
+      "document": "Learn Acrobat - Create and Convert_2.pdf",
+      "section_title": "Adobe PDF",
+      "importance_rank": 5,
+      "page_number": 12
+    },
+    {
+      "document": "Learn Acrobat - Edit_1.pdf",
+      "section_title": "Add or edit lists",
+      "importance_rank": 6,
       "page_number": 9
     },
     {
       "document": "Learn Acrobat - Edit_1.pdf",
-      "section_title": "Change, replace, or delete text",
+      "section_title": "Content",
+      "importance_rank": 7,
+      "page_number": 9
+    },
+    {
+      "document": "Learn Acrobat - Edit_2.pdf",
+      "section_title": "PAGES SELECTED",
+      "importance_rank": 8,
+      "page_number": 4
+    },
+    {
+      "document": "Learn Acrobat - Edit_2.pdf",
+      "section_title": "separate files",
       "importance_rank": 9,
       "page_number": 4
     },
     {
-      "document": "Learn Acrobat - Generative AI_2.pdf",
-      "section_title": "Custom voice for read-aloud feature",
+      "document": "Learn Acrobat - Export_1.pdf",
+      "section_title": "Save",
       "importance_rank": 10,
-      "page_number": 7
+      "page_number": 18
     }
   ],
   "subsection_analysis": [
     {
-      "document": "Learn Acrobat - Fill and Sign.pdf",
-      "refined_text": "Not all forms are fillable. Sometimes form creators don’t convert their PDFs to interactive fillable forms. These non-interactive forms are called flat forms.",
-      "page_number": 8
-    },
-    {
-      "document": "Learn Acrobat - Create and Convert_2.pdf",
-      "refined_text": "Specify the PDF/A or PDF/E compliance standard, or none.",
-      "page_number": 8
-    },
-    {
-      "document": "Learn Acrobat - Fill and Sign.pdf",
-      "refined_text": "To create an interactive form, use the Prepare Forms tool. See Create a form from an existing document .",
-      "page_number": 12
-    },
-    {
-      "document": "Learn Acrobat - Generative AI_1.pdf",
-      "refined_text": "Generative AI features cannot replace advice provided by a qualified professional and do not form any such relationship (for example, an attorney-client relationship)..",
-      "page_number": 3
-    },
-    {
-      "document": "Learn Acrobat - Generative AI_1.pdf",
-      "refined_text": "Do not use generative AI features to seek legal, medical, financial, or other kinds of professional advice or any opinions, judgments, or recommendations without conducting your own independent consultation or research.. This is especially true if you try to use these features to generate outputs that are unrelated to your source document",
-      "page_number": 3
-    },
-    {
-      "document": "Learn Acrobat - Request e-signatures_2.pdf",
-      "refined_text": "Acrobat and Acrobat Reader support XML data signatures that are used to sign data in XML Forms Architectures (XFA) forms. The form author provides XML signing, validating, or clearing instructions for form events, such as button click, file save, or submit. Like PDF digital signatures, XML digital signatures ensure integrity, authentication, and non-repudiation in documents.",
-      "page_number": 10
+      "document": "Learn Acrobat - Generative AI_2.pdf",
+      "refined_text": "You can choose to either select the users to assign or create product profiles and assign users to the profiles. You can manage the deployment of Acrobat AI Assistant through the Adobe Admin Console. For more information, see Packaging apps via the Admin Console",
+      "page_number": 18
     },
     {
       "document": "Learn Acrobat - Create and Convert_1.pdf",
-      "refined_text": "For longer, more complex, or heavily formatted documents, it’s better to create the source document in an application that offers more layout and formatting options, such as Adobe InDesign or Microsoft Word. You can create a blank PDF, rather than beginning with a file, a clipboard image, or scanning. This process can be useful for creating a one-page PDF",
-      "page_number": 11
+      "refined_text": "You can create PDFs from documents printed on paper, Microsoft Word documents, InDesign® files, digital images, and more. Diﬀerent types of sources have diﬀerent tools available for PDF conversion. In many applications, you can create PDFs by selecting the Adobe PDF printer in the Print dialog box",
+      "page_number": 2
     },
     {
-      "document": "Learn Acrobat - Share_2.pdf",
-      "refined_text": "Draw in the PDF: • To create a cloud or polygon shape, click to create the start point, move the pointer, and click to create each segment. To draw a line, arrow, or rectangle, either drag across the area where you want the markup to appear, or click twice: once to create the start point and once to create the end point.. To finish drawing the shape, click the start point, or right-click and choos",
+      "document": "Learn Acrobat - Create and Convert_1.pdf",
+      "refined_text": "For example, you can drag files to the Acrobat icon to create PDFs.. Every PDF balances eﬃciency (small file size) and quality (such as resolution and color). If the balance between the file size and the quality is critical to your task, you must use an appropriate conversion method",
+      "page_number": 2
+    },
+    {
+      "document": "Learn Acrobat - Create and Convert_2.pdf",
+      "refined_text": "Your source document is converted to PostScript and fed directly to Distiller for conversion to PDF, without manually starting Distiller. The current Distiller preference settings and Adobe PDF settings are used to convert the file. If you’re working with nonstandard page sizes, create a custom page size",
+      "page_number": 12
+    },
+    {
+      "document": "Learn Acrobat - Create and Convert_2.pdf",
+      "refined_text": "For example, you cannot create bookmarks and hyperlinks using the Adobe PDF printer. A tagged structure is required for reflowing content to a handheld device and is preferable for producing reliable results with a screen reader. If you’re creating a PDF from a Microsoft Office document and you want to use these features, use PDFMaker",
+      "page_number": 12
+    },
+    {
+      "document": "Learn Acrobat - Edit_1.pdf",
+      "refined_text": "For example, press Enter at the end of a list item to insert a new row. Press Backspace to remove the new row and position the cursor back to the end of the previous list item. To create a numbered or bulleted list: 1",
       "page_number": 9
     },
     {
       "document": "Learn Acrobat - Edit_1.pdf",
-      "refined_text": "Manage list items using the list controls (bulleted and numbered) in the left Format panel. You can create lists and, conversely, convert a list item to a paragraph or change list types. Type new text to replace the selected text, or press Delete to remove it",
+      "refined_text": "For example, press Enter at the end of a list item to insert a new row. Press Backspace to remove the new row and position the cursor back to the end of the previous list item. To create a numbered or bulleted list: 1",
+      "page_number": 9
+    },
+    {
+      "document": "Learn Acrobat - Edit_2.pdf",
+      "refined_text": "To keep the original pages intact and create a single PDF for the extracted pages, deselect both options. To view the security settings for a document, choose Document properties from the hamburger menu (Windows) or File menu in macOS and then select the Security tab in the dialog.. The extracted pages are placed in a new document",
       "page_number": 4
     },
     {
-      "document": "Learn Acrobat - Generative AI_2.pdf",
-      "refined_text": "Select the ellipsis from the top right and then select Ask AI Assistant. Select multiple files from third-party applications, and select Share > Adobe Acrobat > Ask AI Assistant. Open Acrobat, then select Try it now from the Try AI Assistant onboarding card in the home view",
-      "page_number": 7
+      "document": "Learn Acrobat - Edit_2.pdf",
+      "refined_text": "To keep the original pages intact and create a single PDF for the extracted pages, deselect both options. The extracted pages are placed in a new document",
+      "page_number": 4
+    },
+    {
+      "document": "Learn Acrobat - Export_1.pdf",
+      "refined_text": "Excel Workbook Settings Specifies whether to create a Worksheet for each table or page, or the entire document.. PDF to MicrosoŌ Excel (XLSX or XML) conversion seƫngs In Acrobat, select All tools > Export a PDF and select Microsoft Excel. You get XLSX and XML options",
+      "page_number": 18
     }
   ]
 }
