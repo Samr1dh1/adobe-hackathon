@@ -83,7 +83,8 @@ docker build --platform linux/amd64 -t challenge-1a .
 # Run with mounted volumes
 docker run --rm -v $(pwd)/input:/app/input:ro -v $(pwd)/output/:/app/output --network none challenge-1a
 ```
-```powershell
+```bash
+# Powershell
 docker run --rm -v ${PWD}/input:/app/input:ro -v ${PWD}/output/:/app/output --network none challenge-1a     
 ```
 
