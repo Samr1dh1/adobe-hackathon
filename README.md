@@ -94,12 +94,12 @@ Each challenge generates its respective `*.json` output inside the `/output` dir
 ## 📝 Team Members
 
 Samridhi Tiwari
-Email: [YOUR_ID_SAMRIDHI.com]  
-GitHub: [github.com/YOUR_HANDLE]
+Email: tiwarisamridhi1405@gmail.com
+GitHub: https://github.com/Samr1dh1
 
-Shouraya Mishra  
-Email: [shouraya.mishra1604@gmail.com]  
-GitHub: [github.com/Shouraya16]
+Shouraya Mishra
+Email: shouraya.mishra1604@gmail.com
+GitHub: https://github.com/Shouraya16
 
 ---
 
