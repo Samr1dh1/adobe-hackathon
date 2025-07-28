@@ -95,10 +95,10 @@ The system generates a structured JSON output with:
 
 ```bash
 # Build the container
-docker build -t challenge1b .
+docker build --platform linux/amd64 -t challenge-1b .
 
 # Run with mounted volumes
-docker run -v $(pwd)/input:/app/input -v $(pwd)/output:/app/output challenge1b
+docker run --rm -v $(pwd)/input:/app/input:ro -v $(pwd)/output/:/app/output --network none challenge-1b
 ```
 
 ## 🔍 Troubleshooting
