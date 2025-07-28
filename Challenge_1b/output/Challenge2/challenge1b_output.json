@@ -1,132 +1,138 @@
 {
   "metadata": {
     "input_documents": [
-      "Learn Acrobat - Create and Convert_1.pdf",
-      "Learn Acrobat - Create and Convert_2.pdf",
-      "Learn Acrobat - Edit_1.pdf",
-      "Learn Acrobat - Edit_2.pdf",
       "Learn Acrobat - Export_1.pdf",
-      "Learn Acrobat - Export_2.pdf",
-      "Learn Acrobat - Fill and Sign.pdf",
-      "Learn Acrobat - Generative AI_1.pdf",
-      "Learn Acrobat - Generative AI_2.pdf",
       "Learn Acrobat - Request e-signatures_1.pdf",
+      "Learn Acrobat - Export_2.pdf",
+      "Learn Acrobat - Create and Convert_1.pdf",
+      "Learn Acrobat - Generative AI_1.pdf",
+      "The Ultimate PDF Sharing Checklist.pdf",
       "Learn Acrobat - Request e-signatures_2.pdf",
+      "Learn Acrobat - Fill and Sign.pdf",
+      "Learn Acrobat - Edit_1.pdf",
       "Learn Acrobat - Share_1.pdf",
-      "Learn Acrobat - Share_2.pdf",
       "Test Your Acrobat Exporting Skills.pdf",
-      "The Ultimate PDF Sharing Checklist.pdf"
+      "Learn Acrobat - Share_2.pdf",
+      "Learn Acrobat - Generative AI_2.pdf",
+      "Learn Acrobat - Edit_2.pdf",
+      "Learn Acrobat - Create and Convert_2.pdf"
     ],
     "persona": "HR professional",
     "job_to_be_done": "Create and manage fillable forms for onboarding and compliance.",
-    "processing_timestamp": "2025-07-27T16:54:12.668565"
+    "processing_timestamp": "2025-07-28T09:11:30.602903"
   },
   "extracted_sections": [
     {
-      "document": "Learn Acrobat - Generative AI_2.pdf",
-      "section_title": "You can manage the deployment of Acrobat AI Assistant through the Adobe Admin Co",
+      "document": "Learn Acrobat - Fill and Sign.pdf",
+      "section_title": "Flat form",
       "importance_rank": 1,
-      "page_number": 18
-    },
-    {
-      "document": "Learn Acrobat - Create and Convert_1.pdf",
-      "section_title": "Method 3: Right-click on the file and then select Convert to",
-      "importance_rank": 2,
-      "page_number": 2
-    },
-    {
-      "document": "Learn Acrobat - Create and Convert_1.pdf",
-      "section_title": "using the convert to PDF tool, menu commands, dragging-and-dropping files onto the",
-      "importance_rank": 3,
-      "page_number": 6
-    },
-    {
-      "document": "Learn Acrobat - Create and Convert_2.pdf",
-      "section_title": "open the list of printers, and then click Properties or Preferences.)",
-      "importance_rank": 4,
       "page_number": 12
-    },
-    {
-      "document": "Learn Acrobat - Edit_2.pdf",
-      "section_title": "To create a single-page PDF for each extracted page, select",
-      "importance_rank": 5,
-      "page_number": 4
-    },
-    {
-      "document": "Learn Acrobat - Edit_2.pdf",
-      "section_title": "To remove the extracted pages from the original document, select Delete",
-      "importance_rank": 6,
-      "page_number": 5
     },
     {
       "document": "Learn Acrobat - Export_1.pdf",
-      "section_title": "includes full DSC (Document Structuring Conventions) comments and other advanced",
-      "importance_rank": 7,
+      "section_title": "PostScript (EPS)",
+      "importance_rank": 2,
       "page_number": 20
     },
     {
-      "document": "Learn Acrobat - Fill and Sign.pdf",
-      "section_title": "Fill and sign PDF forms",
-      "importance_rank": 8,
+      "document": "Learn Acrobat - Export_1.pdf",
+      "section_title": "PostScript (EPS) (1)",
+      "importance_rank": 3,
+      "page_number": 20
+    },
+    {
+      "document": "Learn Acrobat - Request e-signatures_1.pdf",
+      "section_title": "View Activity Report",
+      "importance_rank": 4,
+      "page_number": 19
+    },
+    {
+      "document": "Learn Acrobat - Request e-signatures_1.pdf",
+      "section_title": "Create the appearance of a certificate-based signature",
+      "importance_rank": 5,
+      "page_number": 25
+    },
+    {
+      "document": "Learn Acrobat - Create and Convert_1.pdf",
+      "section_title": "What’s the best way to create a PDF?",
+      "importance_rank": 6,
       "page_number": 2
     },
     {
-      "document": "Learn Acrobat - Fill and Sign.pdf",
-      "section_title": "Flat form",
+      "document": "Learn Acrobat - Create and Convert_1.pdf",
+      "section_title": "What’s the best way to create a PDF? (1)",
+      "importance_rank": 7,
+      "page_number": 2
+    },
+    {
+      "document": "Learn Acrobat - Generative AI_1.pdf",
+      "section_title": "User Guidelines",
+      "importance_rank": 8,
+      "page_number": 3
+    },
+    {
+      "document": "Learn Acrobat - Generative AI_1.pdf",
+      "section_title": "Provide feedback for generated answers",
       "importance_rank": 9,
-      "page_number": 12
+      "page_number": 30
+    },
+    {
+      "document": "Learn Acrobat - Request e-signatures_2.pdf",
+      "section_title": "XML data signatures",
+      "importance_rank": 10,
+      "page_number": 10
     }
   ],
   "subsection_analysis": [
     {
-      "document": "Learn Acrobat - Generative AI_2.pdf",
-      "refined_text": "You can manage the deployment of Acrobat AI Assistant through the Adobe Admin Console. You can choose to either select the users to assign or create. product profiles and assign users to the profiles",
-      "page_number": 18
-    },
-    {
-      "document": "Learn Acrobat - Create and Convert_1.pdf",
-      "refined_text": "You can create PDFs from documents printed on paper, Microsoft Word documents, InDesign®. files, digital images, and more. Diﬀerent types of sources have diﬀerent tools available for PDF",
-      "page_number": 2
-    },
-    {
-      "document": "Learn Acrobat - Create and Convert_1.pdf",
-      "refined_text": "also create, define, save, and reuse custom presets that are uniquely suited to your purposes.. For convenience, you can select one of the conversion presets available in Acrobat. You can",
-      "page_number": 6
-    },
-    {
-      "document": "Learn Acrobat - Create and Convert_2.pdf",
-      "refined_text": "Your source document is converted to PostScript and fed directly to. Distiller for conversion to PDF, without manually starting Distiller. preference settings and Adobe PDF settings are used to convert the file",
+      "document": "Learn Acrobat - Fill and Sign.pdf",
+      "refined_text": "Save forms • To save the completed form, choose Save As from the hamburger menu ( File > Save As in macOS) and rename the file.. The tools are enabled for the current form only. When you create a different form, redo this task to enable Acrobat Reader users to use the tools",
       "page_number": 12
-    },
-    {
-      "document": "Learn Acrobat - Create and Convert_2.pdf",
-      "refined_text": "For example, you cannot create bookmarks and. (Windows) For Microsoft Office documents, the Adobe PDF printer does not include some of. Office document and you want to use these features, use PDFMaker.",
-      "page_number": 12
-    },
-    {
-      "document": "Learn Acrobat - Edit_2.pdf",
-      "refined_text": "To keep the original pages intact and create a single PDF for the extracted. . pages, deselect both options.",
-      "page_number": 4
-    },
-    {
-      "document": "Learn Acrobat - Edit_2.pdf",
-      "refined_text": "To keep the original pages intact and create a single PDF for the extracted. . pages, deselect both options.",
-      "page_number": 5
     },
     {
       "document": "Learn Acrobat - Export_1.pdf",
-      "refined_text": "You can export a PDF to PostScript for printing and prepress applications. includes full DSC (Document Structuring Conventions) comments and other advanced. You can also create an EPS file from any PDF",
+      "refined_text": "You can export a PDF to PostScript for printing and prepress applications. You can also create an EPS file from any PDF for placement or opening in other applications. The PostScript file includes full DSC (Document Structuring Conventions) comments and other advanced information preserved by Adobe Acrobat Distiller",
       "page_number": 20
     },
     {
-      "document": "Learn Acrobat - Fill and Sign.pdf",
-      "refined_text": "Flat forms: These do not have interactive fields. hasn’t been optimized for form filling. form fields like text fields, comb fields, checkboxes, and radio buttons",
+      "document": "Learn Acrobat - Export_1.pdf",
+      "refined_text": "Note: If you create EPS files for separations in Acrobat Pro, all image color spaces should be CMYK... In the Save as dialog, select a location where you want to save the file and then select Save. From the global bar, select Convert",
+      "page_number": 20
+    },
+    {
+      "document": "Learn Acrobat - Request e-signatures_1.pdf",
+      "refined_text": "Adobe Acrobat supports a range of solutions for electronic and digital signatures. Acrobat lets you create your certificate ID. These solutions include certificate signatures that let you sign PDF files with a certificate-based digital ID",
+      "page_number": 19
+    },
+    {
+      "document": "Learn Acrobat - Request e-signatures_1.pdf",
+      "refined_text": "You can also create different signatures for different purposes. A signature can also include information that helps others verify your signature , such as the reason for signing, contact information, and more.. For example, you can include an image of your handwritten signature, a company logo, or a photograph",
+      "page_number": 25
+    },
+    {
+      "document": "Learn Acrobat - Create and Convert_1.pdf",
+      "refined_text": "You can create PDFs from documents printed on paper, Microsoft Word documents, InDesign® files, digital images, and more. Diﬀerent types of sources have diﬀerent tools available for PDF conversion. In many applications, you can create PDFs by selecting the Adobe PDF printer in the Print dialog box",
       "page_number": 2
     },
     {
-      "document": "Learn Acrobat - Fill and Sign.pdf",
-      "refined_text": "You can change a flat form to a fillable form by either using the Prepare Form tool or. Acrobat and Acrobat Reader users can use the Fill & Sign tool. to fill in flat forms.",
-      "page_number": 12
+      "document": "Learn Acrobat - Create and Convert_1.pdf",
+      "refined_text": "For example, you can drag files to the Acrobat icon to create PDFs.. Every PDF balances eﬃciency (small file size) and quality (such as resolution and color). If the balance between the file size and the quality is critical to your task, you must use an appropriate conversion method",
+      "page_number": 2
+    },
+    {
+      "document": "Learn Acrobat - Generative AI_1.pdf",
+      "refined_text": "Generative AI features cannot replace advice provided by a qualified professional and do not form any such relationship (for example, an attorney-client relationship)..",
+      "page_number": 3
+    },
+    {
+      "document": "Learn Acrobat - Generative AI_1.pdf",
+      "refined_text": "Prepare polished PDFs: Easily create = “ee sources like Cp) Read Aloud sand multiple 4 pages Gs’ Copy ‘iles quickly, Share ng files for cations on ontrol over utorials, Ss anbancn cument g rgeniereteu Tespurbes Mey ve maccurere ur nmsleading, Be sure to double-check responses and sources. Work where you want: Users have the flexibility to work on desktop, web, or mobile devices, with access to fil",
+      "page_number": 30
+    },
+    {
+      "document": "Learn Acrobat - Request e-signatures_2.pdf",
+      "refined_text": "Acrobat and Acrobat Reader support XML data signatures that are used to sign data in XML Forms Architectures (XFA) forms. The form author provides XML signing, validating, or clearing instructions for form events, such as button click, file save, or submit. Like PDF digital signatures, XML digital signatures ensure integrity, authentication, and non-repudiation in documents.",
+      "page_number": 10
     }
   ]
 }

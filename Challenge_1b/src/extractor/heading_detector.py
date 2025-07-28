@@ -32,16 +32,10 @@ def detect_headings(pages_data):
     if title_cands:
         title = min(title_cands, key=lambda it: it["y"])["text"]
 
-    # Poster-style: apply keyword + relaxed logic
     if is_poster(pages_data):
-        print("[INFO] Poster-style document detected. Using relaxed heading rules.")
         return detect_headings_poster(pages_data, heading_fonts, title)
-
-    # Normal document: strict heading detection
-    print("[INFO] Multi-page document detected. Using strict heading detection.")
     return detect_headings_strict(pages_data, heading_fonts, title)
 
-# --- Strict version (for structured documents like file02) ---
 def detect_headings_strict(pages_data, heading_fonts, title):
     BIN = 5
     buckets = defaultdict(list)
@@ -59,9 +53,14 @@ def detect_headings_strict(pages_data, heading_fonts, title):
     for (pg, lvl, yb) in sorted(buckets):
         spans = sorted(buckets[(pg, lvl, yb)], key=lambda it: it["x"])
         text = " ".join(it["text"] for it in spans).strip()
+        # --- STRONGER FILTERS ---
         if len(text) < 3 or (pg, text) in seen:
             continue
-        if len(text.split()) > 12 or text.endswith((".", ":", ";")):
+        if len(text.split()) > 10:  # stricter: max 10 words
+            continue
+        if text.endswith((".", ":", ";")):
+            continue
+        if not text[0].isupper():
             continue
         outline.append({
             "level": f"H{lvl}",
@@ -72,7 +71,6 @@ def detect_headings_strict(pages_data, heading_fonts, title):
         seen.add((pg, text))
     return title or "Untitled", outline
 
-# --- Poster version (file05): keep OCR + keyword classification logic ---
 def detect_headings_poster(pages_data, heading_fonts, title):
     import re
     from collections import defaultdict
@@ -108,7 +106,6 @@ def detect_headings_poster(pages_data, heading_fonts, title):
         if not text or (pg, text) in seen:
             continue
 
-        # classify or fallback to font-size based
         category = classify(text)
         if category:
             level = {
@@ -132,16 +129,13 @@ def detect_headings_poster(pages_data, heading_fonts, title):
             "text":  text,
             "page":  pg,
             "font_size": sz,
-            "_y":    yb      # temporary for sorting
+            "_y":    yb
         })
         seen.add((pg, text))
 
-    # --- NEW: sort by page, then by vertical position ---
     outline.sort(key=lambda it: (it["page"], it["_y"]))
 
-    # remove the helper field before returning
     for it in outline:
         del it["_y"]
 
     return title or "Untitled", outline
-

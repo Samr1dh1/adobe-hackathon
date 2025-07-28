@@ -27,6 +27,7 @@ def summarize_chunks(chunks, persona_text, task_text, max_lines=3, max_length=40
         summary = ". ".join(selected).strip()[:max_length]
 
         chunk["summary"] = summary
+        chunk["page_number"] = int(chunk.get("page_number", 0))
         summarized.append(chunk)
 
     return summarized

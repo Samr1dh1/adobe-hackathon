@@ -1,48 +1,19 @@
-import string
 from collections import defaultdict
+import string
+import re
 
 def preprocess(text):
-    """
-    Lowercases and removes punctuation from input text.
-    """
-    return text.lower().translate(str.maketrans('', '', string.punctuation))
+    text = text.lower()
+    text = re.sub(r'\s+', ' ', text)
+    text = text.translate(str.maketrans('', '', string.punctuation))
+    return text
 
-def enforce_diversity(chunks, max_per_doc=2, limit=7):
-    """
-    Enforces diversity by limiting the number of chunks per document.
-    Stops after reaching the desired limit.
-    """
-    doc_count = defaultdict(int)
-    final = []
-    for chunk in chunks:
-        doc = chunk["document"]
-        if doc_count[doc] < max_per_doc:
-            final.append(chunk)
-            doc_count[doc] += 1
-        if len(final) >= limit:
-            break
-    return final
-
-def score_relevance(chunks, persona_text, task_text, top_n=10, max_per_doc=2):
-    """
-    Scores and selects the top-N relevant and diverse chunks.
-
-    Parameters:
-    - chunks: List of chunk dicts with 'text' and 'document'.
-    - persona_text: String representing persona role.
-    - task_text: String representing job to be done.
-    - top_n: Final number of chunks to return.
-    - max_per_doc: Max chunks per document allowed.
-
-    Returns:
-    - List of top_n chunks, ranked by importance and diversity.
-    """
-    # Build keyword set
+def score_relevance(chunks, persona_text, task_text, top_n=10, max_per_doc=2, min_required=5):
     persona_words = set(preprocess(persona_text).split())
     task_words = set(preprocess(task_text).split())
     context_keywords = persona_words | task_words
 
-    # Score each chunk by keyword overlap
+    # Score chunks
     scored_chunks = []
     for chunk in chunks:
         chunk_text = preprocess(chunk["text"])
@@ -53,11 +24,30 @@ def score_relevance(chunks, persona_text, task_text, top_n=10, max_per_doc=2):
             chunk["importance"] = score
             scored_chunks.append(chunk)
 
-    # Sort by relevance score
+    # Sort by score
     scored_chunks.sort(key=lambda c: -c["importance"])
 
-    # Enforce diversity across top-N selections
-    top_chunks = scored_chunks[:top_n * 2]
-    diverse_chunks = enforce_diversity(top_chunks, max_per_doc=max_per_doc, limit=top_n)
+    # Diversity enforcement
+    doc_count = defaultdict(int)
+    diverse_chunks = []
+    fallback_chunks = []
+
+    for chunk in scored_chunks:
+        doc = chunk["document"]
+        if doc_count[doc] < max_per_doc:
+            diverse_chunks.append(chunk)
+            doc_count[doc] += 1
+        else:
+            fallback_chunks.append(chunk)
+        if len(diverse_chunks) >= top_n:
+            break
+
+    # Backfill if not enough
+    if len(diverse_chunks) < min_required:
+        for chunk in fallback_chunks:
+            if chunk not in diverse_chunks:
+                diverse_chunks.append(chunk)
+            if len(diverse_chunks) >= min_required:
+                break
 
     return diverse_chunks
