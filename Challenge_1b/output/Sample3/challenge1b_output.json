@@ -1,0 +1,128 @@
+{
+  "metadata": {
+    "input_documents": [
+      "Alcohols Phenols and Ethers.pdf",
+      "Aldehydes, Ketones and Carboxylic Acids.pdf",
+      "Amines.pdf",
+      "Biomolecules.pdf",
+      "Haloalkanes and Haloarenes.pdf"
+    ],
+    "persona": "Undergraduate Chemistry Student",
+    "job_to_be_done": "Identify key concepts and mechanisms for exam preparation on reaction kinetics.",
+    "processing_timestamp": "2025-07-28T18:10:40.461566"
+  },
+  "extracted_sections": [
+    {
+      "document": "Alcohols Phenols and Ethers.pdf",
+      "section_title": "Exercises",
+      "importance_rank": 1,
+      "page_number": 30
+    },
+    {
+      "document": "Alcohols Phenols and Ethers.pdf",
+      "section_title": "Objectives",
+      "importance_rank": 2,
+      "page_number": 1
+    },
+    {
+      "document": "Aldehydes, Ketones and Carboxylic Acids.pdf",
+      "section_title": "Exercises (1)",
+      "importance_rank": 3,
+      "page_number": 29
+    },
+    {
+      "document": "Amines.pdf",
+      "section_title": "Decreasing order of  extent of H-bonding in water and order of",
+      "importance_rank": 4,
+      "page_number": 10
+    },
+    {
+      "document": "Amines.pdf",
+      "section_title": "Exercises (2)",
+      "importance_rank": 5,
+      "page_number": 20
+    },
+    {
+      "document": "Haloalkanes and Haloarenes.pdf",
+      "section_title": "Objectives (1)",
+      "importance_rank": 6,
+      "page_number": 1
+    },
+    {
+      "document": "Haloalkanes and Haloarenes.pdf",
+      "section_title": "Exercises (3)",
+      "importance_rank": 7,
+      "page_number": 31
+    },
+    {
+      "document": "Aldehydes, Ketones and Carboxylic Acids.pdf",
+      "section_title": "Objectives (2)",
+      "importance_rank": 8,
+      "page_number": 1
+    },
+    {
+      "document": "Biomolecules.pdf",
+      "section_title": "Objectives (3)",
+      "importance_rank": 9,
+      "page_number": 1
+    },
+    {
+      "document": "Biomolecules.pdf",
+      "section_title": "Objectives (4)",
+      "importance_rank": 10,
+      "page_number": 1
+    }
+  ],
+  "subsection_analysis": [
+    {
+      "document": "Alcohols Phenols and Ethers.pdf",
+      "refined_text": "Reprint 2025-26 224 Chemistry 7.23 Give IUPAC names of the following ethers: 7.24 Write the names of reagents and equations for the preparation of the following ethers by Williamson’s synthesis: (i) 1-Propoxypropane (ii) Ethoxybenzene (iii) 2-Methoxy-2-methylpropane (iv) 1-Methoxyethane 7.25 Illustrate with examples the limitations of Williamson synthesis for the preparation of certain types of et",
+      "page_number": 30
+    },
+    {
+      "document": "Alcohols Phenols and Ethers.pdf",
+      "refined_text": "After studying this Unit, you will be able to • name alcohols, phenols and ethers according to the IUPAC system of nomenclature; • discuss the reactions involved in the preparation of alcohols from alkenes, aldehydes, ketones and carboxylic acids; • discuss the reactions involved in the preparation of phenols from haloarenes, benzene sulphonic acids, diazonium salts and cumene; • discuss the react",
+      "page_number": 1
+    },
+    {
+      "document": "Aldehydes, Ketones and Carboxylic Acids.pdf",
+      "refined_text": "8 .10 An organic compound with the molecular formula C 9 H 10 O forms 2,4-DNP derivative, reduces Tollens’ reagent and undergoes Cannizzaro reaction. On vigorous oxidation, it gives 1,2-benzenedicarboxylic acid. Identify the compound",
+      "page_number": 29
+    },
+    {
+      "document": "Amines.pdf",
+      "refined_text": "Carbylamine reaction Aliphatic and aromatic primary amines on heating with chloroform and ethanolic potassium hydroxide form isocyanides or carbylamines which are foul smelling substances. This reaction is known as carbylamine reaction or isocyanide test and is used as a test for primary amines. Secondary and tertiary amines do not show this reaction",
+      "page_number": 10
+    },
+    {
+      "document": "Amines.pdf",
+      "refined_text": "(iv) Although amino group is o– and p– directing in aromatic electrophilic substitution reactions, aniline on nitration gives a substantial amount of m -nitroaniline. (v) Aniline does not undergo Friedel-Crafts reaction. (vii) Gabriel phthalimide synthesis is preferred for synthesising primary amines.",
+      "page_number": 20
+    },
+    {
+      "document": "Haloalkanes and Haloarenes.pdf",
+      "refined_text": "After studying this Unit, you will be able to · name haloalkanes and haloarenes according to the IUPAC system of nomenclature from their given structures; · describe the reactions involved in the preparation of haloalkanes and haloarenes and understand various reactions that they undergo; · correlate the structures of haloalkanes and haloarenes with various types of reactions; · use stereochemistr",
+      "page_number": 1
+    },
+    {
+      "document": "Haloalkanes and Haloarenes.pdf",
+      "refined_text": "Reprint 2025-26 190 Chemistry 6.9 Which compound in each of the following pairs will react faster in S N 2 reaction with – OH? (i) CH 3 Br or CH 3 I (ii) (CH 3 ) 3 CCl or CH 3 Cl 6.10 Predict all the alkenes that would be formed by dehydrohalogenation of the following halides with sodium ethoxide in ethanol and identify the major alkene: (i) 1-Bromo-1-methylcyclohexane (ii) 2-Chloro-2-methylbutane",
+      "page_number": 31
+    },
+    {
+      "document": "Aldehydes, Ketones and Carboxylic Acids.pdf",
+      "refined_text": "The general formulas of these classes of compounds are given below: Reprint 2025-26 228 Chemistry Aldehydes, ketones and carboxylic acids are widespread in plants and animal kingdom. They add fragrance and flavour to nature, for example, vanillin (from vanilla beans), salicylaldehyde (from meadow sweet) and cinnamaldehyde (from cinnamon) have very pleasant fragrances. They play an important role i",
+      "page_number": 1
+    },
+    {
+      "document": "Biomolecules.pdf",
+      "refined_text": "A living system grows, sustains and reproduces itself. The most amazing thing about a living system is that it is composed of non-living atoms and molecules. The pursuit of knowledge of what goes on chemically within a living system falls in the domain of biochemistry",
+      "page_number": 1
+    },
+    {
+      "document": "Biomolecules.pdf",
+      "refined_text": "After studying this Unit, you will be able to • explain the characteristics of biomolecules like carbohydrates, proteins and nucleic acids and hormones; • classify carbohydrates, proteins, nucleic acids and vitamins on the basis of their structures; • explain the difference between DNA and RNA; • describe the role of biomolecules in biosystem. “It is the harmonious and synchronous progress of chem",
+      "page_number": 1
+    }
+  ]
+}

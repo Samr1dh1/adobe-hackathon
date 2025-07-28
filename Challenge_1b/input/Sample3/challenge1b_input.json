@@ -1,0 +1,35 @@
+{
+  "challenge_info": {
+    "challenge_id": "round_1b_sample_003",
+    "test_case_name": "educational_content_organic_chemistry",
+    "description": "Exam preparation content for Organic Chemistry - Reaction Kinetics"
+  },
+  "documents": [
+    {
+      "filename": "Alcohols Phenols and Ethers.pdf",
+      "title": "Alcohols, Phenols and Ethers"
+    },
+    {
+      "filename": "Aldehydes, Ketones and Carboxylic Acids.pdf",
+      "title": "Aldehydes, Ketones and Carboxylic Acids"
+    },
+    {
+      "filename": "Amines.pdf",
+      "title": "Amines"
+    },
+    {
+      "filename": "Biomolecules.pdf",
+      "title": "Biomolecules"
+    },
+    {
+      "filename": "Haloalkanes and Haloarenes.pdf",
+      "title": "Haloalkanes and Haloarenes"
+    }
+  ],
+  "persona": {
+    "role": "Undergraduate Chemistry Student"
+  },
+  "job_to_be_done": {
+    "task": "Identify key concepts and mechanisms for exam preparation on reaction kinetics."
+  }
+}

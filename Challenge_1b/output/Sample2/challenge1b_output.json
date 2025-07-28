@@ -1,0 +1,82 @@
+{
+  "metadata": {
+    "input_documents": [
+      "ITT_annualRep.pdf",
+      "Luminar_annualRep.pdf",
+      "TechTarget_annualRep.pdf"
+    ],
+    "persona": "Investment Analyst",
+    "job_to_be_done": "Analyze revenue trends, R&D investments, and market positioning strategies.",
+    "processing_timestamp": "2025-07-28T18:10:36.336189"
+  },
+  "extracted_sections": [
+    {
+      "document": "ITT_annualRep.pdf",
+      "section_title": "Recent mergers, acquisitions or venture investments could present operational...",
+      "importance_rank": 1,
+      "page_number": 22
+    },
+    {
+      "document": "ITT_annualRep.pdf",
+      "section_title": "Significant Accounting Policies",
+      "importance_rank": 2,
+      "page_number": 69
+    },
+    {
+      "document": "Luminar_annualRep.pdf",
+      "section_title": "CAUTIONARY NOTE REGARDING FORWARD LOOKING STATEMENTS",
+      "importance_rank": 3,
+      "page_number": 4
+    },
+    {
+      "document": "Luminar_annualRep.pdf",
+      "section_title": "CAUTIONARY NOTE REGARDING FORWARD LOOKING STATEMENTS (1)",
+      "importance_rank": 4,
+      "page_number": 4
+    },
+    {
+      "document": "TechTarget_annualRep.pdf",
+      "section_title": "Cautionary Note Regarding Forward-Looking Statements",
+      "importance_rank": 5,
+      "page_number": 5
+    },
+    {
+      "document": "TechTarget_annualRep.pdf",
+      "section_title": "Cautionary Note Regarding Forward-Looking Statements (1)",
+      "importance_rank": 6,
+      "page_number": 5
+    }
+  ],
+  "subsection_analysis": [
+    {
+      "document": "ITT_annualRep.pdf",
+      "refined_text": "Our business is impacted by our customers' levels of capital investment, maintenance expenditures, production, and market cyclicality.. The cost of compliance with increasingly complex and often conflicting regulations worldwide can also impair our flexibility in modifying product, marketing, pricing or other strategies for growing our businesses, as well as our ability to improve productivity and",
+      "page_number": 22
+    },
+    {
+      "document": "ITT_annualRep.pdf",
+      "refined_text": "If not sold separately, estimated standalone selling prices are determined considering various factors including market and pricing trends, geography, product customization, and profit objectives. Revenue is recognized when the appropriate revenue recognition criteria for the individual performance obligations have been satisfied.",
+      "page_number": 69
+    },
+    {
+      "document": "Luminar_annualRep.pdf",
+      "refined_text": "These forward-looking statements are included throughout this Form 10-K, including in the sections entitled “Business,” “Risk Factors,” “Management’s Discussion and Analysis of Financial Condition and Results of Operations,” and in other sections of this Form 10-K and include statements regarding product plans, future growth, sales estimates/Order Book numbers, market opportunities, strategic init",
+      "page_number": 4
+    },
+    {
+      "document": "Luminar_annualRep.pdf",
+      "refined_text": "There are important factors that could cause our actual results, level of activity, performance or achievements to differ materially from the results, level of activity, performance or achievements expressed or implied by the forward-looking statements, including, our history of losses and our expectation that we will continue to incur significant expenses, including substantial R&D costs, and con",
+      "page_number": 4
+    },
+    {
+      "document": "TechTarget_annualRep.pdf",
+      "refined_text": "Important factors that could cause actual results to differ materially from such plans, estimates, or expectations include, but are not limited to, those relating to: market acceptance of our products and services, including continued increased sales of our IT Deal Alert™ offerings and continued increased international growth; that one or more closing conditions to the proposed transaction with In",
+      "page_number": 5
+    },
+    {
+      "document": "TechTarget_annualRep.pdf",
+      "refined_text": "administration; risks related to disruption of management time from ongoing business operations due to the proposed transaction with Informa; certain restrictions during the pendency of the proposed transaction that may impact our ability to pursue certain business opportunities or strategic transactions; our ability and the ability of the combined business to meet expectations regarding the accou",
+      "page_number": 5
+    }
+  ]
+}

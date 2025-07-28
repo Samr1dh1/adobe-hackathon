@@ -1,0 +1,105 @@
+{
+  "metadata": {
+    "input_documents": [
+      "AcceleratingDrugDiscoverywithGraphNeuralNetworksandMolecularPropertyPrediction.pdf",
+      "DeepNC_a_framework_drug–targetinteractionpredictionwithGNNs.pdf",
+      "Graph_Neural_Networks_in_Modern_AI‑aided_Drug_Discovery.pdf",
+      "Knowledge_mapping_of_graph_neural_networks_for_drug_discovery.pdf"
+    ],
+    "persona": "PhD Researcher in Computational Biology",
+    "job_to_be_done": "Prepare a comprehensive literature review focusing on methodologies, datasets, and performance benchmarks.",
+    "processing_timestamp": "2025-07-28T18:10:31.776711"
+  },
+  "extracted_sections": [
+    {
+      "document": "Graph_Neural_Networks_in_Modern_AI‑aided_Drug_Discovery.pdf",
+      "section_title": "6.4.1 The Data-Centric Paradigm",
+      "importance_rank": 1,
+      "page_number": 161
+    },
+    {
+      "document": "Graph_Neural_Networks_in_Modern_AI‑aided_Drug_Discovery.pdf",
+      "section_title": "KGDRP",
+      "importance_rank": 2,
+      "page_number": 161
+    },
+    {
+      "document": "AcceleratingDrugDiscoverywithGraphNeuralNetworksandMolecularPropertyPrediction.pdf",
+      "section_title": "Networks and Molecular Property Prediction",
+      "importance_rank": 3,
+      "page_number": 2
+    },
+    {
+      "document": "AcceleratingDrugDiscoverywithGraphNeuralNetworksandMolecularPropertyPrediction.pdf",
+      "section_title": "Intelligence, Cheminformatics, Deep Learning, Computational Chemistry",
+      "importance_rank": 4,
+      "page_number": 2
+    },
+    {
+      "document": "DeepNC_a_framework_drug–targetinteractionpredictionwithGNNs.pdf",
+      "section_title": "ABSTRACT",
+      "importance_rank": 5,
+      "page_number": 1
+    },
+    {
+      "document": "DeepNC_a_framework_drug–targetinteractionpredictionwithGNNs.pdf",
+      "section_title": "Ahamed Hassain Malim",
+      "importance_rank": 6,
+      "page_number": 1
+    },
+    {
+      "document": "Knowledge_mapping_of_graph_neural_networks_for_drug_discovery.pdf",
+      "section_title": "1 Introduction",
+      "importance_rank": 7,
+      "page_number": 2
+    },
+    {
+      "document": "Knowledge_mapping_of_graph_neural_networks_for_drug_discovery.pdf",
+      "section_title": "3.5 Author analysis",
+      "importance_rank": 8,
+      "page_number": 7
+    }
+  ],
+  "subsection_analysis": [
+    {
+      "document": "Graph_Neural_Networks_in_Modern_AI‑aided_Drug_Discovery.pdf",
+      "refined_text": "Unlike other tasks in computational biology that often rely on a single data type or a relatively homogeneous dataset, biomedical KGs handle heterogeneous entities, complex relationships, and contextual metadata spanning genomics, transcriptomics, proteomics, clinical pathology, and literature- derived annotations. These data sources often differ in format, semantic standards, quantity, and qualit",
+      "page_number": 161
+    },
+    {
+      "document": "Graph_Neural_Networks_in_Modern_AI‑aided_Drug_Discovery.pdf",
+      "refined_text": "Unlike other tasks in computational biology that often rely on a single data type or a relatively homogeneous dataset, biomedical KGs handle heterogeneous entities, complex relationships, and contextual metadata spanning genomics, transcriptomics, proteomics, clinical pathology, and literature- derived annotations. These data sources often differ in format, semantic standards, quantity, and qualit",
+      "page_number": 161
+    },
+    {
+      "document": "AcceleratingDrugDiscoverywithGraphNeuralNetworksandMolecularPropertyPrediction.pdf",
+      "refined_text": "Authors: Raphael Alamu, Sudarshana Karkala, Sazzad Hossain, Mahendra Krishnapatnam, Ankur Aggarwal, Zarif Zahir, Harshad Vijay Pandhare, Varun Shah Date: 12 June 2025 Abstract: This research article provides a comprehensive review of the transformative role of Graph Neural Networks (GNNs) in accelerating drug discovery, with a particular focus on molecular property",
+      "page_number": 2
+    },
+    {
+      "document": "AcceleratingDrugDiscoverywithGraphNeuralNetworksandMolecularPropertyPrediction.pdf",
+      "refined_text": "This article provides a comprehensive overview of how GNNs are fundamentally transforming drug discovery, with a specific emphasis on their role in accelerating molecular property prediction. 1.1 The Traditional Drug Discovery Paradigm: Challenges and Limitations Drug development is a notoriously long, costly, and high-risk endeavor. The average time required to bring a new drug to market typicall",
+      "page_number": 2
+    },
+    {
+      "document": "DeepNC_a_framework_drug–targetinteractionpredictionwithGNNs.pdf",
+      "refined_text": "Moreover, compared to the results of baseline methods that worked on the same problem, DeepNC proves to improve the performance in terms of mean square error and concordance index. Subjects Bioinformatics, Drugs and Devices, Computational Science, Data Mining and Machine Learning Keywords Drug-target interaction, Binding affinity, Drug discovery, Deep learning, Graph neural networks, Cheminformati",
+      "page_number": 1
+    },
+    {
+      "document": "DeepNC_a_framework_drug–targetinteractionpredictionwithGNNs.pdf",
+      "refined_text": "Moreover, compared to the results of baseline methods that worked on the same problem, DeepNC proves to improve the performance in terms of mean square error and concordance index. Subjects Bioinformatics, Drugs and Devices, Computational Science, Data Mining and Machine Learning Keywords Drug-target interaction, Binding affinity, Drug discovery, Deep learning, Graph neural networks, Cheminformati",
+      "page_number": 1
+    },
+    {
+      "document": "Knowledge_mapping_of_graph_neural_networks_for_drug_discovery.pdf",
+      "refined_text": "Arti ﬁ cial Intelligence (AI) is a technology that focuses on the application of computer programs to simulate human intelligent behavior. It involves several ﬁ elds such as informatics, mathematics, and biology ( Shen et al., 2022a ). Arti ﬁ cial neural networks, a fundamental technology in the ﬁ eld of AI, have received growing interest in recent years.",
+      "page_number": 2
+    },
+    {
+      "document": "Knowledge_mapping_of_graph_neural_networks_for_drug_discovery.pdf",
+      "refined_text": "Rank Journal title h_index TC TP PY_start IF (2023) JCR 1 Brie ﬁ ngs In Bioinformatics 20 1303 75 2020 9.5 Q1 2 Bioinformatics 15 1580 44 2018 5.8 Q1 3 Journal of Chemical Information And Modeling 16 996 38 2019 5.6 Q1 4 Ieee-Acm Transactions on Computational Biology And Bioinformatics 8 200 31 2021 4.5 Q1\\Q2 5 Bmc Bioinformatics 6 168 30 2020 3 Q2 6 International Journal of Molecular Sciences 6 1",
+      "page_number": 7
+    }
+  ]
+}
