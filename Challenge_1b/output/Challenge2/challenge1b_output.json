@@ -1,123 +1,103 @@
 {
   "metadata": {
     "input_documents": [
-      "Learn Acrobat - Export_1.pdf",
-      "Learn Acrobat - Request e-signatures_1.pdf",
-      "Learn Acrobat - Export_2.pdf",
       "Learn Acrobat - Create and Convert_1.pdf",
-      "Learn Acrobat - Generative AI_1.pdf",
-      "The Ultimate PDF Sharing Checklist.pdf",
-      "Learn Acrobat - Request e-signatures_2.pdf",
-      "Learn Acrobat - Fill and Sign.pdf",
+      "Learn Acrobat - Create and Convert_2.pdf",
       "Learn Acrobat - Edit_1.pdf",
-      "Learn Acrobat - Share_1.pdf",
-      "Test Your Acrobat Exporting Skills.pdf",
-      "Learn Acrobat - Share_2.pdf",
-      "Learn Acrobat - Generative AI_2.pdf",
       "Learn Acrobat - Edit_2.pdf",
-      "Learn Acrobat - Create and Convert_2.pdf"
+      "Learn Acrobat - Export_1.pdf",
+      "Learn Acrobat - Export_2.pdf",
+      "Learn Acrobat - Fill and Sign.pdf",
+      "Learn Acrobat - Generative AI_1.pdf",
+      "Learn Acrobat - Generative AI_2.pdf",
+      "Learn Acrobat - Request e-signatures_1.pdf",
+      "Learn Acrobat - Request e-signatures_2.pdf",
+      "Learn Acrobat - Share_1.pdf",
+      "Learn Acrobat - Share_2.pdf",
+      "Test Your Acrobat Exporting Skills.pdf",
+      "The Ultimate PDF Sharing Checklist.pdf"
     ],
     "persona": "HR professional",
     "job_to_be_done": "Create and manage fillable forms for onboarding and compliance.",
-    "processing_timestamp": "2025-07-28T09:11:30.602903"
+    "processing_timestamp": "2025-07-28T13:15:00.679235"
   },
   "extracted_sections": [
     {
       "document": "Learn Acrobat - Fill and Sign.pdf",
-      "section_title": "Flat form",
+      "section_title": "Is the form fillable?",
       "importance_rank": 1,
-      "page_number": 12
+      "page_number": 8
     },
     {
-      "document": "Learn Acrobat - Export_1.pdf",
-      "section_title": "PostScript (EPS)",
+      "document": "Learn Acrobat - Create and Convert_2.pdf",
+      "section_title": "Compliance Standard",
       "importance_rank": 2,
-      "page_number": 20
+      "page_number": 8
     },
     {
-      "document": "Learn Acrobat - Export_1.pdf",
-      "section_title": "PostScript (EPS) (1)",
+      "document": "Learn Acrobat - Fill and Sign.pdf",
+      "section_title": "Interactive form",
       "importance_rank": 3,
-      "page_number": 20
-    },
-    {
-      "document": "Learn Acrobat - Request e-signatures_1.pdf",
-      "section_title": "View Activity Report",
-      "importance_rank": 4,
-      "page_number": 19
-    },
-    {
-      "document": "Learn Acrobat - Request e-signatures_1.pdf",
-      "section_title": "Create the appearance of a certificate-based signature",
-      "importance_rank": 5,
-      "page_number": 25
-    },
-    {
-      "document": "Learn Acrobat - Create and Convert_1.pdf",
-      "section_title": "What’s the best way to create a PDF?",
-      "importance_rank": 6,
-      "page_number": 2
-    },
-    {
-      "document": "Learn Acrobat - Create and Convert_1.pdf",
-      "section_title": "What’s the best way to create a PDF? (1)",
-      "importance_rank": 7,
-      "page_number": 2
+      "page_number": 12
     },
     {
       "document": "Learn Acrobat - Generative AI_1.pdf",
       "section_title": "User Guidelines",
-      "importance_rank": 8,
+      "importance_rank": 4,
       "page_number": 3
     },
     {
       "document": "Learn Acrobat - Generative AI_1.pdf",
-      "section_title": "Provide feedback for generated answers",
-      "importance_rank": 9,
-      "page_number": 30
+      "section_title": "User Guidelines (1)",
+      "importance_rank": 5,
+      "page_number": 3
     },
     {
       "document": "Learn Acrobat - Request e-signatures_2.pdf",
       "section_title": "XML data signatures",
-      "importance_rank": 10,
+      "importance_rank": 6,
       "page_number": 10
+    },
+    {
+      "document": "Learn Acrobat - Create and Convert_1.pdf",
+      "section_title": "Create a blank PDF",
+      "importance_rank": 7,
+      "page_number": 11
+    },
+    {
+      "document": "Learn Acrobat - Share_2.pdf",
+      "section_title": "Add an arrow, or shape",
+      "importance_rank": 8,
+      "page_number": 9
+    },
+    {
+      "document": "Learn Acrobat - Edit_1.pdf",
+      "section_title": "Change, replace, or delete text",
+      "importance_rank": 9,
+      "page_number": 4
+    },
+    {
+      "document": "Learn Acrobat - Generative AI_2.pdf",
+      "section_title": "Custom voice for read-aloud feature",
+      "importance_rank": 10,
+      "page_number": 7
     }
   ],
   "subsection_analysis": [
     {
       "document": "Learn Acrobat - Fill and Sign.pdf",
-      "refined_text": "Save forms • To save the completed form, choose Save As from the hamburger menu ( File > Save As in macOS) and rename the file.. The tools are enabled for the current form only. When you create a different form, redo this task to enable Acrobat Reader users to use the tools",
+      "refined_text": "Not all forms are fillable. Sometimes form creators don’t convert their PDFs to interactive fillable forms. These non-interactive forms are called flat forms.",
+      "page_number": 8
+    },
+    {
+      "document": "Learn Acrobat - Create and Convert_2.pdf",
+      "refined_text": "Specify the PDF/A or PDF/E compliance standard, or none.",
+      "page_number": 8
+    },
+    {
+      "document": "Learn Acrobat - Fill and Sign.pdf",
+      "refined_text": "To create an interactive form, use the Prepare Forms tool. See Create a form from an existing document .",
       "page_number": 12
-    },
-    {
-      "document": "Learn Acrobat - Export_1.pdf",
-      "refined_text": "You can export a PDF to PostScript for printing and prepress applications. You can also create an EPS file from any PDF for placement or opening in other applications. The PostScript file includes full DSC (Document Structuring Conventions) comments and other advanced information preserved by Adobe Acrobat Distiller",
-      "page_number": 20
-    },
-    {
-      "document": "Learn Acrobat - Export_1.pdf",
-      "refined_text": "Note: If you create EPS files for separations in Acrobat Pro, all image color spaces should be CMYK... In the Save as dialog, select a location where you want to save the file and then select Save. From the global bar, select Convert",
-      "page_number": 20
-    },
-    {
-      "document": "Learn Acrobat - Request e-signatures_1.pdf",
-      "refined_text": "Adobe Acrobat supports a range of solutions for electronic and digital signatures. Acrobat lets you create your certificate ID. These solutions include certificate signatures that let you sign PDF files with a certificate-based digital ID",
-      "page_number": 19
-    },
-    {
-      "document": "Learn Acrobat - Request e-signatures_1.pdf",
-      "refined_text": "You can also create different signatures for different purposes. A signature can also include information that helps others verify your signature , such as the reason for signing, contact information, and more.. For example, you can include an image of your handwritten signature, a company logo, or a photograph",
-      "page_number": 25
-    },
-    {
-      "document": "Learn Acrobat - Create and Convert_1.pdf",
-      "refined_text": "You can create PDFs from documents printed on paper, Microsoft Word documents, InDesign® files, digital images, and more. Diﬀerent types of sources have diﬀerent tools available for PDF conversion. In many applications, you can create PDFs by selecting the Adobe PDF printer in the Print dialog box",
-      "page_number": 2
-    },
-    {
-      "document": "Learn Acrobat - Create and Convert_1.pdf",
-      "refined_text": "For example, you can drag files to the Acrobat icon to create PDFs.. Every PDF balances eﬃciency (small file size) and quality (such as resolution and color). If the balance between the file size and the quality is critical to your task, you must use an appropriate conversion method",
-      "page_number": 2
     },
     {
       "document": "Learn Acrobat - Generative AI_1.pdf",
@@ -126,13 +106,33 @@
     },
     {
       "document": "Learn Acrobat - Generative AI_1.pdf",
-      "refined_text": "Prepare polished PDFs: Easily create = “ee sources like Cp) Read Aloud sand multiple 4 pages Gs’ Copy ‘iles quickly, Share ng files for cations on ontrol over utorials, Ss anbancn cument g rgeniereteu Tespurbes Mey ve maccurere ur nmsleading, Be sure to double-check responses and sources. Work where you want: Users have the flexibility to work on desktop, web, or mobile devices, with access to fil",
-      "page_number": 30
+      "refined_text": "Do not use generative AI features to seek legal, medical, financial, or other kinds of professional advice or any opinions, judgments, or recommendations without conducting your own independent consultation or research.. This is especially true if you try to use these features to generate outputs that are unrelated to your source document",
+      "page_number": 3
     },
     {
       "document": "Learn Acrobat - Request e-signatures_2.pdf",
       "refined_text": "Acrobat and Acrobat Reader support XML data signatures that are used to sign data in XML Forms Architectures (XFA) forms. The form author provides XML signing, validating, or clearing instructions for form events, such as button click, file save, or submit. Like PDF digital signatures, XML digital signatures ensure integrity, authentication, and non-repudiation in documents.",
       "page_number": 10
+    },
+    {
+      "document": "Learn Acrobat - Create and Convert_1.pdf",
+      "refined_text": "For longer, more complex, or heavily formatted documents, it’s better to create the source document in an application that offers more layout and formatting options, such as Adobe InDesign or Microsoft Word. You can create a blank PDF, rather than beginning with a file, a clipboard image, or scanning. This process can be useful for creating a one-page PDF",
+      "page_number": 11
+    },
+    {
+      "document": "Learn Acrobat - Share_2.pdf",
+      "refined_text": "Draw in the PDF: • To create a cloud or polygon shape, click to create the start point, move the pointer, and click to create each segment. To draw a line, arrow, or rectangle, either drag across the area where you want the markup to appear, or click twice: once to create the start point and once to create the end point.. To finish drawing the shape, click the start point, or right-click and choos",
+      "page_number": 9
+    },
+    {
+      "document": "Learn Acrobat - Edit_1.pdf",
+      "refined_text": "Manage list items using the list controls (bulleted and numbered) in the left Format panel. You can create lists and, conversely, convert a list item to a paragraph or change list types. Type new text to replace the selected text, or press Delete to remove it",
+      "page_number": 4
+    },
+    {
+      "document": "Learn Acrobat - Generative AI_2.pdf",
+      "refined_text": "Select the ellipsis from the top right and then select Ask AI Assistant. Select multiple files from third-party applications, and select Share > Adobe Acrobat > Ask AI Assistant. Open Acrobat, then select Try it now from the Try AI Assistant onboarding card in the home view",
+      "page_number": 7
     }
   ]
 }

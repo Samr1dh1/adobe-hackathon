@@ -1,75 +1,42 @@
 {
   "metadata": {
     "input_documents": [
-      "South of France - Traditions and Culture.pdf",
-      "South of France - Things to Do.pdf",
       "South of France - Cities.pdf",
-      "South of France - Tips and Tricks.pdf",
       "South of France - Cuisine.pdf",
       "South of France - History.pdf",
-      "South of France - Restaurants and Hotels.pdf"
+      "South of France - Restaurants and Hotels.pdf",
+      "South of France - Things to Do.pdf",
+      "South of France - Tips and Tricks.pdf",
+      "South of France - Traditions and Culture.pdf"
     ],
     "persona": "Travel Planner",
     "job_to_be_done": "Plan a trip of 4 days for a group of 10 college friends.",
-    "processing_timestamp": "2025-07-28T09:11:16.512794"
+    "processing_timestamp": "2025-07-28T13:14:57.598594"
   },
   "extracted_sections": [
     {
       "document": "South of France - Cities.pdf",
-      "section_title": "Key Attractions",
-      "importance_rank": 1,
-      "page_number": 3
-    },
-    {
-      "document": "South of France - Cities.pdf",
-      "section_title": "Overview of the Region",
-      "importance_rank": 2,
-      "page_number": 2
-    },
-    {
-      "document": "South of France - Cities.pdf",
       "section_title": "Travel Tips",
-      "importance_rank": 3,
+      "importance_rank": 1,
       "page_number": 2
     },
     {
       "document": "South of France - Cities.pdf",
-      "section_title": "Key Attractions (1)",
-      "importance_rank": 4,
-      "page_number": 3
-    },
-    {
-      "document": "South of France - Cities.pdf",
-      "section_title": "Local Experiences",
-      "importance_rank": 5,
-      "page_number": 3
+      "section_title": "Conclusion",
+      "importance_rank": 2,
+      "page_number": 14
     }
   ],
   "subsection_analysis": [
     {
       "document": "South of France - Cities.pdf",
-      "refined_text": "Local Experiences • Boat Trip to the Calanques : Take a boat trip to the Calanques, a series of stunning limestone cliﬀs and coves along the coast. Cultural Highlights Marseille is known for its vibrant arts scene, with numerous galleries, theaters, and music venues.. Fish Market at the Old Port : Visit the fish market at the Old Port to experience the local seafood culture",
-      "page_number": 3
-    },
-    {
-      "document": "South of France - Cities.pdf",
-      "refined_text": "This area is renowned for its diverse landscapes, from the sun-drenched beaches of the French Riviera to the rolling vineyards of Provence and the rugged Pyrenees mountains. The South of France is also famous for its cuisine, wines, and vibrant cultural scene.. The South of France, or \"Le Midi,\" encompasses the regions of Provence-Alpes-Côte d'Azur, Occitanie, and parts of Nouvelle-Aquitaine",
+      "refined_text": "Learning a few basic French phrases can enhance your travel experience..",
       "page_number": 2
     },
     {
       "document": "South of France - Cities.pdf",
-      "refined_text": "Renting a car is also a great option for exploring the countryside and smaller towns. Best Time to Visit : The best time to visit the South of France is during the spring (April to June) and fall (September to October) when the weather is pleasant, and the tourist crowds are smaller. Transportation : The region is well-connected by an extensive network of trains, buses, and flights",
-      "page_number": 2
-    },
-    {
-      "document": "South of France - Cities.pdf",
-      "refined_text": "Old Port (Vieux-Port) : The heart of Marseille, the Old Port has been a bustling harbor for over 2,600 years. Basilica of Notre-Dame de la Garde : This iconic basilica, perched on a hill overlooking the city, oﬀers panoramic views of Marseille and the Mediterranean Sea. Built in the 19th century, it is a symbol of the city's maritime heritage.",
-      "page_number": 3
-    },
-    {
-      "document": "South of France - Cities.pdf",
-      "refined_text": "Boat Trip to the Calanques : Take a boat trip to the Calanques, a series of stunning limestone cliﬀs and coves along the coast. Fish Market at the Old Port : Visit the fish market at the Old Port to experience the local seafood culture. Street Art in Cours Julien : Explore the vibrant street art scene in the Cours Julien district.",
-      "page_number": 3
+      "refined_text": "Whether you're exploring the vibrant streets of Marseille, the elegant boulevards of Aix-en-Provence, or the charming squares of Montpellier, you'll find a wealth of historical treasures and cultural experiences waiting to be discovered. Use this guide to plan your journey through the South of France and immerse yourself in the fascinating history and culture of this beautiful region..",
+      "page_number": 14
     }
   ]
 }
