@@ -4,47 +4,35 @@ A comprehensive PDF document processing system that extracts relevant informatio
 
 ## 🚀 Quick Start
 
-### 1. Install Dependencies
+### Install Dependencies
 ```bash
-python setup.py
-```
-
-### 2. Run the System
-```bash
-python main.py
-```
-
-### 3. Test the System
-```bash
-python test_system.py
+pip install --no-cache-dir -r requirements.txt
 ```
 
 ## 📁 Project Structure
 
 ```
 Challenge_1b/
-├── main.py                 # Main entry point
-├── setup.py               # Setup script
-├── test_system.py         # System test script
-├── requirements.txt       # Python dependencies
-├── Dockerfile            # Docker configuration
-├── input/                # Input challenges
+├── main.py                         # Main entry point
+├── requirements.txt                # Python dependencies
+├── Dockerfile                      # Docker configuration
+├── input/                          # Input challenges
 │   ├── Challenge1/
-│   │   ├── PDFs/         # PDF documents
+│   │   ├── PDFs/                   # PDF documents
 │   │   └── challenge1b_input.json
 │   └── Challenge2/
 │       ├── PDFs/
 │       └── challenge1b_input.json
-├── output/               # Generated outputs
-└── src/extractor/        # Core processing modules
-    ├── pdf_reader.py     # PDF text extraction
-    ├── chunker.py        # Text chunking
-    ├── relevance_scorer.py # Content relevance scoring
-    ├── summarizer.py     # Text summarization
-    ├── heading_detector.py # Heading detection
-    ├── title_generator.py # Section title generation
-    ├── json_builder.py   # Output JSON generation
-    └── pdf_reader_1a.py  # Advanced PDF processing
+├── output/                         # Generated outputs
+└── src/extractor/                  # Core processing modules
+    ├── pdf_reader.py               # PDF text extraction
+    ├── chunker.py                  # Text chunking
+    ├── relevance_scorer.py         # Content relevance scoring
+    ├── summarizer.py               # Text summarization
+    ├── heading_detector.py         # Heading detection
+    ├── title_generator.py          # Section title generation
+    ├── json_builder.py             # Output JSON generation
+    └── pdf_reader_1a.py            # Advanced PDF processing
 ```
 
 ## 🔧 System Features
@@ -63,7 +51,7 @@ Challenge_1b/
 - **Persona-aware filtering**: Tailors extraction to specific roles
 - **OCR fallback**: Uses Tesseract when PyMuPDF fails
 - **Diversity enforcement**: Ensures variety in extracted content
-- **Error handling**: Graceful degradation for problematic files
+- **Performance Optimized**: Uses multiprocessing for batch document parsing.
 
 ## 📊 Output Format
 
@@ -117,17 +105,10 @@ docker run -v $(pwd)/input:/app/input -v $(pwd)/output:/app/output challenge1b
 
 ### Common Issues
 
-1. **Import errors**: Run `python setup.py` to install dependencies
+1. **Import errors**: Run `pip install --no-cache-dir -r requirements.txt` to install dependencies
 2. **PDF processing errors**: Check if PDFs are corrupted or password-protected
 3. **OCR issues**: Ensure Tesseract is installed on your system
 4. **Path errors**: Make sure input/output directories exist
-
-### Testing
-
-Run the test suite to verify everything works:
-```bash
-python test_system.py
-```
 
 ## 📝 Input Format
 
