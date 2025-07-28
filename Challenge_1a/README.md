@@ -110,4 +110,4 @@ docker run --rm -v $(pwd)/input:/app/input:ro -v $(pwd)/output/:/app/output --ne
 - **Zero inclusion of body-sized spans**
 - **OCR fallback** for minimal text PDFs
 
-Built with ❤️ for the Adobe India Hackathon 2025.
+>Built with ❤️ for the Adobe India Hackathon 2025.

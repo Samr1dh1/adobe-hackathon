@@ -86,7 +86,7 @@ Each challenge generates its respective `*.json` output inside the `/output` dir
 - 🧩 Modular architecture with reusable components
 - ⚡ Multiprocessing for fast batch PDF processing
 - 📐 Layout-aware and OCR-resilient
-- 🌍 Multilingual friendly (Challenge 1A)
+- 🧠 Language-Agnostic Heuristic Parsing (Challenge 1A)
 - 🎯 High precision filtering and scoring (Challenge 1B)
 
 ---

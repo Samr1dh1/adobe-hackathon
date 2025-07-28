@@ -134,3 +134,5 @@ Example input JSON:
 - Extracts 5-10 most relevant sections
 - Generates summaries within 400 characters
 - Handles various PDF formats and layouts 
+
+>Built with ❤️ for the Adobe India Hackathon 2025.
